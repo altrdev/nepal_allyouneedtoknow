@@ -1,11 +1,20 @@
 baseurl = "https://nepal.allyouneedtoknow.tips/"
 theme = "hugo-sustain"
+defaultContentLanguage = "en"
 languageCode = "en-US"
 title = "Nepal all you need to know"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+
+[languages.en]
+  weight = 0
+  languageName = "English"
+
+[languages.it]
+  weight = 10
+  languageName = "Italian"
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
@@ -40,19 +49,36 @@ googleAnalytics = ""
   Medium        = "username"
   Telegram      = "username"
 
-## Main Menu
-[[menu.main]]
+## Main Menu English
+[[languages.en.menu.main]]
   name = "tips"
   identifier = "tips"
   weight = 100
   url = "/tips/"
-[[menu.main]]
+[[languages.en.menu.main]]
   name = "in-depth"
   weight = 200
   identifier = "in-depth"
   url = "/in-depth/"
-[[menu.main]]
+[[languages.en.menu.main]]
   name = "support"
+  identifier = "support"
+  weight = 300
+  url = "/support/"
+
+## Main Menu Italian
+[[languages.it.menu.main]]
+  name = "consigli"
+  identifier = "tips"
+  weight = 100
+  url = "/tips/"
+[[languages.it.menu.main]]
+  name = "approfondimenti"
+  weight = 200
+  identifier = "in-depth"
+  url = "/in-depth/"
+[[languages.it.menu.main]]
+  name = "supportaci"
   identifier = "support"
   weight = 300
   url = "/support/"
