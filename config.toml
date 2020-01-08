@@ -1,3 +1,58 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://nepal.allyouneedtoknow.tips/"
+theme = "hugo-sustain"
+languageCode = "en-US"
+title = "Nepal all you need to know"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.png"
+  author = "Alessandro Travi"
+  description = "Nepal all you need to know"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.author1]
+  name = "Alessandro"
+  Website = "https://altr.dev"
+  Twitter = "https://twitter.com/altrdev"
+  Instagram = "https://www.instagram.com/alessandro.travi/"
+
+[params.author2]
+  name = "Denise"
+  Website = "https://denisecaggio.wordpress.com/"
+  Twitter = ""
+  Instagram = "https://www.instagram.com/nonblonde.d/ "
+
+[params.social]
+  Github        = "username"
+  Email         = "email@example.com"
+  Twitter       = "username"
+  LinkedIn      = "username"
+  Stackoverflow = "username"
+  Medium        = "username"
+  Telegram      = "username"
+
+## Main Menu
+[[menu.main]]
+  name = "tips"
+  identifier = "tips"
+  weight = 100
+  url = "/tips/"
+[[menu.main]]
+  name = "in-depth"
+  weight = 200
+  identifier = "in-depth"
+  url = "/in-depth/"
+[[menu.main]]
+  name = "support"
+  identifier = "support"
+  weight = 300
+  url = "/support/"
