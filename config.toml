@@ -1,3 +1,4 @@
+baseURL = "https://nepal.allyouneedtoknow.tips/"
 theme = "hugo-sustain"
 defaultContentLanguage = "en"
 languageCode = "en-US"
@@ -11,13 +12,11 @@ googleAnalytics = ""
   weight = 0
   languageName = "English"
   contentDir = "content/english"
-  baseURL = "https://nepal.allyouneedtoknow.tips/"
 
 [languages.it]
   weight = 10
   languageName = "Italian"
   contentDir = "content/italian"
-  baseURL = "https://nepal.allyouneedtoknow.tips/it/"
 
 [permalinks] 
   post = "/:year/:month/:day/:slug"
