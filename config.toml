@@ -6,7 +6,7 @@ title = "Nepal all you need to know"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-156024128-1"
 
 [languages.en]
   weight = 0
