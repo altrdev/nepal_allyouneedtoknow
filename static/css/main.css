@@ -191,8 +191,29 @@ body {
 .text-muted {
 	color: #6b6b6b;
 }
-div.footer{
+div.footer {
   border-bottom: 20px solid #CB2E40;
+}
+.language-switch {
+  height: 21px;
+}
+.nav>li>div {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+}
+#dropdownMenu1 {
+  border-style: hidden;
+  padding: 6px 0px;
+}
+#dropdownMenu1:hover {
+  background-color: transparent;
+}
+#dropdownMenu1:focus {
+  background-color: transparent
+}
+#dropdownMenu1:active {
+  background-color: transparent;
 }
 /* Set the fixed height of the footer here */
 /*.footer {

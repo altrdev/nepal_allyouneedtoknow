@@ -10,11 +10,24 @@
     </div>
     <div class="navbar-collapse collapse" id="navbar">
       <ul class="nav navbar-nav navbar-right">
-      {{ if .Site.Menus.main }}
-        {{ range sort .Site.Menus.main }}
-        <li><a href="{{ .URL | absLangURL }}">{{ .Name | upper }}</a></li>
+        {{ if .Site.Menus.main }}
+          {{ range sort .Site.Menus.main }}
+          <li><a href="{{ .URL | absLangURL }}">{{ .Name | upper }}</a></li>
+          {{ end }}
         {{ end }}
-      {{ end }}
+        <li>
+          <div class="dropdown">
+            <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+              <img class="language-switch" src="{{ .Site.BaseURL }}img/change-lang.png">
+              <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+              {{ range $.Site.Home.AllTranslations }}
+                <li><a href="#" onclick="setLanguage({{ .Permalink }}, {{ .Lang }})">{{ .Language.LanguageName }}</a></li>
+              {{ end }}
+            </ul>
+          </div>
+        </li>
       </ul>
     </div>
   </div>

@@ -6,17 +6,17 @@ title = "Nepal all you need to know"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-156024128-1"
 
 [languages.en]
   weight = 0
   languageName = "English"
-  contentDir = "content/english"
+  contentDir = "content/en"
 
 [languages.it]
   weight = 10
   languageName = "Italian"
-  contentDir = "content/italian"
+  contentDir = "content/it"
 
 [permalinks] 
   post = "/:year/:month/:day/:slug"
@@ -43,13 +43,9 @@ googleAnalytics = ""
   Instagram = "https://www.instagram.com/nonblonde.d/"
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
   Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
+  Instagram     = "username"
+  Facebook      = "username"
 
 ## Main Menu English
 [[languages.en.menu.main]]
@@ -61,9 +57,9 @@ googleAnalytics = ""
   weight = 200
   url = "/in-depth/"
 [[languages.en.menu.main]]
-  name = "support"
+  name = "donate"
   weight = 300
-  url = "/support/"
+  url = "/donate/"
 
 ## Main Menu Italian
 [[languages.it.menu.main]]
@@ -75,6 +71,6 @@ googleAnalytics = ""
   weight = 200
   url = "/approfondimenti/"
 [[languages.it.menu.main]]
-  name = "supportaci"
+  name = "donazioni"
   weight = 300
-  url = "/supportaci/"
+  url = "/donazioni/"
