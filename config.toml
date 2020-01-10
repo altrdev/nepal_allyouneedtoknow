@@ -61,9 +61,9 @@ googleAnalytics = ""
   weight = 200
   url = "/in-depth/"
 [[languages.en.menu.main]]
-  name = "support"
+  name = "donate"
   weight = 300
-  url = "/support/"
+  url = "/donate/"
 
 ## Main Menu Italian
 [[languages.it.menu.main]]
@@ -75,6 +75,6 @@ googleAnalytics = ""
   weight = 200
   url = "/approfondimenti/"
 [[languages.it.menu.main]]
-  name = "supportaci"
+  name = "donazioni"
   weight = 300
-  url = "/supportaci/"
+  url = "/donazioni/"
