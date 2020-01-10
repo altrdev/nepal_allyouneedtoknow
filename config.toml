@@ -11,12 +11,12 @@ googleAnalytics = ""
 [languages.en]
   weight = 0
   languageName = "English"
-  contentDir = "content/english"
+  contentDir = "content/en"
 
 [languages.it]
   weight = 10
   languageName = "Italian"
-  contentDir = "content/italian"
+  contentDir = "content/it"
 
 [permalinks] 
   post = "/:year/:month/:day/:slug"
@@ -43,13 +43,9 @@ googleAnalytics = ""
   Instagram = "https://www.instagram.com/nonblonde.d/"
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
   Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
+  Instagram     = "username"
+  Facebook      = "username"
 
 ## Main Menu English
 [[languages.en.menu.main]]

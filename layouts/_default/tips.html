@@ -1,11 +1,12 @@
 <section id="tips">
   <div class="container">
     <h3>
-      <strong><a href="{{ .Permalink }}">{{ .Site.Data.tips.name }}</a></strong>
+      {{ $data := index .Site.Data .Site.Language.Lang }}
+      <strong><a href="{{ .Permalink }}">{{ $data.tips.name }}</a></strong>
     </h3>
     <div class="panel panel-default">
       <div class="panel-body">
-      {{ range $i, $el := .Site.Data.tips.source }}
+      {{ range $i, $el := $data.tips.source }}
         <h5>
           <i class="{{ .icon }}"></i>&nbsp;&nbsp;
           <strong><a href="#">Tip {{ add $i 1 }}</a></strong>&nbsp;-&nbsp;{{ $el.description }}
