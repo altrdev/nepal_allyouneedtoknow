@@ -1,3 +1,4 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
 {{ partial "head" . }}
   <body>
     <div id="wrap">
@@ -13,7 +14,7 @@
             <div class="row">
               <div class="col-sm-4 col-md-4 col-lg-4">
                 <h5 style="text-align: right">
-                  {{ .Date.Format "January 2, 2006" }}
+                  {{ .Date.Day }} {{ index $data.months (printf "%d" .Date.Month) }} {{ .Date.Year }}
                 </h5>
                 </div>
                 <div class="col-sm-8 col-md-8 col-lg-8">
