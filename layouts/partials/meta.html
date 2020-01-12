@@ -102,6 +102,7 @@
       },
       "datePublished": "{{ .Date.Format "2006-01-02" }}",
       "description": {{ .Description }},
+      "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}],
       "wordCount": {{ .WordCount }},
       "mainEntityOfPage": "True",
       "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
@@ -125,7 +126,8 @@
     { 
         "@context": "http://schema.org", 
         "@type": "WebSite", 
-        "url": "{{ .Permalink }}", 
+        "url": "{{ .Permalink }}",
+        "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}], 
         "sameAs": [
             "https://www.facebook.com/{{ .Site.Params.social.Facebook }}", 
             "https://twitter.com/{{ .Site.Params.social.Twitter }}",
@@ -136,5 +138,38 @@
     }
     </script>
 {{ end }}
+
+<!-- Robots metadata -->
+<meta name="robots" content="index,follow" /> 
+<meta name="googlebot" content="index,follow" />
+
+<!-- Social tag metadata -->
+<meta name="twitter:site" content="{{ .Site.Params.social.Twitter }}">
+<meta name="twitter:creator" content="{{ .Site.Params.social.Twitter }}" />
+<!--<meta property="fb:app_id" content="538089519640705" />
+<meta property="fb:admins" content="100000686899395" />-->
+
+<!-- Manifest File -->
+<link rel="manifest" href="{{ .Site.BaseURL }}manifest.json" />
+
+<!-- Theme Color metadata -->
+<meta name="theme-color" content="{{ .Site.Params.theme_color }}" /> 
+<meta name="msapplication-TileColor" content="{{ .Site.Params.theme_color }}" />
+
+<!-- Other metadata -->
+{{ with .Params.tags }}
+<meta name="keywords" content="{{ delimit . ", " }}" />   
+{{ end }}
+<meta name="imagemode" content="force" />
+<meta name="coverage" content="Worldwide" /> 
+<meta name="distribution" content="Global" />
+<meta name="HandheldFriendly" content="True" /> 
+<meta name="msapplication-tap-highlight" content="no" />
+<meta name="apple-mobile-web-app-title" content="{{ .Site.Params.sitename }}" /> 
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-touch-fullscreen" content="yes" /> 
+
+
 
 

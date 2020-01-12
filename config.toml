@@ -30,6 +30,7 @@ googleAnalytics = "UA-156024128-1"
   custom_css = []
   custom_js  = []
   metadata_allowed_blog = ["in-depth", "approfondimenti"]
+  theme_color = "#CB2E40"
 
 [params.author1]
   name = "Alessandro"
