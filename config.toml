@@ -29,6 +29,7 @@ googleAnalytics = "UA-156024128-1"
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
   custom_js  = []
+  metadata_allowed_blog = ["in-depth", "approfondimenti"]
 
 [params.author1]
   name = "Alessandro"
