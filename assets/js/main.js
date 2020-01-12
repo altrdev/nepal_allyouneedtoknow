@@ -38,5 +38,3 @@ function setLanguage(baseUrl, lang) {
     setCookie("lang", lang, 7);
     location.href = baseUrl;
 }
-
-

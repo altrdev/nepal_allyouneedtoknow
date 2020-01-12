@@ -49,6 +49,11 @@
           </div>
           <hr>
         {{ partial "disqus" . }}
+        <script>
+          var disqus_config = function () { 
+            this.language = "{{ .Lang }}";
+          };
+        </script>
         </div>
       </div>
       {{ end }}
