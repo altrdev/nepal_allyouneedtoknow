@@ -1,3 +1,14 @@
+<!-- Manifest and favicon files -->
+<link rel="shortcut icon" type="image/x-icon" href="{{ .Site.BaseURL }}img/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.BaseURL }}img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.BaseURL }}img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}img/favicon-16x16.png">
+<link rel="manifest" href="{{ .Site.BaseURL }}img/site.webmanifest">
+
+<!-- Theme Color metadata -->
+<meta name="theme-color" content="{{ .Site.Params.theme_color }}" /> 
+<meta name="msapplication-TileColor" content="{{ .Site.Params.theme_color }}" />
+
 <!-- Title metadata -->
 {{ $finalTitle := .Site.Title }}
 {{ if not .IsHome }}
@@ -148,13 +159,6 @@
 <meta name="twitter:creator" content="{{ .Site.Params.social.Twitter }}" />
 <!--<meta property="fb:app_id" content="538089519640705" />
 <meta property="fb:admins" content="100000686899395" />-->
-
-<!-- Manifest File -->
-<link rel="manifest" href="{{ .Site.BaseURL }}manifest.json" />
-
-<!-- Theme Color metadata -->
-<meta name="theme-color" content="{{ .Site.Params.theme_color }}" /> 
-<meta name="msapplication-TileColor" content="{{ .Site.Params.theme_color }}" />
 
 <!-- Other metadata -->
 {{ with .Params.tags }}
