@@ -17,8 +17,9 @@ jQuery(document).ready(function(e) {
     } 
 
     lang = getCookie("lang");
-    if(lang === "it" && window.location.pathname.split('/')[1] != "it") {
-        location.href = '/it';
+    if(lang != document.getElementsByTagName("html")[0].lang) {
+        var languageLink = document.getElementById("translate_page_" + lang).href;
+        location.href = languageLink;
     }
 
 });
@@ -34,7 +35,8 @@ function getCookie(name) {
     return v ? v[2] : null;
 }
 
-function setLanguage(baseUrl, lang) {
+function setLanguage(lang) {
     setCookie("lang", lang, 7);
-    location.href = baseUrl;
+    var languageLink = document.getElementById("translate_page_" + lang).href;
+    location.href = languageLink;
 }

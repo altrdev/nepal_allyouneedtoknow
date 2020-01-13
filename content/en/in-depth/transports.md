@@ -8,6 +8,7 @@ date: 2020-01-07
 categories: [ transports ]
 highlight: true
 markup: blackfriday
+translationKey: transports
 ---
 
 ## Introduction to Nepali transports

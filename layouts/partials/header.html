@@ -23,7 +23,7 @@
             </button>
             <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
               {{ range $.Site.Home.AllTranslations }}
-                <li><a href="#" onclick="setLanguage({{ .Permalink }}, {{ .Lang }})">{{ .Language.LanguageName }}</a></li>
+                <li><a href="#" onclick="setLanguage('{{ .Lang }}')">{{ .Language.LanguageName }}</a></li>
               {{ end }}
             </ul>
           </div>

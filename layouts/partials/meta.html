@@ -44,7 +44,7 @@
 <meta property="og:locale" content="{{ .Language.Lang }}">
 <meta name="language" content="{{ .Language.LanguageName }}">
 {{ range .AllTranslations }}
-  <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+  <link id="translate_page_{{ .Language.Lang }}" rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
 {{ end }}
 
 <!-- Image metadata -->
@@ -132,7 +132,7 @@
   </script>
 {{ else }}
     <meta property="og:type" content="website" /> 
-    <meta name="author" content="{{ .Site.Params.author }}" />
+    <meta name="author" content='{{ i18n "co-authored" }} {{ .Site.Params.author }}' />
     <script defer type="application/ld+json">
     { 
         "@context": "http://schema.org", 
