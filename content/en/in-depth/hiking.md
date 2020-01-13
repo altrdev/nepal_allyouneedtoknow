@@ -9,6 +9,7 @@ categories: [ hiking ]
 highlight: true
 image: /img/change-lang.png
 markup: blackfriday
+translationKey: hiking
 ---
 
 

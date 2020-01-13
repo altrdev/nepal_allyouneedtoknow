@@ -3,6 +3,7 @@ title: Donazioni
 date: 2020-01-09T19:58:05+01:00
 markup: blackfriday
 layout: plain
+translationKey: donate
 ---
 
 ### Tramite questa pagina puoi donare usando `Paypal` per supportare il continuo sviluppo di `allyouneedtoknow.tips` ed incrementare la copertura delle varie nazioni.
