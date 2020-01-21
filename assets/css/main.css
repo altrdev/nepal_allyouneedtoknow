@@ -215,6 +215,9 @@ div.footer {
 #dropdownMenu1:active {
   background-color: transparent;
 }
+.g-recaptcha {
+  display: inline-block;
+}
 /* Set the fixed height of the footer here */
 /*.footer {
   height: 50px;
