@@ -49,16 +49,23 @@ const processForm = form => {
     })
     .then(() => {
         $('#modalContact').modal('toggle');
-        $("#success-alert").fadeTo(2000, 500).slideUp(500, function(){
+        $("#success-alert").fadeTo(3000, 500).slideUp(500, function(){
             $("#success-alert").slideUp(500);
         });
         form.reset();
+        if(window.grecaptcha) {
+            grecaptcha.reset();
+        }
     })
     .catch(error => {
         $('#modalContact').modal('toggle');
-        $("#error-alert").fadeTo(2000, 500).slideUp(500, function(){
+        $("#error-alert").fadeTo(3000, 500).slideUp(500, function(){
             $("#error-alert").slideUp(500);
         });
+        form.reset();
+        if(window.grecaptcha) {
+            grecaptcha.reset();
+        }
     })
 }
 
