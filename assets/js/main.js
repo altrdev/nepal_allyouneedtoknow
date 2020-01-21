@@ -40,3 +40,31 @@ function setLanguage(lang) {
     var languageLink = document.getElementById("translate_page_" + lang).href;
     location.href = languageLink;
 }
+
+const processForm = form => {
+    const data = new FormData(form)
+    fetch('/', {
+      method: 'POST',
+      body: data,
+    })
+    .then(() => {
+        $('#modalContact').modal('toggle');
+        $("#success-alert").fadeTo(2000, 500).slideUp(500, function(){
+            $("#success-alert").slideUp(500);
+        });
+    })
+    .catch(error => {
+        $('#modalContact').modal('toggle');
+        $("#error-alert").fadeTo(2000, 500).slideUp(500, function(){
+            $("#error-alert").slideUp(500);
+        });
+    })
+}
+
+const contactForm = document.querySelector('.contact-form')
+if (contactForm) {
+    contactForm.addEventListener('submit', e => {
+        e.preventDefault();
+        processForm(contactForm);
+    })
+}

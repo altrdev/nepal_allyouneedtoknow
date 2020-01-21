@@ -18,3 +18,15 @@ other = "Message"
 
 [contact-send]
 other = "Send"
+
+[contact-alert-success]
+other = "Success"
+
+[contact-alert-success-message]
+other = "We received your message and we will reply as soon as possible"
+
+[contact-alert-error]
+other = "Error"
+
+[contact-alert-error-message]
+other = "An unexpected error occurred, please try again"

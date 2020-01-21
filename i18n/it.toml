@@ -18,3 +18,15 @@ other = "Messaggio"
 
 [contact-send]
 other = "Invia"
+
+[contact-alert-success]
+other = "Successo"
+
+[contact-alert-success-message]
+other = "Abbiamo ricevuto il tuo messaggio e ti risponderemo il prima possibile"
+
+[contact-alert-error]
+other = "Errore"
+
+[contact-alert-error-message]
+other = "Si è verificato un errore inatteso, riprova ad inviare il messaggio"
