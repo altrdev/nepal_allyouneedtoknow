@@ -1,2 +1,17 @@
 [co-authored]
 other = "co-autori"
+
+[contact-name]
+other = "Nome"
+
+[contact-email]
+other = "Indirizzo email"
+
+[contact-email-help]
+other = "Non condivideremo il tuo indirizzo email con nessuno."
+
+[contact-message]
+other = "Messaggio"
+
+[contact-send]
+other = "Invia"
