@@ -15,16 +15,16 @@
                     </p>
                     <div class="form-group">
                         <label for="formName">{{ i18n "contact-name" }}</label>
-                        <input type="text" class="form-control" id="formName" required>
+                        <input type="text" class="form-control" id="formName" name="name" required>
                     </div>
                     <div class="form-group">
                         <label for="formEmail">{{ i18n "contact-email" }}</label>
-                        <input type="email" class="form-control" id="formEmail" placeholder="name@example.com" required>
+                        <input type="email" class="form-control" id="formEmail" name="email" placeholder="name@example.com" required>
                         <small id="emailHelp" class="form-text text-muted">{{ i18n "contact-email-help" }}</small>
                     </div>
                     <div class="form-group">
                         <label for="formMessage">{{ i18n "contact-message" }}</label>
-                        <textarea class="form-control" id="formMessage" rows="3" style="resize:vertical;" required></textarea>
+                        <textarea class="form-control" id="formMessage" name="message" rows="3" style="resize:vertical;" required></textarea>
                     </div>
                     <div data-netlify-recaptcha="true"></div>
                 </div>
