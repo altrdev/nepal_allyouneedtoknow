@@ -45,7 +45,7 @@ googleAnalytics = "UA-156024128-1"
   Instagram = "https://www.instagram.com/nonblonde.d/"
 
 [params.social]
-  Email     = "yes"
+  Email     = "netlify"
   Twitter   = "allyouneedtok"
   Instagram = "allyouneedtoknow.tips"
   Facebook  = "All-you-need-to-know-107668107442136"

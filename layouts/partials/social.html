@@ -1,7 +1,11 @@
 <div class="social">
   <ul class="social-links">
     {{ if .Site.Params.Social.Email }}
-      <li><a data-toggle="modal" href="#modalContact"><i class="fa fa-envelope"></i></a></li>
+      {{ if eq .Site.Params.Social.Email "netlify"}}
+        <li><a data-toggle="modal" href="#modalContact"><i class="fa fa-envelope"></i></a></li>
+      {{ else }}
+        <li><a href="mailto:{{ .Site.Params.Social.Email }}"><i class="fa fa-envelope"></i></a></li>
+      {{ end }}
     {{ end }}
 
     {{ if .Site.Params.Social.Github }}
