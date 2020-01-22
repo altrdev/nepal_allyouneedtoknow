@@ -27,12 +27,6 @@
       {{ template "_internal/google_analytics.html" . }}
     {{ end }}
     {{ if and (not (in (.Site.BaseURL | string) "localhost")) (.Site.Params.google_adsense) }}
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "{{ .Site.Params.google_adsense }}",
-          enable_page_level_ads: true
-        });
-      </script>
+      <script data-ad-client="{{ .Site.Params.google_adsense }}" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     {{ end }}
   </head>
