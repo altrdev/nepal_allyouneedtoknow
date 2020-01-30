@@ -21,9 +21,44 @@ source:
   - icon: fa fa-cutlery
     description: Do not use your left hand to eat, local people believe it's bad as left hand is used to cleanse your bottom after poo-poo.
 
+  - icon: fa fa-cutlery
+    description: Like everything in Nepal, cuisine is also the result of several influences. Chinese, Tibetan and Indian definitely are the strongest.
+
   - icon: fa fa-money
     description: Bring some cash with you if you're arriving by flight. You will be asked to pay for your VISA at the airport and credit cards do not usually work. Both Nepali Rupees and US Dollars are OK.
 
   - icon: fa fa-money
     description: Nepalese Rupees (NRP) is the official local currency.
-    <a href=https://www.xe.com/currencyconverter/> Real time converter </a>
+  
+  - icon: fa fa-bus
+    description: There are 3 main categories for buses. 1) Local buses - the more real ones, always overcrowded; 2) Tourist buses - do not get that 'tourist' wrong, there's nothing comfortable there. They run longer distances; 3) Private companies buses - very much suggested when going from a region to another.
+
+  - icon: fa fa-bus
+    description: Greenline is the most known private bus company especially for the Kathmandu-Pokhara trait. This trip costs $25pp a/r. It takes 7 to 8 hours to get from Katmandu to Pokhara (or vice versa) but they stop in a clean place for lunch (included in the price).
+
+  - icon: fa fa-bus
+    description: Tourist buses stop for toilet breaks. They have scheduled calls but anyone can even ask for an additional stop when needed.
+
+  - icon: fa fa-bus
+    description: You won't need a ticket to get on local or tourist buses. You will pay directly on the bus (by cash obviously).
+
+  - icon: fa fa-bus
+    description: Every bus has its boss. These guys act as PR, space managers, cash counters and God only knows what else. They will come to you asking for payment and they will also decide where you have to sit or stand on the bus.
+
+  - icon: fa fa-bus
+    description: As a tourist, you will probably being charged for double the price local people pay for a ride. It's something annoying, but prices are very low and 'bus bosses' are usually not the type of person you would like to argue with, so that's fine.
+
+  - icon: fa fa-bus
+    description: If you're traveling with your backpack, remember to protect it with the rain cover before getting on the bus. If there won't be enough space for both you and your backback onboard, it will be either underneath the bus or outside on its ceiling. Both are not-so-clean options.
+
+  - icon: fa fa-coffee
+    description: You will drink at least one tea a day. Tea is harvested in the Eastern region and hightly consumed everywhere in the Country.
+
+  - icon: fa fa-coffee
+    description: Black tea is the most common type, but Masala Tea is the real speciality. It's basically black tea with spices, served with sugar and milk (but you can have it without milk too). Delicious!
+  
+  - icon: fa fa-tint
+    description: People in Nepal drink a lot of tea also because water is not safe. As an alternative, especially on Hymalaya, people drink plain hot water.
+
+  - icon: fa fa-trash-o
+    description: 
