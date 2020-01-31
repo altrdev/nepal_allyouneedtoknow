@@ -28,7 +28,7 @@ source:
     description: Bring some cash with you if you're arriving by flight. You will be asked to pay for your VISA at the airport and credit cards do not usually work. Both Nepali Rupees and US Dollars are OK.
 
   - icon: fa fa-money
-    description: Nepalese Rupees (NRP) is the official local currency. <a href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=NPR&To=USDR" target="_blank">Check real time exchange here</a> 
+    description: Nepalese Rupees (NPR) is the official local currency. Check real time exchange <a href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=NPR&To=USDR" target="_blank">here</a> 
   
   - icon: fa fa-bus
     description: There are 3 main categories for buses. 1) Local buses - the more real ones, always overcrowded; 2) Tourist buses - do not get that 'tourist' wrong, there's nothing comfortable there. They run longer distances; 3) Private companies buses - very much suggested when going from a region to another.
