@@ -9,7 +9,7 @@
       {{ range $i, $el := $data.tips.source }}
         <h5>
           <i class="{{ .icon }}"></i>&nbsp;&nbsp;
-          <strong><a href="#">Tip {{ add $i 1 }}</a></strong>&nbsp;-&nbsp;{{ $el.description }}
+          <strong><a href="#">Tip {{ add $i 1 }}</a></strong>&nbsp;-&nbsp;{{ $el.description | safeHTML }}
         </h5>
       {{ end }}
       </div>
