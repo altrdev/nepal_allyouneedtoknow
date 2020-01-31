@@ -1,18 +1,32 @@
-<section id="tips">
-  <div class="container">
-    <h3>
-      {{ $data := index .Site.Data .Site.Language.Lang }}
-      <strong><a href="{{ .Permalink }}">{{ $data.tips.name }}</a></strong>
-    </h3>
-    <div class="panel panel-default">
-      <div class="panel-body">
-      {{ range $i, $el := $data.tips.source }}
-        <h5>
-          <i class="{{ .icon }}"></i>&nbsp;&nbsp;
-          <strong><a href="#">Tip {{ add $i 1 }}</a></strong>&nbsp;-&nbsp;{{ $el.description | safeHTML }}
-        </h5>
-      {{ end }}
-      </div>
+{{ partial "head" . }}
+  <body>
+    <div id="wrap">
+      <!-- Header -->
+      {{ partial "header" . }}
+
+      <section id="tips">
+        <div class="container">
+          <h3>
+            {{ $data := index .Site.Data .Site.Language.Lang }}
+            <strong><a href="{{ .Permalink }}">{{ $data.tips.name }}</a></strong>
+          </h3>
+          <div class="panel panel-default">
+            <div class="panel-body">
+            {{ range $i, $el := $data.tips.source }}
+              <h5>
+                <i class="{{ .icon }}"></i>&nbsp;&nbsp;
+                <strong><a href="#">Tip {{ add $i 1 }}</a></strong>&nbsp;-&nbsp;{{ $el.description | safeHTML }}
+              </h5>
+            {{ end }}
+            </div>
+          </div>
+        </div>
+      </section>
     </div>
-  </div>
-</section>
+
+    <!-- Footer -->
+    {{ partial "footer" . }}
+    
+  </body>
+</html>
+
