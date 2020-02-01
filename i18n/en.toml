@@ -30,3 +30,6 @@ other = "Error"
 
 [contact-alert-error-message]
 other = "An unexpected error occurred, please try again"
+
+[articles]
+other = "Articles"

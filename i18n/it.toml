@@ -30,3 +30,6 @@ other = "Errore"
 
 [contact-alert-error-message]
 other = "Si è verificato un errore inatteso, riprova ad inviare il messaggio"
+
+[articles]
+other = "Articoli"
