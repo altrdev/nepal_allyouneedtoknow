@@ -225,15 +225,18 @@ div.footer {
 .g-recaptcha {
   display: inline-block;
 }
-/* Set the fixed height of the footer here */
-/*.footer {
-  height: 50px;
-  padding-bottom: 15px;
-  
-}*/
-
 footer{ 
   position:absolute; 
   bottom:0; 
   width:100%; 
+}
+
+.flag-image {
+  width: 120px;
+}
+
+@media only screen and (max-width: 400px) {
+  .flag-image {
+    width: 70px;
+  }
 }
