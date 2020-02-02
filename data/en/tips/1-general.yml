@@ -1,0 +1,19 @@
+name: General
+source:
+  - icon: fa fa-map-o
+    description: Most people suggest to use Maps.me as an offline map. We have found it useful for moving around cities but Osmand is much better for trekking routes.
+
+  - icon: fa fa-credit-card
+    description: No hostel accepts pre online payment nor credit card, neither those that say they do on booking.com.
+
+  - icon: fa fa-money
+    description: Don't trust prices on booking.com. When in Nepal you will probably be charged more than expected. That's why it might be worth it not to book in advance and find a room directly on site.
+  
+  - icon: fa fa-thermometer-0
+    description: There's no heating in Nepali houses, so make sure to have warm nightwear.
+
+  - icon: fa fa-money
+    description: Bring some cash with you if you're arriving by flight. You will be asked to pay for your VISA at the airport and credit cards do not usually work. Both Nepali Rupees and US Dollars are OK.
+
+  - icon: fa fa-money
+    description: Nepalese Rupees (NPR) is the official local currency. Check real time exchange <a href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=NPR&To=USDR" target="_blank">here</a> 

@@ -1,0 +1,6 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ $url := ref . (dict "path" "tips.md" "lang" .Site.Language.Lang) }}
+
+{{ range $data.tips }}
+  <a href="{{ $url }}#{{.name}}" style="margin: 0px 4px">{{ .name }}</a>
+{{ end }}

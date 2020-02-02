@@ -1,0 +1,4 @@
+name: Trekking
+source:
+  - icon: fa fa-map-o
+    description: Most people suggest to use Maps.me but we found Osmand much more useful, especially for trekking routes
