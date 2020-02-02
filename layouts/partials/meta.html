@@ -23,10 +23,7 @@
 <meta property="og:site_name" content="{{ $finalTitle }}" />
 
 <!-- Description metadata -->
-{{ $finalDescription := .Site.Params.Description }}
-{{ if not .IsHome }}
-  {{ $finalDescription = .Params.description }}
-{{ end }}
+{{ $finalDescription := .Params.description }}
 
 <meta name="description" content="{{ $finalDescription }}" />
 <meta itemprop="description" content="{{ $finalDescription }}" />
