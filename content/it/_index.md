@@ -16,6 +16,4 @@ Se stai progettando un `trekking in Nepal` e vuoi viaggiare senza soldi sei nel 
 
 <hr>
 
-## Scopri i nostri consigli per il tuo viaggo in Nepal:
-
-{{< tips-category >}}
+{{< tips-category "consigli.md" >}}

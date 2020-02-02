@@ -16,4 +16,4 @@ If you're planning your solo trip and you're `travelling on a budget`, this is t
 
 <hr>
 
-{{< tips-category >}}
+{{< tips-category "tips.md" >}}
