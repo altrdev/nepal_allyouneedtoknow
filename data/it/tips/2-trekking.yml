@@ -1,4 +1,4 @@
 name: Trekking
 source:
-  - icon: fa fa-credit-card
-    description: TODO
+  - icon: fa fa-map-o
+    description: Molte persone consigliano di usare Maps.me ma abbiamo trovato Osmand più utile, specialmente per i trekking.

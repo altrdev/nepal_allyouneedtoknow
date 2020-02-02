@@ -1,7 +1,7 @@
 name: Food
 source:
   - icon: fa fa-cutlery
-    description: Nepali cousine is perfect for vegeterians and vegan as it's mainly plant based (with rice).
+    description: Nepali cuisine is perfect for vegetarians and vegan as it's mainly plant based (with rice).
 
   - icon: fa fa-cutlery
     description: Dal Baht is essential in Nepali cousine. It's a dish of plain rice (Baht) with lentils soup (Dal) and vegetables. This meal is served lunch and dinner in each local family, and Nepali people usually eat it using hands.
@@ -11,11 +11,12 @@ source:
 
   - icon: fa fa-cutlery
     description: Like everything in Nepal, cuisine is also the result of several influences. Chinese, Tibetan and Indian definitely are the strongest.
+  
   - icon: fa fa-coffee
-    description: You will drink at least one tea a day. Tea is harvested in the Eastern region and hightly consumed everywhere in the Country.
+    description: You will drink at least one tea a day. Tea is harvested in the Eastern region and highly consumed everywhere in the Country.
 
   - icon: fa fa-coffee
     description: Black tea is the most common type, but Masala Tea is the real speciality. It's basically black tea with spices, served with sugar and milk (but you can have it without milk too). Delicious!
   
   - icon: fa fa-tint
-    description: People in Nepal drink a lot of tea also because water is not safe. As an alternative to tea, especially in the Hymalayan region, people drink plain hot water.
+    description: People in Nepal drink a lot of tea also because water is not safe. As an alternative to tea, especially in the Himalayan region, people drink plain hot water.

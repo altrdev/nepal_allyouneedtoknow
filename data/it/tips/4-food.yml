@@ -1,4 +1,22 @@
 name: Cibo
 source:
-  - icon: fa fa-credit-card
-    description: TODO
+  - icon: fa fa-cutlery
+    description: La cucina nepalese è perfetta per vegetariani e vegani in quanto è principalmente a base vegetale (con riso).
+
+  - icon: fa fa-cutlery
+    description: Il Dal Baht è il piatto principale nepalese. È un piatto di riso bianco (Baht) con zuppa di lenticchie (Dal) e verdure. Questo pasto viene servito a pranzo e cena in ogni famiglia locale e di solito i nepalesi lo mangiano con le mani.
+
+  - icon: fa fa-cutlery
+    description: Non utilizzate la mano sinistra per mangiare. Questa usanza, deriva dal fatto che la mano sinistra è dedicata alla pulizia del corpo.
+
+  - icon: fa fa-cutlery
+    description: Come ogni cosa in Nepal, anche la cucina è il risultato di diverse influenze. Cinese, tibetana e indiana sono sicuramente le più forti.
+  
+  - icon: fa fa-coffee
+    description: Probabilmente berrete almeno un tè al giorno. Il tè viene raccolto nella regione orientale e consumato ovunque nel paese.
+
+  - icon: fa fa-coffee
+    description: Il tè nero è quello più comune, ma il tè Masala è la vera specialità. È fondamentalmente tè nero con spezie, servito con zucchero e latte (ma puoi prenderlo anche senza latte). Delizioso!
+  
+  - icon: fa fa-tint
+    description: Le persone in Nepal bevono molto tè anche perché l'acqua non è sicura. In alternativa al tè, specialmente nella regione dell'Himalaya, non è difficile vedere persone che bevono acqua calda.

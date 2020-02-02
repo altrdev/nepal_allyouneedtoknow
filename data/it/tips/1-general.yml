@@ -1,4 +1,19 @@
 name: Generali
 source:
+  - icon: fa fa-map-o
+    description: Molte persone consigliano di utilizzare Maps.me come applicazione per la navigazione offline. L'abbiamo trovato effettivamente utile per muoversi in città ma abbiamo preferito Osmand per i trekking.
+
   - icon: fa fa-credit-card
-    description: TODO
+    description: Nessun ostello accetta pagamenti online anticipati, anche se su booking.com viene detto il contrario.
+
+  - icon: fa fa-money
+    description: Non fidatevi dei prezzi esposti su booking.com. Quando sarete in Nepal, pagherete più di quello che pensavate. Ecco perché potrebbe valere la pena non prenotare in anticipo e trovare una camera direttamente sul posto.
+  
+  - icon: fa fa-thermometer-0
+    description: Non c'è riscaldamento nelle case nepalesi, quindi, se viaggiate in inverno, assicuratevi di avere indumenti da notte caldi.
+
+  - icon: fa fa-money
+    description: Portatevi dei contanti se arrivate in Nepal tramite aereo. Il visto va pagato direttamente all'arrivo in aeroporto e il pagamento tramite carte di credito molte volte non funziona. Potete pagare in Rupie nepalesi, Euro o Dollari americani.
+
+  - icon: fa fa-money
+    description: La Rupia nepalese (NPR) è la moneta ufficiale. Controlla il cambio attuale <a href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=NPR&To=EUR" target="_blank">qui</a>.
