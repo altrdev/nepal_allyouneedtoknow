@@ -6,20 +6,22 @@
 
       <section id="tips">
         <div class="container">
-          <h3>
-            {{ $data := index .Site.Data .Site.Language.Lang }}
-            <strong><a href="{{ .Permalink }}">{{ $data.tips.name }}</a></strong>
-          </h3>
-          <div class="panel panel-default">
-            <div class="panel-body">
-            {{ range $i, $el := $data.tips.source }}
-              <h5>
-                <i class="{{ .icon }}"></i>&nbsp;&nbsp;
-                <strong><a href="#">Tip {{ add $i 1 }}</a></strong>&nbsp;-&nbsp;{{ $el.description | safeHTML }}
-              </h5>
-            {{ end }}
+          {{ $data := index .Site.Data .Site.Language.Lang }}
+          {{ range $data.tips }}
+            <h3>
+              <strong><a name="{{ .name }}" href="#{{ .name }}">{{ .name }}</a></strong>
+            </h3>
+            <div class="panel panel-default">
+              <div class="panel-body">
+              {{ range $i, $el := .source }}
+                <h5>
+                  <i class="{{ .icon }}"></i>&nbsp;&nbsp;
+                  <strong><a href="#">Tip {{ add $i 1 }}</a></strong>&nbsp;-&nbsp;{{ $el.description | safeHTML }}
+                </h5>
+              {{ end }}
+              </div>
             </div>
-          </div>
+          {{ end }}
         </div>
       </section>
     </div>

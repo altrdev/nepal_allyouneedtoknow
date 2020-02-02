@@ -9,6 +9,6 @@ description: Consigli di viaggio per un viaggio fai da te in Nepal. Tutto quello
 
 <br>
 
-Qui trovi tutto quello che devi sapere per un viaggio fai da te tra Kathmandu e le vette dell'Annapurna. 
+Qui trovi `tutto quello che devi sapere` per un viaggio fai da te tra Kathmandu e le vette dell'Annapurna. 
 
-Se stai progettando un trekking in Nepal e vuoi viaggiare senza soldi sei nel posto giusto.
+Se stai progettando un `trekking in Nepal` e vuoi viaggiare senza soldi sei nel posto giusto.
