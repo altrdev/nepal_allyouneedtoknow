@@ -35,7 +35,7 @@ googleAnalytics = "UA-156024128-1"
   custom_js  = [ "js/main.js" ]
   metadata_allowed_blog = [ "in-depth", "approfondimenti" ]
   theme_color = "#CB2E40"
-  google_adsense = "ca-pub-1348790363502354"
+  amazon_affiliate = "true"
 
 [params.author1]
   name = "Alessandro"

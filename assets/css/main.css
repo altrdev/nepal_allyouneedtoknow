@@ -22,6 +22,7 @@ body {
   padding-bottom: 50px;	
   min-height: 100%;
   height: auto;
+  margin-bottom: 20px;
 }
 
 /* Navbar */
@@ -149,7 +150,7 @@ body {
 .social-links {
   display: block;
   margin: 0 auto;
-  margin-top: 40px;
+  margin-top: 20px;
   padding: 0px;
   width: 100%;
   text-align: center;
@@ -242,9 +243,14 @@ footer{
   bottom:0; 
   width:100%; 
 }
-
 .flag-image {
   width: 120px;
+}
+.fakeAds {
+  width: 50%;
+  margin: auto;
+  padding-bottom: 30px;
+  padding-top: 30px;
 }
 
 @media only screen and (max-width: 500px) {
@@ -252,3 +258,6 @@ footer{
     width: 70px;
   }
 }
+
+@media only screen and (min-width: 500px) {div.mobileBanner{display: none;}div.desktopBanner {display: block;}}
+@media only screen and (max-width: 499px) {div.desktopBanner {display: none;}div.mobileBanner {display: block;}}
