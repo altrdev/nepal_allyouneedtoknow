@@ -6,7 +6,7 @@ tags: [ trekking nepal, trekking kathmandu ]
 date: 2020-02-02
 categories: [ trekking ]
 highlight: true
-image: media/sense_of_nepal.jpg
+image: media/mustard-flowers.jpg
 markup: blackfriday
 translationKey: trekking-kathmandu
 ---
@@ -49,7 +49,7 @@ Si parte il primo giorno con una tappa abbastanza lunga. Sono più di **18km** i
 
 La prima parte è decisamente lontana da ogni contesto urbano ed è veramente una goduria camminare immersi nella natura. Se arrivate da Kathmandu, l'aria irrespirabile e i continui rumori di clacson, sono un ricordo lontanissimo. 
 
-{{< bundle-image name="sense_of_nepal" alt="Tra i fiori di senape" caption="La bellezza di camminare tra la senape" >}}
+{{< bundle-image name="mustard-flowers" alt="Tra i fiori di senape" caption="La bellezza di camminare tra la senape" >}}
 
 Quando arriverete a Dhulikhel, la camminata si farà più urbana. Nel nostro passaggio, ricordo ancora che abbiamo incontrato pochissimi occidentali e attiravamo moltissima curiosità. A Dhulikhel abbiamo soggiornato al Bhattidanda Fresh & Natural Homestay, di cui portiamo ancora un bellissimo ricordo. Grandissima ospitalità ed ottimo Dal Bhat.
 
@@ -61,13 +61,45 @@ Quando arriverete a Dhulikhel, la camminata si farà più urbana. Nel nostro pas
 
 ### **Giorno 2: Da Dhulikhel a Balthali**
 
-#TODO
+La seconda tappa è ancora abbastanza lunga siamo sui **15km**. La prima metà ci portarà a Namo Buddha ed il suo fantastico monastero Buddista. Anche per entrare a Namo Buddha bisogna pagare una tassa di 100NPR a testa. 
+
+Vi ritroverete immersi in un'atmosfera fantastica circondati da milioni di bandiere della preghiera. Volendo potrete anche mangiare e dormire nel monastero. Dovrebbe essere una bellissima esperienza, ma noi dovevamo seguire il nostro piano. Abbiamo perciò continuato in direzione Balthali.
+
+{{< bundle-image name="namo-buddha" alt="Girando le ruote di preghiera" caption="Girando le ruote di preghiera" >}}
+
+Tutto il percorso che vi troverete davanti, sarà su un sentiero, poco frequentato dai turisti ma utilizzato principalmente dai nepalesi.
+
+Balthali è un paesino veramente caratteristico, c'è poco e nulla, si respira tanto Nepal ma anche tanta povertà. Qui abbiamo avuto un piccolo inconveniente in quanto Balthali è strutturata in una parte bassa ed una parte più alta dove ci sono solo Resort. La nostra casa era geolocalizzata nella parte alta, ma bn presto abbiamo capito che ci eravamo sbagliati. Siamo dovuti tornare sui nostri passi, ritornando nella parte bassa di Balthali facendo qualche chilometro in più. Finalmente con l'aiuto di un signore molto gentile siamo riusciti a trovare il Sabina's Homestay.
+
+Il soggiorno più vero in cui siamo stati. I figli, gli unici che parlavano inglese, non erano in casa e quindi ci siamo dovuti arrangiare a gesti :) . Alla fine tutto è andato bene ed abbiamo anche bevuto il tè Masala più buono del viaggio.
+
+**Tempo**: ~ 8h
+
+**Dove abbiamo dormito**: Sabina’s Homestay
 
 ----------
 
 ### **Giorno 3: Da Balthali a Panauti**
 
-#TODO
+Quest'ultima tappa è abbastanza breve sono circa **7km**. E' forse la tappa meno interessante dal punto di vista della camminata, in quanto quasi subito si cammina su una strada dissestata e con il passaggio di svariati mezzi di trasporto. 
+
+Volendo si può prendere il bus da Khopasi fino a Panauti, se non amate camminare in questo contesto.
+
+Vale comunque la pena fermarsi ad ammirare la cittadina che è sicuramente molto bella e con molti edifici religiosi e statue. 
+
+Panauti è anche una meta di pellegrinaggio, visto che ogni 12 anni si celebra la Makar Mela una festa in onore a Shiva.
+
+Questo breve trekking nella valle si è concluso prendendo un bus a Panauti in direzione Kathmandu dal costo di 120NPR a testa.
+
+Qui potrete trovare la stazione di partenza dei bus:
+
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=85.51176309585573%2C27.585879301373996%2C85.5146598815918%2C27.58799506854075&amp;layer=mapnik&amp;marker=27.58693719006014%2C85.51321148872375"></iframe>
+
+<small><a href="https://www.openstreetmap.org/?mlat=27.58694&amp;mlon=85.51321#map=19/27.58694/85.51321" target="_blank">Vedi mappa</a></small>
+
+**Tempo**: ~ 3h
+
+**Dove abbiamo dormito**: siamo ripartiti in bus alla volta di Kathmandu
 
 ----------
 
@@ -78,10 +110,3 @@ Questa è la traccia GPS che abbiamo percorso ed utilizzato.
 <iframe src="https://www.alltrails.com/widget/map/map--104820?u=m" width="100%" height="400" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
 Potete scaricarla da AllTrails e seguirla sui vostri dispositivi GPS o smartphone. Potete adattarla alle vostre necessità, accorciando o allungando le tappe.
-
-
-----------
-
-### **Ritornare a Kathmandu**
-
-----------
