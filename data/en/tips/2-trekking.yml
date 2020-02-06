@@ -1,4 +1,28 @@
 name: Trekking
 source:
+  - icon: fa fa-id-card-o
+    description: You need trekking permits to go on trails in Nepal.<br>- <b>TIMS CARD</b>. This is not really a permit but more of a doc that tracks each trekker for security and safety purposes. It costs 10USD for group trekkers, 20USD for indipendent trekkers. You will need to provide a copy of your passport, 2 pics (passport format) and two emergency contacts, one local and one relative or friend of yours.<br><b>Trek permits</b>. Depending on where you're going and the height you will reach, you'll be asked to buy a specific permit and to pay the corrispondent fee. Again, you're asked to present the passport copy plus a pic.
+    <br><a href="http://www.greathimalayatrails.com/trekking-permits/" target="_blank">here</a> you can find more info and better understand what kind of permit you need.
+    <br>Whatever you may need, you can have it at a tourist office in Kathmandu or Pokhara. We obtained both our docs (TIMS Card + ACA) <a href="https://www.google.com/maps/search/tourist+service+center+kathmandu/@27.7019719,85.3147664,17z/data=!3m1!4b1" target="_blank">here</a>, at the Tourist Service Center in Kathmandu. Check open hours before going there.
+
   - icon: fa fa-map-o
     description: Most people suggest to use Maps.me but we found Osmand much more useful, especially for trekking routes.
+
+  - icon: fa fa-snowflake-o
+    description: October to mid-November is the best period to trek the Hymalayas. It's also touristic peak season though, so if you're walking very beaten track (ig. Poon Hill) you may end up in a crowd. November-December is also a good moment, with less tourists and not-so-freezing air. Spring is rain season, so it's not suggested to go on a trek - remember than rain means snow at high altitude.
+
+  - icon: fa fa-snowflake-o
+    description: Even though you're not going up to 4,000m/15,000ft, you should wear Goretex shoes. Not mandatory, but strongly suggested.
+
+  - icon: fa fa-suitcase
+    description: You can pay a porter who will carry your bags or backpacks for you. Porters are usually young guys from poor families. Even though you might be told that recruiting one means keep local economy working and give money to someone who needs it, it really looks like a kind of slavery. Porters carry 30kg/70lbs or more prying with their head. Quite often, without wearing proper shoes. On ice, too. So please, think twice before hiring or overburden them.
+
+  - icon: fa fa-map-o
+    description: You can hire a guide who can (of course) guide you, show the best path to follow and teach you about history, geography and Nepali culture. You can recruit one directly on site, by going to tourist agencies. However, most common treks can be easily done without a guide, just make sure to study the path prior to departure.
+
+  - icon: fa fa-road
+    description: If your trek involves stretches of highways, apart from little mountain trails, make sure to bring a mask with you. Roads are very (very) dusty, so you'd better protect your face somehow.
+
+  - icon: fa fa-medkit
+    description: Make sure to have a first aid kit with you. Always. Big cities excluded, you won't find drug stores. <a href="https://www.amazon.it/dp/B07JGMP4RB/ref=cm_sw_r_other_apa_i_UzipEb09GSJSJ" target="_blank">This</a> is the one we had.
+  

@@ -1,5 +1,15 @@
 name: Transport
 source:
+  
+  - icon: fa fa-car
+    description: Cars are right-hand driven in Nepal. English style, dude.
+  
+  - icon: fa fa-car
+    description: Traffic in Nepal is crazy. If you're getting on a taxi or private cab, just don't-be-scared. For some reason, drivers are as much insane as they're good at avoiding to crash.
+
+  - icon: fa fa-train
+    description: There's no railways in the country. Uh-oh. Train is not an option in Nepal.
+
   - icon: fa fa-bus
     description: There are 3 main categories for buses. <br>1) <b>Local buses</b> - the more real ones, always overcrowded; <br>2) <b>Tourist buses</b> - do not get that 'tourist' wrong, there's nothing comfortable there. They run longer distances; <br>3) <b>Private companies buses</b> - very much suggested when going from a region to another.
 
@@ -16,7 +26,7 @@ source:
     description: Every bus has its boss. These guys act as PR, space managers, cash counters and God only knows what else. They will come to you asking for payment and they will also decide where you have to sit or stand on the bus.
 
   - icon: fa fa-bus
-    description: As a tourist, you will probably being charged for double the price local people pay for a ride. It's something annoying, but prices are very low and 'bus bosses' are usually not the type of person you would like to argue with, so that's fine.
+    description: As a tourist, you will probably be charged for double the price locals normally pay for a ride. It's something annoying, but prices are very low and 'bus bosses' are usually not the type of person you would like to argue with, so that's fine.
 
   - icon: fa fa-bus
-    description: If you're traveling with your backpack, remember to protect it with the rain cover before getting on the bus. If there won't be enough space for both you and your backpack onboard, it will be either underneath the bus or outside on its ceiling. Both are not-so-clean options.
+    description: If you're traveling with your backpack, remember to protect it with a rain cover before getting on the bus. If there won't be enough space for both you and your backpack onboard, it will be put either underneath the bus or outside on the ceiling. Both are not-so-clean options.
