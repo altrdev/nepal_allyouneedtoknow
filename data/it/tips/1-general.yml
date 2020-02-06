@@ -17,3 +17,6 @@ source:
 
   - icon: fa fa-money
     description: La Rupia nepalese (NPR) è la moneta ufficiale. Controlla il cambio attuale <a href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=NPR&To=EUR" target="_blank">qui</a>.
+
+  - icon: fa fa-sign-in
+    description: 

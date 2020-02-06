@@ -17,3 +17,15 @@ source:
 
   - icon: fa fa-money
     description: Nepalese Rupees (NPR) is the official local currency. Check real time exchange <a href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=NPR&To=USDR" target="_blank">here</a>.
+
+  - icon: fa fa-sign-in
+    description: You will need a Visa to enter the Country. It will cost you 25/40/100 US$ for a 15/30/90 days Visa respectively.
+
+  - icon: fa fa-sign-in
+    description: To get your Visa, it's strongly suggested to fill in the <a href="http://online.nepalimmigration.gov.np/" target="_blank">online form</a> before your arrival in Nepal. This will prevent you from wasting a lot of time in a queue at the airport. <a href="http://www.nepal-online-visa-form-help.org/" target="_blank">This</a> is a very useful support you can use to compile your online Visa request.
+
+  - icon: fa fa-sign-in
+    description: If you decide not to request your Visa online, you'll be asked to go through a quite long process at your arrival.<br>1) Grab you patience and go in line to request your Visa filling a form in at the automathic machines scattered around the immigration area. <b>This can be skipped by doing the online process</b>.<br>2) Go in line for paying for your Visa. Remember cash are highly recommended.<br>3) Go in the last line for the ultimate check and to get the stamp in your passport. If everything's fine, congrats! You're now in the country and one step closer to reach the Nirvana.
+
+  - icon: fa fa-plug
+    description: Nepal and India have their own plug type, so EU or US ones might not work. <a href="https://amzn.to/2vTSxfv" target="_blank">This</a> is what you might need. However, despite not having these proper electric plugs we did make it with IT and 'shuko' ones. So traveling with something like <a href="https://amzn.to/2SsnpLG" target="_blank">this</a> could be enough for you too.
