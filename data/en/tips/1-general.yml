@@ -1,60 +1,82 @@
 name: General
 source:
   - icon: fa fa-money
+    number: 1
     description: Nepalese Rupees (NPR) is the official local currency. Check real time exchange <a href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=NPR&To=USDR" target="_blank">here</a>.
 
   - icon: fa fa-sign-in
-    description: You will need a Visa to enter the Country. It will cost you 25/40/100 US$ for a 15/30/90 days Visa respectively.
+    number: 2
+    description: You will need a <b>Visa</b> to enter the Country. It will cost you <b>25/40/100 USD</b> for a 15/30/90 days Visa respectively.
 
   - icon: fa fa-sign-in
+    number: 3
     description: To get your Visa, it's strongly suggested to fill in the <a href="http://online.nepalimmigration.gov.np/" target="_blank">online form</a> before your arrival in Nepal. This will prevent you from wasting a lot of time in a queue at the airport. <a href="http://www.nepal-online-visa-form-help.org/" target="_blank">This</a> is a very useful support you can use to compile your online Visa request.
 
   - icon: fa fa-money
+    number: 4
     description: Bring some cash with you if you're arriving by flight. You will be asked to pay for your VISA at the airport and credit cards do not usually work. Both Nepali Rupees and US Dollars are OK.
 
   - icon: fa fa-sign-in
-    description: If you decide not to request your Visa online, you'll be asked to go through a quite long process at your arrival.<br>1) Grab you patience and go in line to request your Visa filling a form in at the automathic machines scattered around the immigration area. <b>This can be skipped by doing the online process</b>.<br>2) Go in line for paying for your Visa. Remember cash are highly recommended.<br>3) Go in the last line for the ultimate check and to get the stamp in your passport. If everything's fine, congrats! You're now in the country and one step closer to reach the Nirvana.
+    number: 5
+    description: > 
+      If you decide not to request your Visa online, you'll be asked to go through a quite long process at your arrival.
+      <br>1) Grab you patience and go in line to request your Visa filling a form in at the automathic machines scattered around the immigration area. <b>This can be skipped by doing the online process</b>.
+      <br>2) Go in line for paying for your Visa. Remember cash are highly recommended.
+      <br>3) Go in the last line for the ultimate check and to get the stamp in your passport. If everything's fine, congrats! You're now in the country and one step closer to reach the Nirvana.
 
   - icon: fa fa-medkit
-    description: No vaccinations are strictly required to visit Nepal, but it’s always worth checking which ones are recommended and ensuring you’re medical stuff are up-to-date. Perhaps it worth asking to your doctor.
+    number: 6
+    description: No <b>vaccinations</b> are strictly required to visit Nepal, but it’s always worth checking which ones are recommended and ensuring you’re medical stuff are up-to-date. Perhaps it worth asking to your doctor.
 
   - icon: fa fa-heart
-    description: Take out insurance. The airline you're flying with (if you're coming by air) will provide one for sure. But it won't probably be enough, especially if you're going on a trek. We bought <a href="https://www.globelink.co.uk/" target="_blank">this one</a>.
+    number: 7
+    description: Take out <b>insurance</b>. The airline you're flying with (if you're coming by air) will provide one for sure. But it won't probably be enough, especially if you're going on a trek. We bought <a href="https://www.globelink.co.uk/" target="_blank">this one</a>.
 
   - icon: fa fa-book
-    description: We didn't buy a Nepal travel guide since we've been lucky enough to find a free version of the Lonely Planet's one for Kindle. You can find a free extract <a href="https://amzn.to/2S7GzYq" target="_blank">here</a>, which is a very great start.
-
-  - icon: fa fa-map-o
-    description: Most people suggest to use Maps.me as an offline map. We have found it useful for moving around cities but Osmand is much better for trekking routes.
+    number: 8
+    description: We didn't buy a Nepal travel guide since we've been lucky enough to find a free version of the Lonely Planet's one for Kindle on <a href="https://amzn.to/3bmwnmu" target="_blank">Amazon Prime Unlimited</a>. You can find a free extract <a href="https://amzn.to/2ulit3t" target="_blank">here</a>, which is a very great start.
 
   - icon: fa fa-credit-card
+    number: 10
     description: No hostel accepts pre online payment nor credit card, neither those that say they do on booking.com.
 
   - icon: fa fa-money
+    number: 11
     description: Don't trust prices on booking.com. When in Nepal you will probably be charged more than expected. That's why it might be worth it not to book in advance and find a room directly on site.
   
   - icon: fa fa-thermometer-0
+    number: 12
     description: There's no heating in Nepali houses, so make sure to have warm nightwear. Having a sleepbag is also necessary if you're going on a trek, but it can be useful in cities like Kathmandu too.
 
   - icon: fa fa-fire
+    number: 13
     description: Giving the fact that houses are so freezing, when the sun goes down people light up fires in the streets right in front of their doors. This happens in Kathmandu either. People sit around the flames to get warmer and have dinner with family.
 
   - icon: fa fa-plug
-    description: Nepal and India have their own plug type, so EU or US ones might not work. <a href="https://amzn.to/2vTSxfv" target="_blank">This</a> is what you might need. However, despite not having these proper electric plugs we did make it with IT and 'shuko' ones. So traveling with something like <a href="https://amzn.to/2SsnpLG" target="_blank">this</a> could be enough for you too.
+    number: 14
+    description: > 
+      Nepal and India have their own <b>plug</b> type, so EU or US ones might not work. 
+      <a href="https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=nepal india adapter&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=31b9493a61a7a3c7f2421927f33b80e5" target="_blank">This</a> is what you might need. 
+      However, despite not having these proper electric plugs we did make it with IT and 'shuko' ones. So traveling with something like <a href="https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=travel adapter&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=ca2735bb89452c757c236c02a750c1a1" target="_blank">this</a> could be enough for you too.
   
   - icon: fa fa-comments-o
-    description: If there's a word you'd need to know, that is Namaste. It is used both for greeting and leave-taking. In Hinduism, it means "I bow to the divine in you". It's usually spoken with a slight bow and hands pressed together, palms touching and fingers pointing upwards, thumbs close to the chest. However, it may also be spoken without the gesture, or the gesture may be performed wordlessly.
+    number: 15
+    description: If there's a word you'd need to know, that is <b>Namaste</b>. It is used both for greeting and leave-taking. In Hinduism, it means "I bow to the divine in you". It's usually spoken with a slight bow and hands pressed together, palms touching and fingers pointing upwards, thumbs close to the chest. However, it may also be spoken without the gesture, or the gesture may be performed wordlessly.
 
   - icon: fa fa-comments-o
-    description: Another word you may need to know is Dhanyabad, which means Thank you in Nepalese. Although you might be used to say 'thanks' for minor things either, you should not continuosly address 'dhanyabad' for every small act of kindness. It's not impolite but Nepali can take it as a way to overstress respect, which is not in their manners (at least not with everyone).
+    number: 16
+    description: Another word you may need to know is <b>Dhanyabad</b>, which means Thank you in Nepalese. Although you might be used to say 'thanks' for minor things either, you should not continuosly address 'dhanyabad' for every small act of kindness. It's not impolite but Nepali can take it as a way to overstress respect, which is not in their manners (at least not with everyone).
 
   - icon: fa fa-lightbulb-o
+    number: 17
     description: Electricity in Nepal is quite weak. It's not rare to experience blackouts, not only in small villages but in Kathmandu too. Make sure to have a flashlight or torch packed in your backpack.
 
   - icon: fa fa-warning
+    number: 18
     description: Cows are sacred in the Country, so they can't be killed and eaten. It's not rare to find some walking free in Kathmandu.
 
   - icon: fa fa-paw
+    number: 19
     description: Streets are oh-so full of stray dogs. People don't usually keep dogs as pets because they're seen as reincarnations of bad people by Hindu. That's why they're abandoned. Some stray dog will probably follow you at some point.
     
   

@@ -1,22 +1,80 @@
 name: Generali
 source:
-  - icon: fa fa-map-o
-    description: Molte persone consigliano di utilizzare Maps.me come applicazione per la navigazione offline. L'abbiamo trovato effettivamente utile per muoversi in città ma abbiamo preferito Osmand per i trekking.
-
-  - icon: fa fa-credit-card
-    description: Nessun ostello accetta pagamenti online anticipati, anche se su booking.com viene detto il contrario.
-
   - icon: fa fa-money
-    description: Non fidatevi dei prezzi esposti su booking.com. Quando sarete in Nepal, pagherete più di quello che pensavate. Ecco perché potrebbe valere la pena non prenotare in anticipo e trovare una camera direttamente sul posto.
-  
-  - icon: fa fa-thermometer-0
-    description: Non c'è riscaldamento nelle case nepalesi, quindi, se viaggiate in inverno, assicuratevi di avere indumenti da notte caldi.
-
-  - icon: fa fa-money
-    description: Portatevi dei contanti se arrivate in Nepal tramite aereo. Il visto va pagato direttamente all'arrivo in aeroporto e il pagamento tramite carte di credito molte volte non funziona. Potete pagare in Rupie nepalesi, Euro o Dollari americani.
-
-  - icon: fa fa-money
+    number: 1
     description: La Rupia nepalese (NPR) è la moneta ufficiale. Controlla il cambio attuale <a href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=NPR&To=EUR" target="_blank">qui</a>.
 
   - icon: fa fa-sign-in
-    description: 
+    number: 2
+    description: Vi serve il <b>visto</b> per entrare in Nepal. Costa <b>25/40/100 USD</b> rispettivamente per il visto di 15/30/90 giorni.
+
+  - icon: fa fa-sign-in
+    number: 3
+    description: Per ottenere il visto, è consigliato fare richiesta <a href="http://online.nepalimmigration.gov.np/" target="_blank">online</a> prima della partenza. Questo vi permetterà di risparmiare tempo una volta atterrati. <a href="http://www.nepal-online-visa-form-help.org/" target="_blank">Questo</a> può esservi utile per la compilazione del form online.
+
+  - icon: fa fa-money
+    number: 4
+    description: Portatevi dei contanti se arrivate in Nepal tramite aereo. Il visto va pagato direttamente all'arrivo in aeroporto e il pagamento tramite carte di credito molte volte non funziona. Potete pagare in Rupie nepalesi, Euro o Dollari americani.
+
+  - icon: fa fa-sign-in
+    number: 5
+    description: > 
+      Se decidete di non richiedere il visto online, dovrete affrontare una procedura più lunga all'arrivo.
+      <br>1) Armatevi di pazienza a mettetevi in coda per compilare la richiesta alle macchine automatiche che trovate nell'area immigrazione. <b>Questo può essere evitato facendo la richiesta online</b>.
+      <br>2) Mettiti in coda per pagare e ricordati che i contanti sono fortemente consigliati.
+      <br>3) Mettiti in coda per l'ultimo controllo e per ottenere il timbro sul passaporto. Se è tutto ok, congratulazioni! Siete finalmente entrati in Nepal e un passo più vicini a raggiungere il Nirvana.
+  
+  - icon: fa fa-medkit
+    number: 6
+    description: Non è richiesto nessun <b>vaccino</b> per entrare in Nepal, ma è sempre raccomandato controllare quali sono consigliati durante il vostro periodo di viaggio. Assicuratevi con il vostro medico di essere in linea con tutti i richiami obbligatori.
+
+  - icon: fa fa-heart
+    number: 7
+    description: Stipulate un'<b>assicurazione</b>. La compagnia aerea con cui volerete (se viaggiate in aereo) ve ne potrà fornire una ma probabilmente non coprirà tutto ciò che è necessario, soprattutto se farete un trekking. Noi abbiamo acquistato <a href="https://www.globelink.co.uk/" target="_blank">questa</a>.
+    
+  - icon: fa fa-book
+    number: 8
+    description: Noi non abbiamo acquistato nessuna guida di viaggio ma abbiamo trovato gratuitamente la versione Kindle di Lonely Planet su <a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=allyouneedt04-21" target="_blank">Amazon Prime Unlimited</a>. Potete trovarne un estratto <a href="https://amzn.to/2ulit3t" target="_blank">qui</a>.
+
+  - icon: fa fa-credit-card
+    number: 10
+    description: Nessun ostello accetta pagamenti online anticipati, anche se su booking.com viene detto il contrario.
+
+  - icon: fa fa-money
+    number: 11
+    description: Non fidatevi dei prezzi esposti su booking.com. Quando sarete in Nepal, pagherete più di quello che pensavate. Ecco perché potrebbe valere la pena non prenotare in anticipo e trovare una camera direttamente sul posto.
+  
+  - icon: fa fa-thermometer-0
+    number: 12
+    description: Non c'è riscaldamento nelle case nepalesi, quindi, se viaggiate in inverno, assicuratevi di avere indumenti da notte caldi.
+
+  - icon: fa fa-fire
+    number: 13
+    description: Dato che le case sono così fredde, quando scende il sole le persone accendono dei fuochi sulla strada, davanti alla porta di casa. Questo succede anche a Kathmandu. Le persone si radunano intorno al fuoco per riscaldarsi e cenare con la famiglia.
+
+  - icon: fa fa-plug
+    number: 14
+    description: > 
+      Nepal ed India hanno un particolare tipo di <b>presa elettrica</b>, quindi quelle europee o americane potrebbero non funzionare. 
+      Potreste avere bisogno di <a href="https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=nepal india adapter&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=31b9493a61a7a3c7f2421927f33b80e5" target="_blank">qualcosa del genere</a>. 
+      Nonostante non avessimo queste specifiche prese, siamo riusciti a cavarcela anche con quelle italiane. Quindi potrebbe bastare anche a voi <a href="https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=travel adapter&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=ca2735bb89452c757c236c02a750c1a1" target="_blank">qualcosa di simile</a>.
+
+  - icon: fa fa-comments-o
+    number: 15
+    description: Se c'è una parola che dovete imparare, quella è <b>Namaste</b>, il saluto più diffuso in Nepal. Nella cultura indù significa "Mi inchino al divino che c'è in te". Di solito è accompagnato da mani giunte e da un piccolo inchino fatto con il capo. Spesso si pronuncia senza questo gesto.
+
+  - icon: fa fa-comments-o
+    number: 16
+    description: Un'altra parola che dovreste conoscere è <b>Dhanyabad</b>, grazie in nepalese. Anche se vi verrà spontaneo utilizzarla per esprimere gratitudine per ogni piccolo gesto, dovreste evitarlo, perchè è considerato dai nepalesi come un'ostentazione di rispetto e non è una cosa che loro fanno abitualmente. Quantomeno non con tutti.
+
+  - icon: fa fa-lightbulb-o
+    number: 17
+    description: L'elettricità in Nepal è problematica. Non è raro assistere a dei blackout, non solo in piccoli villaggi ma anche a Kathmandu. Assicuratevi di avere una torcia sempre con voi.
+
+  - icon: fa fa-warning
+    number: 18
+    description: Le mucche sono animali sacri, quindi non possono essere nè uccise nè mangiate. E' abbastanza frequente incontrarne qualcuna che vaga libera a Kathmandu.
+
+  - icon: fa fa-paw
+    number: 19
+    description: Le strade sono piene di cani randagi. I nepalesi non considerano i cani come animali domestici, perchè nell'indusimo si crede siano la reincarnazione di persome malvage. Ad un certo punto del vostro viaggio, vi ritroverete sicuramente seguiti da almeno uno di loro.

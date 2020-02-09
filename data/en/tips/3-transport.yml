@@ -1,41 +1,54 @@
 name: Transport
 source:
   - icon: fa fa-car
+    number: 1
     description: Cars are right-hand driven in Nepal. English style, dude.
   
   - icon: fa fa-car
+    number: 2
     description: Traffic in Nepal is crazy. If you're getting on a taxi or private cab, just don't-be-scared. For some reason, drivers are as much insane as they're good at avoiding to crash.
 
   - icon: fa fa-motorcycle
+    number: 3
     description: Motorcycles are super common everywhere in the country. They allow people to deal with traffic (quite) easily.
 
   - icon: fa fa-train
+    number: 4
     description: There's no railways in the country. Uh-oh. Train is not an option in Nepal.
 
   - icon: fa fa-bus
+    number: 5
     description: There are 3 main categories for buses. <br>1) <b>Local buses</b> - the more real ones, always overcrowded; <br>2) <b>Tourist buses</b> - do not get that 'tourist' wrong, there's nothing comfortable there. They run longer distances; <br>3) <b>Private companies buses</b> - very much suggested when going from a region to another.
 
   - icon: fa fa-bus
+    number: 6
     description: Greenline is the most known private bus company especially for the Kathmandu-Pokhara trait. This trip costs $50pp a/r. It takes 7 to 8 hours to get from Katmandu to Pokhara (or vice versa) but they stop in a clean place for lunch (included in the price).
 
   - icon: fa fa-bus
+    number: 7
     description: Tourist buses stop for toilet breaks. They have scheduled calls but anyone can even ask for an additional stop when needed.
 
   - icon: fa fa-bus
+    number: 8
     description: You won't need a ticket to get on local or tourist buses. You will pay directly on the bus (by cash obviously).
 
   - icon: fa fa-bus
+    number: 9
     description: Every bus has its boss. These guys act as PR, space managers, cash counters and God only knows what else. They will come to you asking for payment and they will also decide where you have to sit or stand on the bus.
 
   - icon: fa fa-bus
+    number: 10
     description: As a tourist, you will probably be charged for double the price locals normally pay for a ride. It's something annoying, but prices are very low and 'bus bosses' are usually not the type of person you would like to argue with, so that's fine.
 
   - icon: fa fa-bus
+    number: 11
     description: If you're traveling with your backpack, remember to protect it with a rain cover before getting on the bus. If there won't be enough space for both you and your backpack onboard, it will be put either underneath the bus or outside on the ceiling. Both are not-so-clean options.
 
   - icon: fa fa-plane
+    number: 12
     description: You can take an internal flight to go from Kathmandu to Pokhara and back. We do suggest to take a bus though, first because price is lower (130USD vs 25USD), second because gas emissions are lower too.
 
   - icon: fa fa-plane
+    number: 13
     description: Many people suggest the experience of overflying Hymalayas and see Mount Everest on a helicopter. Apart of being such a touristic-ish thing, is not something you should choose to do at all if you're traveling on a budget.
   
