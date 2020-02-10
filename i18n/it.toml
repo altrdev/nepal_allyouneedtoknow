@@ -33,3 +33,12 @@ other = "Si è verificato un errore inatteso, riprova ad inviare il messaggio"
 
 [articles]
 other = "Articoli"
+
+[prefix-subtitle]
+other = "Scritto il"
+
+[suffix-subtitle]
+other = "da"
+
+[related-posts]
+other = "Articoli correlati"

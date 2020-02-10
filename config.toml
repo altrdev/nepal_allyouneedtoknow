@@ -39,14 +39,16 @@ enableRobotsTXT = true
   theme_color = "#CB2E40"
   amazon_affiliate = "true"
 
-[params.author1]
+[params.authorAlessandro]
   name = "Alessandro"
+  fullName = "Alessandro Travi"
   Website = "https://altr.dev"
   Twitter = "https://twitter.com/altrdev"
   Instagram = "https://www.instagram.com/alessandro.travi/"
 
-[params.author2]
+[params.authorDenise]
   name = "Denise"
+  fullName = "Denise Caggio"
   Website = "https://denisecaggio.wordpress.com/"
   Twitter = ""
   Instagram = "https://www.instagram.com/nonblonde.d/"

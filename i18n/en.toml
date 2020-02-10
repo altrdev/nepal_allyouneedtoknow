@@ -33,3 +33,12 @@ other = "An unexpected error occurred, please try again"
 
 [articles]
 other = "Articles"
+
+[prefix-subtitle]
+other = "Posted on"
+
+[suffix-subtitle]
+other = "by"
+
+[related-posts]
+other = "Related Posts"

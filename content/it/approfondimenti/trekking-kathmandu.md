@@ -1,10 +1,12 @@
 ---
-author: Alessandro Travi
+author: Alessandro
+authorLink: Twitter
 title: Trekking valle di Kathmandu
 description: Il nostro trekking nella valle di Kathmandu
 tags: [ trekking nepal, trekking kathmandu, kathmandu valley, all you need to know, nepal all you need to know, tutto quello che devi sapere ]
 date: 2020-02-02
 categories: [ trekking ]
+blog: true
 highlight: true
 image: media/mustard-flowers.jpg
 markup: blackfriday
