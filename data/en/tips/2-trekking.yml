@@ -1,46 +1,69 @@
 name: Trekking
 source:
   - icon: fa fa-id-card-o
-    description: You need trekking permits to go on trails in Nepal.<br>- <b>TIMS Card</b>. This is not really a permit but more of a doc that tracks each trekker for security and safety purposes. It costs 10USD for group trekkers, 20USD for indipendent trekkers. You will need to provide a copy of your passport, 2 pics (passport format) and two emergency contacts, one local and one relative or friend of yours.<br>- <b>Trek permits</b>. Depending on where you're going and the height you will reach, you'll be asked to buy a specific permit and to pay the corrispondent fee. Again, you're asked to present the passport copy plus a pic.<br><a href="http://www.greathimalayatrails.com/trekking-permits/" target="_blank">Here</a> you can find more info and better understand what kind of permit you need.<br>Whatever you may need, you can have it at a tourist office in Kathmandu or Pokhara. We obtained both our docs (TIMS Card + ACA) <a href="https://www.google.com/maps/search/tourist+service+center+kathmandu/@27.7019719,85.3147664,17z/data=!3m1!4b1" target="_blank">here</a>, at the Tourist Service Center in Kathmandu. Check open hours before going there.
+    number: 1
+    description: > 
+      You need trekking permits to go on trails in Nepal.<br>
+      - <b>TIMS Card</b>. This is not really a permit but more of a doc that tracks each trekker for security and safety purposes. It costs <b>10USD</b> for group trekkers, <b>20USD</b> for indipendent trekkers. 
+      You will need to provide a copy of your passport, 2 pics (passport format) and two emergency contacts, one local and one relative or friend of yours.<br>
+      - <b>Trek permits</b>. Depending on where you're going and the height you will reach, you'll be asked to buy a specific permit and to pay the corrispondent fee. 
+      Again, you're asked to present the passport copy plus a pic.<br>
+      <a href="http://www.greathimalayatrails.com/trekking-permits/" target="_blank">Here</a> you can find more info and better understand what kind of permit you need.<br>
+      Whatever you may need, you can have it at a tourist office in Kathmandu or Pokhara. 
+      We obtained both our docs (TIMS Card + ACAP) <a href="https://osm.org/go/zrWcm36ni?m=" target="_blank">here</a>, at the Tourist Service Center in Kathmandu. Check open hours before going there.
 
   - icon: fa fa-check-square-o
+    number: 2
     description: Permits are checked at entrance and exit of covered areas. Keep them in a handy place in your backpack.
 
   - icon: fa fa-camera
+    number: 3
     description: It's also forbidden to make video or to use drones at certain altitudes. Make sure to be fully informed before planning something like this or you'd may have to deal with penalties. 
 
   - icon: fa fa-map-o
-    description: Most people suggest to use Maps.me but we found Osmand much more useful, especially for trekking routes.
+    number: 4
+    description: Most people suggest to use <a href="https://maps.me/en/download/" target="_blank">Maps.me</a> as an offline map. We have found it useful for moving around cities but <a href="https://osmand.net/" target="_blank">Osmand</a> is much better for trekking routes.
 
   - icon: fa fa-snowflake-o
+    number: 5
     description: October to mid-November is the best period to trek the Hymalayas. It's also touristic peak season though, so if you're walking very beaten track (ig. Poon Hill) you may end up in a crowd. November-December is also a good moment, with less tourists and not-so-freezing air. Spring is rain season, so it's not suggested to go on a trek - remember than rain means snow at high altitude.
 
   - icon: fa fa-snowflake-o
+    number: 6
     description: Even though you're not going up to 4,000m/15,000ft, you should wear Goretex shoes. Not mandatory, but strongly suggested.
 
   - icon: fa fa-suitcase
+    number: 7
     description: You can pay a porter who will carry your bags or backpacks for you. Porters are usually young guys from poor families. Even though you might be told that recruiting one means keep local economy working and give money to someone who needs it, it really looks like a kind of slavery. Porters carry 30kg/70lbs or more prying with their head. Quite often, without wearing proper shoes. On ice, too. So please, think twice before hiring or overburden them.
 
   - icon: fa fa-map-o
+    number: 8
     description: You can hire a guide who can (of course) guide you, show the best path to follow and teach you about history, geography and Nepali culture. A guide can also help you get accomodations booked sometimes. You can recruit one directly on site, by going to tourist agencies. However, most common treks can be easily done without a guide, just make sure to study the path prior to departure.
 
   - icon: fa fa-road
+    number: 9
     description: If your trek involves stretches of highways, apart from little mountain trails, make sure to bring a mask with you. Roads are very (very) dusty, so you'd better protect your face somehow.
 
   - icon: fa fa-medkit
-    description: Make sure to have a first aid kit with you. Always. Big cities excluded, you won't find drug stores. <a href="https://www.amazon.it/dp/B07JGMP4RB/ref=cm_sw_r_other_apa_i_UzipEb09GSJSJ" target="_blank">This</a> is the one we had.
+    number: 10
+    description: Make sure to have a first aid kit with you. Always. Big cities excluded, you won't find drug stores. <a href="https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=first aid kit&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=0030b60b49de7d2d5fb7f3dda47fcb28" target="_blank">This</a> is the type we had.
   
   - icon: fa fa-bed
+    number: 11
     description: Trek the Hymalayas means having to find an accomodation directly on site, especially if you're a solo traveler (or more generally if you're not with a guide). When you'll reach your daily destination you should knock at lodges' doors and ask for an available room. Do not forget to negotiate prices.
 
   - icon: fa fa-bed
+    number: 12
     description: You will have dinner and breakfast at the lodge you're staying at. Hymalayan lodges have all the same menu as they seem to be part of a sort of committee. Each one has its own vegetable garden (if not impossible due to too high altitude).
 
   - icon: fa fa-shower
-    description: Not every lodge has warm water. I suggest you to bring dry shampoo to clean your hair and avoid getting a cold.
+    number: 13
+    description: Not every lodge has warm water. We suggest you to bring dry shampoo to clean your hair and avoid getting a cold.
 
   - icon: fa fa-bed
-    description: Of course there's no healing in mountain lodges neither. The only source of warm is somewhat of a stove located in the common dining area around which you can even lay your clother to dry. This is the perfect place to sit and have a cup of hot tea before slipping in your sleeping bag.
+    number: 14
+    description: Of course there's no healing in mountain lodges neither. The only source of warm is somewhat of a stove located in the common dining area around which you can even lay your clother to dry. This is the perfect place to sit with a cup of hot tea and have a chat with other trekkers before slipping in your sleeping bag.
 
   - icon: fa fa-bed
+    number: 15
     description: If you're trekking very common routes during peak season, there's a chance you won't be able to find an available room to spend the night at. No one will let you stay out in the freezing air, so you can either found yourself sharing a room with stranger or sleeping on the floor in the dining room.

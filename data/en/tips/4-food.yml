@@ -1,31 +1,48 @@
 name: Food
 source:
   - icon: fa fa-leaf
+    number: 1
     description: Nepali cuisine is perfect for vegetarians and vegan as it's mainly plant based (with rice).
 
   - icon: fa fa-cutlery
+    number: 2
     description: Dal Baht is essential in Nepali cousine. It's a dish of plain rice (Baht) with lentils soup (Dal) and vegetables. This meal is served lunch and dinner in each local family, and Nepali people usually eat it using hands.
 
   - icon: fa fa-cutlery
+    number: 3
     description: Momo are also very common in Nepal. They're basically dumplings filled in with vegetables and spices, sometimes also meat. You can choose to have them fried, steamed or grilled and they're usually served with some kind of sauce.
 
   - icon: fa fa-cutlery
+    number: 4
     description: Do not use your left hand to eat, local people believe it's bad as left hand is used to cleanse your bottom after poo-poo.
 
   - icon: fa fa-cutlery
+    number: 5
     description: Like everything in Nepal, cuisine is also the result of several influences. Chinese, Tibetan and Indian definitely are the strongest.
-  
+
   - icon: fa fa-coffee
+    number: 6
     description: You will drink at least one tea a day. Tea is harvested in the Eastern region and highly consumed everywhere in the Country.
 
   - icon: fa fa-coffee
+    number: 7
     description: Black tea is the most common type, but Masala Tea is the real speciality. It's basically black tea with spices, served with sugar and milk (but you can have it without milk too). Delicious!
-  
+
   - icon: fa fa-tint
+    number: 8
     description: People in Nepal drink a lot of tea also because water is not safe. As an alternative to tea, especially in the Himalayan region, people drink plain hot water.
 
   - icon: fa fa-street-view
+<<<<<<< HEAD
     description: Street food is not-so safe in Nepal. There's almost any refrigeration system within the Country and hygienic conditions are not the best neither.
 
   - icon: fa fa-list
     description: When you read 'buff' on a menu, it litterally means buffalo. Meat is usually consumed in the Kathmandu region only but it's not that frequent though. Eating cows is illegal, indeed cows are sacred for Hindu.
+=======
+    number: 9
+    description: Street food is not-so safe in Nepal. There's almost no refrigeration systems and the hygienic conditions are not the best neither.
+
+  - icon: fa fa-list
+    number: 10
+    description: When you read 'buff' on a menu, it litterally means buffalo. Meat is usually consumed in the Kathmandu Valley only, home of Newari cuisine; it's not that frequent though. Eating cows is illegal because cows are sacred for Hindu.
+>>>>>>> e2b3fce8926bd1900ff2c93c55b17f736405e032

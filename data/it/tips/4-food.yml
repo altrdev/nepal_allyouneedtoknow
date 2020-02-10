@@ -1,22 +1,41 @@
 name: Cibo
 source:
   - icon: fa fa-cutlery
+    number: 1
     description: La cucina nepalese è perfetta per vegetariani e vegani in quanto è principalmente a base vegetale (con riso).
 
   - icon: fa fa-cutlery
+    number: 2
     description: Il Dal Baht è il piatto principale nepalese. È un piatto di riso bianco (Baht) con zuppa di lenticchie (Dal) e verdure. Questo pasto viene servito a pranzo e cena in ogni famiglia locale e di solito i nepalesi lo mangiano con le mani.
 
   - icon: fa fa-cutlery
+    number: 3
+    description: Un altro piatto tipico sono i momo. Sono dei ravioli ripieni di verdure e spezie, ma potete trovarli anche con la carne. Potete sceglierli al vapore, fritti o alla piastra e di solito sono serviti con una salsa speziata.
+
+  - icon: fa fa-cutlery
+    number: 4
     description: Non utilizzate la mano sinistra per mangiare. Questa usanza, deriva dal fatto che la mano sinistra è dedicata alla pulizia del corpo.
 
   - icon: fa fa-cutlery
+    number: 5
     description: Come ogni cosa in Nepal, anche la cucina è il risultato di diverse influenze. Cinese, tibetana e indiana sono sicuramente le più forti.
   
   - icon: fa fa-coffee
+    number: 6
     description: Probabilmente berrete almeno un tè al giorno. Il tè viene raccolto nella regione orientale e consumato ovunque nel paese.
 
   - icon: fa fa-coffee
-    description: Il tè nero è quello più comune, ma il tè Masala è la vera specialità. È fondamentalmente tè nero con spezie, servito con zucchero e latte (ma puoi prenderlo anche senza latte). Delizioso!
+    number: 7
+    description: Il tè nero è quello più comune, ma il tè Masala è la vera specialità. È fondamentalmente tè nero con spezie, servito con zucchero e latte (ma potete trovarlo anche senza latte). Delizioso!
   
   - icon: fa fa-tint
-    description: Le persone in Nepal bevono molto tè anche perché l'acqua non è sicura. In alternativa al tè, specialmente nella regione dell'Himalaya, non è difficile vedere persone che bevono acqua calda.
+    number: 8
+    description: Le persone in Nepal bevono molto tè anche perché l'acqua non è sicura. In alternativa al tè, specialmente nella regione dell'Himalaya, non è così insolito vedere gente bere acqua calda.
+
+  - icon: fa fa-street-view
+    number: 9
+    description: Lo street food non e molto sicuro in Nepal. I sistemi di refrigerazione sono praticamente inesistenti e le condizioni igieniche non sono il massimo.
+
+  - icon: fa fa-list
+    number: 10
+    description: Quando leggete 'buff' sul menù, significa letteralmente bufalo. La carne è consumata principalmente nella valle di Kathmandu, dove prevale la cucina Newari; non è comunque così frequente. Mangiare carne di manzo è illegale in quanto le mucche sono sacre per gli induisti.
