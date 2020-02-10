@@ -1,8 +1,12 @@
 name: Generali
 source:
+  - icon: fa fa-flag
+    number: 0
+    description: Il Nepal è l'unico paese al mondo a non avere una bandiera rettangolare.
+
   - icon: fa fa-money
     number: 1
-    description: La Rupia nepalese (NPR) è la moneta ufficiale. Controlla il cambio attuale <a href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=NPR&To=EUR" target="_blank">qui</a>.
+    description: La Rupia nepalese (NPR) è la moneta ufficiale. Controllate il cambio attuale <a href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=NPR&To=EUR" target="_blank">qui</a>.
 
   - icon: fa fa-sign-in
     number: 2
@@ -10,23 +14,23 @@ source:
 
   - icon: fa fa-sign-in
     number: 3
-    description: Per ottenere il visto, è consigliato fare richiesta <a href="http://online.nepalimmigration.gov.np/" target="_blank">online</a> prima della partenza. Questo vi permetterà di risparmiare tempo una volta atterrati. <a href="http://www.nepal-online-visa-form-help.org/" target="_blank">Questo</a> può esservi utile per la compilazione del form online.
+    description: Per ottenere il visto, è consigliato fare richiesta <a href="http://online.nepalimmigration.gov.np/" target="_blank">online</a> prima della partenza. Vi permetterà di risparmiare tempo una volta atterrati. <a href="http://www.nepal-online-visa-form-help.org/" target="_blank">Questo</a> può esservi utile per la compilazione del form online.
 
   - icon: fa fa-money
     number: 4
-    description: Portatevi dei contanti se arrivate in Nepal tramite aereo. Il visto va pagato direttamente all'arrivo in aeroporto e il pagamento tramite carte di credito molte volte non funziona. Potete pagare in Rupie nepalesi, Euro o Dollari americani.
+    description: Portatevi dei <b>contanti</b> se arrivate in Nepal tramite aereo. Il visto va pagato direttamente all'arrivo in aeroporto e il pagamento tramite carte di credito molto spesso non funziona. Potete pagare in Rupie nepalesi, Euro o Dollari americani.
 
   - icon: fa fa-sign-in
     number: 5
     description: > 
-      Se decidete di non richiedere il visto online, dovrete affrontare una procedura più lunga all'arrivo.
+      Se decidete di <b>non</b> richiedere il visto online, dovrete affrontare una procedura più lunga all'arrivo.
       <br>1) Armatevi di pazienza a mettetevi in coda per compilare la richiesta alle macchine automatiche che trovate nell'area immigrazione. <b>Questo può essere evitato facendo la richiesta online</b>.
-      <br>2) Mettiti in coda per pagare e ricordati che i contanti sono fortemente consigliati.
-      <br>3) Mettiti in coda per l'ultimo controllo e per ottenere il timbro sul passaporto. Se è tutto ok, congratulazioni! Siete finalmente entrati in Nepal e un passo più vicini a raggiungere il Nirvana.
+      <br>2) Mettetevi in coda per pagare e ricordatevi che i contanti sono fortemente consigliati.
+      <br>3) Mettetevi in coda per l'ultimo controllo e per ottenere il timbro sul passaporto. Se è tutto ok, congratulazioni! Siete finalmente entrati in Nepal e un passo più vicini a raggiungere il Nirvana.
   
   - icon: fa fa-medkit
     number: 6
-    description: Non è richiesto nessun <b>vaccino</b> per entrare in Nepal, ma è sempre raccomandato controllare quali sono consigliati durante il vostro periodo di viaggio. Assicuratevi con il vostro medico di essere in linea con tutti i richiami obbligatori.
+    description: Non è richiesto nessun <b>vaccino</b> per entrare in Nepal, ma è sempre raccomandato controllare quali sono le profilassi consigliate durante il vostro periodo di viaggio. Assicuratevi con il vostro medico di essere in linea con tutti i richiami obbligatori.
 
   - icon: fa fa-heart
     number: 7
@@ -34,23 +38,23 @@ source:
     
   - icon: fa fa-book
     number: 8
-    description: Noi non abbiamo acquistato nessuna guida di viaggio ma abbiamo trovato gratuitamente la versione Kindle di Lonely Planet su <a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=allyouneedt04-21" target="_blank">Amazon Prime Unlimited</a>. Potete trovarne un estratto <a href="https://amzn.to/2ulit3t" target="_blank">qui</a>.
+    description: Noi non abbiamo acquistato nessuna <b>guida di viaggio</b> ma abbiamo trovato gratuitamente la versione Kindle di Lonely Planet su <a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=allyouneedt04-21" target="_blank">Amazon Prime Unlimited</a>. Potete trovarne un estratto <a href="https://amzn.to/2ulit3t" target="_blank">qui</a>.
 
   - icon: fa fa-credit-card
     number: 10
-    description: Nessun ostello accetta pagamenti online anticipati, anche se su booking.com viene detto il contrario.
+    description: Nessun ostello accetta <b>pagamenti online anticipati</b>, anche se su booking.com viene detto il contrario.
 
   - icon: fa fa-money
     number: 11
-    description: Non fidatevi dei prezzi esposti su booking.com. Quando sarete in Nepal, pagherete più di quello che pensavate. Ecco perché potrebbe valere la pena non prenotare in anticipo e trovare una camera direttamente sul posto.
+    description: Non fidatevi dei prezzi esposti su booking.com. Quando sarete in Nepal, probabilmente pagherete più di quello che pensavate. Ecco perché potrebbe valere la pena non prenotare in anticipo e trovare una camera direttamente sul posto.
   
   - icon: fa fa-thermometer-0
     number: 12
-    description: Non c'è riscaldamento nelle case nepalesi, quindi, se viaggiate in inverno, assicuratevi di avere indumenti da notte caldi.
+    description: Non c'è riscaldamento nelle case nepalesi, quindi, se viaggiate in inverno, assicuratevi di avere indumenti termici e pigiami caldi per la notte, anche se non partirete per un trekking ad alta quota. Anche un sacco a pelo potrebbe essere utile seppur rimaniate solo a Kathmandu.
 
   - icon: fa fa-fire
     number: 13
-    description: Dato che le case sono così fredde, quando scende il sole le persone accendono dei fuochi sulla strada, davanti alla porta di casa. Questo succede anche a Kathmandu. Le persone si radunano intorno al fuoco per riscaldarsi e cenare con la famiglia.
+    description: Dato che le case sono così fredde, quando scende il sole le persone accendono dei fuochi sulla strada, davanti alla porta di casa. Succede anche a Kathmandu. Le persone si radunano intorno al fuoco per riscaldarsi e cenare con la propria famiglia.
 
   - icon: fa fa-plug
     number: 14
@@ -61,7 +65,7 @@ source:
 
   - icon: fa fa-comments-o
     number: 15
-    description: Se c'è una parola che dovete imparare, quella è <b>Namaste</b>, il saluto più diffuso in Nepal. Nella cultura indù significa "Mi inchino al divino che c'è in te". Di solito è accompagnato da mani giunte e da un piccolo inchino fatto con il capo. Spesso si pronuncia senza questo gesto.
+    description: Se c'è una parola che dovete imparare, sicuramente è <b>Namaste</b>, il saluto più diffuso in Nepal. Nella cultura indù significa "Mi inchino al divino che c'è in te". Di solito è accompagnato da mani giunte e da un piccolo inchino fatto con il capo. Spesso si pronuncia senza questo gesto.
 
   - icon: fa fa-comments-o
     number: 16
@@ -69,7 +73,7 @@ source:
 
   - icon: fa fa-lightbulb-o
     number: 17
-    description: L'elettricità in Nepal è problematica. Non è raro assistere a dei blackout, non solo in piccoli villaggi ma anche a Kathmandu. Assicuratevi di avere una torcia sempre con voi.
+    description: L'elettricità in Nepal è problematica. Non è raro assistere a dei <b>blackout</b>, non solo in piccoli villaggi ma anche a Kathmandu. Assicuratevi di avere una torcia sempre con voi.
 
   - icon: fa fa-warning
     number: 18
@@ -78,3 +82,7 @@ source:
   - icon: fa fa-paw
     number: 19
     description: Le strade sono piene di cani randagi. I nepalesi non considerano i cani come animali domestici, perchè nell'indusimo si crede siano la reincarnazione di persome malvage. Ad un certo punto del vostro viaggio, vi ritroverete sicuramente seguiti da almeno uno di loro.
+
+  - icon: fa fa-child
+    number: 20
+    description: Potreste incontrare bambini che vi chiedono caramelle o cioccolato. Fate in modo di averne sempre un po' con voi.

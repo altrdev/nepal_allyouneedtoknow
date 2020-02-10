@@ -6,15 +6,15 @@ source:
   
   - icon: fa fa-car
     number: 2
-    description: Traffic in Nepal is crazy. If you're getting on a taxi or private cab, just don't-be-scared. For some reason, drivers are as much insane as they're good at avoiding to crash.
+    description: <b>Traffic</b> in Nepal is crazy. If you're getting on a taxi or private cab, just don't-be-scared. For some reason, drivers are as much insane as they're good at avoiding to crash.
 
   - icon: fa fa-motorcycle
     number: 3
-    description: Motorcycles are super common everywhere in the country. They allow people to deal with traffic (quite) easily.
+    description: Motorcycles are super common everywhere in the country. They allow people to deal with traffic (quite) easier.
 
   - icon: fa fa-train
     number: 4
-    description: There's no railways in the country. Uh-oh. Train is not an option in Nepal.
+    description: There's no <b>railways</b> in the country. Uh-oh. Train is not an option in Nepal.
 
   - icon: fa fa-bus
     number: 5
@@ -22,7 +22,7 @@ source:
 
   - icon: fa fa-bus
     number: 6
-    description: Greenline is the most known private bus company especially for the Kathmandu-Pokhara trait. This trip costs $50pp a/r. It takes 7 to 8 hours to get from Katmandu to Pokhara (or vice versa) but they stop in a clean place for lunch (included in the price).
+    description: <a href="http://greenline.com.np/" target="_blank"><b>Greenline<b></a> is the most known private bus company especially for the Kathmandu-Pokhara trait. This trip costs $50pp a/r. It takes 7 to 8 hours to get from Katmandu to Pokhara (or vice versa) but they stop in a clean place for lunch (included in the price).<br> <a href="https://osm.org/go/zrWczLYmT?m=" targer="_blank">Here</a>'s Greenline office in Kathmandu. It's not easy to find, so eyes open.<br> <a href="https://osm.org/go/zsqLcnxs7?m=" targer="_blank">Here</a>'s the one in Pokhara.
 
   - icon: fa fa-bus
     number: 7
@@ -30,7 +30,7 @@ source:
 
   - icon: fa fa-bus
     number: 8
-    description: You won't need a ticket to get on local or tourist buses. You will pay directly on the bus (by cash obviously).
+    description: You won't need a <b>ticket</b> to get on local or tourist buses. You will pay directly on the bus (by cash obviously).
 
   - icon: fa fa-bus
     number: 9
@@ -38,17 +38,17 @@ source:
 
   - icon: fa fa-bus
     number: 10
-    description: As a tourist, you will probably be charged for double the price locals normally pay for a ride. It's something annoying, but prices are very low and 'bus bosses' are usually not the type of person you would like to argue with, so that's fine.
+    description: As a tourist, you will probably be charged for double the price locals normally pay for a ride. It's something annoying, but <b>prices are very low</b> and 'bus bosses' are usually not the type of person you would like to argue with, so that's fine.
 
   - icon: fa fa-bus
     number: 11
-    description: If you're traveling with your backpack, remember to protect it with a rain cover before getting on the bus. If there won't be enough space for both you and your backpack onboard, it will be put either underneath the bus or outside on the ceiling. Both are not-so-clean options.
+    description: If you're <b>traveling with your backpack</b>, remember to protect it with a rain cover before getting on the bus. If there won't be enough space for both you and your backpack onboard, it will be put either underneath the bus or outside on the ceiling. Both are not-so-clean options.
 
   - icon: fa fa-plane
     number: 12
-    description: You can take an internal flight to go from Kathmandu to Pokhara and back. We do suggest to take a bus though, first because price is lower (130USD vs 25USD), second because gas emissions are lower too.
+    description: You can take an <b>internal flight</b> to go from Kathmandu to Pokhara and back. We do suggest to take a bus though, first because price is lower (130USD vs 25USD), second because gas emissions are lower too.
 
   - icon: fa fa-plane
     number: 13
-    description: Many people suggest the experience of overflying Hymalayas and see Mount Everest on a helicopter. Apart of being such a touristic-ish thing, is not something you should choose to do at all if you're traveling on a budget.
+    description: Many people suggest the experience of overflying Hymalayas and see Mount Everest on a <b>helicopter</b>. Apart of being such a touristic-ish thing, is not something you should choose to do at all if you're traveling on a budget.
   

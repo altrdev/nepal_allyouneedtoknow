@@ -22,7 +22,7 @@ source:
 
   - icon: fa fa-bus
     number: 6
-    description: Greenline è la compagnia di bus privati più conosciuta, specialmente per la tratta Kathmandu-Pokhara. Il costo è di $50 a persona a/r. Ci impiega dalle 7 alle 8 ore per andare da Katmandu a Pokhara (o vice versa). Incluso nel prezzo c'è il pranzo a buffet in un resort di proprietà di Greenline.
+    description:  <a href="http://greenline.com.np/" target="_blank"><b>Greenline<b></a> è la compagnia di bus privati più conosciuta, specialmente per la tratta Kathmandu-Pokhara. Il costo è di $50 a persona a/r. Ci impiega dalle 7 alle 8 ore per andare da Katmandu a Pokhara (o vice versa). Incluso nel prezzo c'è il pranzo a buffet in un resort di proprietà di Greenline.<br> <a href="https://osm.org/go/zrWczLYmT?m=" targer="_blank">Qui</a> c'è il loro ufficio a Kathmandu. Occhi aperti perchè non è facile trovarlo.<br> <a href="https://osm.org/go/zsqLcnxs7?m=" targer="_blank">Questo</a> invece è l'ufficio Greenline a Pokhara.
 
   - icon: fa fa-bus
     number: 7
@@ -30,24 +30,24 @@ source:
 
   - icon: fa fa-bus
     number: 8
-    description: Non avrai bisogno di un biglietto per salire su autobus locali o turistici. Pagherai direttamente sull'autobus (ovviamente in contanti).
+    description: Non serve biglietto per salire su autobus locali o turistici. Pagherete direttamente sull'autobus (ovviamente in contanti).
 
   - icon: fa fa-bus
     number: 9
-    description: Ogni autobus ha il suo 'boss'. Questi ragazzi sono come dei PR, gestiscono lo spazio sul bus, tengono la contabilità e solo Dio sa cos'altro. Verranno loro a chiederti di pagare la corsa e se il bus è pieno, ti diranno loro dove stare seduto o in piedi.
+    description: Ogni autobus ha il suo 'boss'. Questi tizi sono come dei PR, gestiscono lo spazio sul bus, tengono la contabilità e solo Dio sa cos'altro. Verranno loro a chiedervi di pagare la corsa e se il bus è pieno, vi diranno loro dove mettervi, sia che siate seduti o in piedi.
 
   - icon: fa fa-bus
     number: 10
-    description: Come turista, ti verrà probabilmente addebitato il doppio del prezzo che la gente locale paga per la corsa. È qualcosa di fastidioso, ma i prezzi sono molto bassi e i 'boss degli autobus' di solito non sono il tipo di persona con cui vorresti discutere, quindi puoi chiudere un occhio.
+    description: In quanto turisti, vi verrà probabilmente addebitato il doppio del prezzo che la gente locale paga per la corsa. È sicuramente un atteggiamento fastidioso, ma <b>i prezzi sono molto bassi</b> e i 'boss degli autobus' di solito non sono il tipo di persona con cui uno si mette a discutere, quindi potete chiudere un occhio.
 
   - icon: fa fa-bus
     number: 11
-    description: Se viaggi come backpacker, ricordati di proteggere lo zaino con la rain cover prima di salire sul bus. Se non c'è abbastanza spazio a bordo, lo zaino finirà o sul tetto oppure sotto il bus. Diciamo che entrambe le opzioni non sono così pulite.
+    description: Se viaggiate <b>zaino in spalla</b>, ricordatevi di proteggere lo zaino con la rain cover prima di salire su un qualunque bus. Se non c'è abbastanza spazio a bordo, lo zaino finirà o sul tetto oppure sotto il bus, nel portabagagli. Diciamo che entrambe le opzioni non sono proprio super pulite.
 
   - icon: fa fa-plane
     number: 12
-    description: Si possono prendere voli interni per la tratta Kathmandu-Pokhara e ritorno. Noi consigliamo di prendere un bus, primo perchè costa meno (130USD vs 25USD), secondo perchè l'impatto ambientale è decisamente inferiore.
+    description: Si possono prendere <b>voli interni</b> per la tratta Kathmandu-Pokhara e ritorno. Noi consigliamo di prendere un bus, primo perchè costa meno (130USD vs 25USD), secondo perchè l'impatto ambientale è decisamente inferiore.
 
   - icon: fa fa-plane
     number: 13
-    description: Molte fonti consigliano l'esperienza di volo in elicottero sull'Hymalaya con vista sul monte Everest. A parte essere una cosa molto turistica, la sconsigliamo se state viaggiando senza soldi.
+    description: Molte fonti consigliano l'esperienza di volo in <b>elicottero sull'Hymalaya</b> con vista sul monte Everest. A parte essere una cosa davvero molto turistica, la sconsigliamo se state viaggiando con un budget limitato.

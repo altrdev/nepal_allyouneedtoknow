@@ -1,6 +1,7 @@
 name: General
 source:
   - icon: fa fa-flag
+    number: 0
     description: Nepal is the only Country in the world that has not a rectangular flag.
 
   - icon: fa fa-money
@@ -37,11 +38,11 @@ source:
 
   - icon: fa fa-book
     number: 8
-    description: We didn't buy a Nepal travel guide since we've been lucky enough to find a free version of the Lonely Planet's one for Kindle on <a href="https://amzn.to/3bmwnmu" target="_blank">Amazon Prime Unlimited</a>. You can find a free extract <a href="https://amzn.to/2ulit3t" target="_blank">here</a>, which is a very great start.
+    description: We didn't buy a Nepal <b>travel guide</b> since we've been lucky enough to find a free version of the Lonely Planet's one for Kindle on <a href="https://amzn.to/3bmwnmu" target="_blank">Amazon Prime Unlimited</a>. You can find a free extract <a href="https://amzn.to/2ulit3t" target="_blank">here</a>, which is a very great start.
 
   - icon: fa fa-credit-card
     number: 10
-    description: No hostel accepts pre online payment nor credit card, neither those that say they do on booking.com.
+    description: No hostel accepts pre <b>online payment</b> nor credit card, neither those that say they do on booking.com.
 
   - icon: fa fa-money
     number: 11
@@ -72,15 +73,16 @@ source:
 
   - icon: fa fa-lightbulb-o
     number: 17
-    description: Electricity in Nepal is quite weak. It's not rare to experience blackouts, not only in small villages but in Kathmandu too. Make sure to have a flashlight or torch packed in your backpack.
+    description: Electricity in Nepal is quite weak. It's not rare to experience <b>blackouts</b>, not only in small villages but in Kathmandu too. Make sure to have a flashlight or torch packed in your backpack.
 
   - icon: fa fa-warning
     number: 18
-    description: Cows are sacred in the Country, so they can't be killed and eaten. It's not rare to find some walking free in Kathmandu.
+    description: <b>Cows</b> are sacred in the Country, so they can't be killed and eaten. It's not rare to find some walking free in Kathmandu.
 
   - icon: fa fa-paw
     number: 19
     description: Streets are oh-so full of stray dogs. People don't usually keep dogs as pets because they're seen as reincarnations of bad people by Hindu. That's why they're abandoned. Some stray dog will probably follow you at some point.
     
   - icon: fa fa-child
+    number: 20
     description: You might encounter children begging you for some candies or chocolate. Bring some with you for any eventuality.
