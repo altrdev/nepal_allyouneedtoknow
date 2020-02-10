@@ -37,7 +37,7 @@ source:
 
   - icon: fa fa-map-o
     number: 8
-    description: Potrete pagare una <b>guid</b>a che potrà, ovviamente, guidarvi, mostravi i sentieri migliori e raccontarvi storia, geografia e cultura nepalesi. A volte può aiutarvi anche a prenotare una stanza. Potrete assumerne una direttamente sul posto, recandovi presso un'agenzia di viaggio. Tuttavia, i circuiti più comuni possono essere tranquillamente percorsi senza guida. Assicuratevi solo di studiarne la traccia prima della partenza.
+    description: Potrete pagare una <b>guida</b> che potrà, ovviamente, guidarvi, mostravi i sentieri migliori e raccontarvi storia, geografia e cultura nepalesi. A volte può aiutarvi anche a prenotare una stanza. Potrete assumerne una direttamente sul posto, recandovi presso un'agenzia di viaggio. Tuttavia, i circuiti più comuni possono essere tranquillamente percorsi senza guida. Assicuratevi solo di studiarne la traccia prima della partenza.
 
   - icon: fa fa-road
     number: 9
@@ -61,7 +61,7 @@ source:
 
   - icon: fa fa-bed
     number: 14
-    description: Ovviamente non c'è riscaldamento nei lodge in montagna. L'unica fonte di calore è una sorta di <b>stufa</b> che trovate nell'area comune attorno alla quale potete stendere i vostri panni ad asciugare. E' il posto perfetto intorno al quale sedersi con una tazza di te caldo per fare conversazione e scaldarsi prima di infilarsi nel sacco a pelo per la notte.
+    description: Ovviamente non c'è riscaldamento nei <b>lodge in montagna</b>. L'unica fonte di calore è una sorta di stufa che trovate nell'area comune attorno alla quale potete stendere i vostri panni ad asciugare. E' il posto perfetto intorno al quale sedersi con una tazza di te caldo per fare conversazione e scaldarsi prima di infilarsi nel sacco a pelo per la notte.
 
   - icon: fa fa-bed
     number: 15

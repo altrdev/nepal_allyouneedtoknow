@@ -2,7 +2,7 @@ name: Food
 source:
   - icon: fa fa-leaf
     number: 1
-    description: Nepali cuisine is perfect for vegetarians and vegan as it's mainly </b>plant based</b> (with rice).
+    description: Nepali cuisine is perfect for vegetarians and vegan as it's mainly <b>plant based</b> (with rice).
 
   - icon: fa fa-cutlery
     number: 2
