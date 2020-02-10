@@ -1,5 +1,8 @@
 name: General
 source:
+  - icon: fa fa-flag
+    description: Nepal is the only Country in the world that has not a rectangular flag.
+
   - icon: fa fa-money
     description: Nepalese Rupees (NPR) is the official local currency. Check real time exchange <a href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=NPR&To=USDR" target="_blank">here</a>.
 
@@ -57,4 +60,5 @@ source:
   - icon: fa fa-paw
     description: Streets are oh-so full of stray dogs. People don't usually keep dogs as pets because they're seen as reincarnations of bad people by Hindu. That's why they're abandoned. Some stray dog will probably follow you at some point.
     
-  
+  - icon: fa fa-child
+    description: You might encounter children begging you for some candies or chocolate. Bring some with you for any eventuality.
