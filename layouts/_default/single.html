@@ -42,7 +42,7 @@
               {{ .Content }}
               <hr>
               <div class="related-posts">
-                <h5>{{ i18n "related-posts" }}</h5>
+                <h5><b>{{ i18n "related-posts" }}</b></h5>
                 {{ range first 3 ( where ( where .Site.RegularPages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
                   <div class="row">
                     <div class="col-sm-4 col-md-4 col-lg-4">

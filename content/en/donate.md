@@ -1,6 +1,6 @@
 ---
-title: "Donate"
-date: 2020-01-09T19:58:05+01:00
+date: 2020-01-09
+title: Donate
 markup: blackfriday
 translationKey: donate
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Approfondimenti"
-date: 2020-01-09T19:58:05+01:00
+date: 2020-01-09
+title: Approfondimenti
 markup: blackfriday
 translationKey: in-depth
 ---
