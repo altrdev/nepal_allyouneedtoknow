@@ -8,6 +8,8 @@ disqusShortname = "nepal-allyouneedtoknow"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-156024128-1"
 
+enableRobotsTXT = true
+
 [blackfriday]
   plainIDAnchors = true
   hrefTargetBlank = true
