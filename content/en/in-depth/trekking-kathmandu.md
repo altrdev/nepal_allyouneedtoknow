@@ -8,7 +8,7 @@ tags: [ backpacking, hiking, nature, gpx ]
 categories: [ trekking ]
 blog: true
 highlight: true
-image: media/sense_of_nepal.jpg
+image: media/trekking-kathmandu-valley.jpg
 markup: blackfriday
 translationKey: trekking-kathmandu
 ---

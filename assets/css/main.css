@@ -94,9 +94,9 @@ body {
   max-width: 900px;
   text-align: center;
 }
-.container .text-muted {
+/*.container .text-muted {
   margin: 20px 0;
-}
+}*/
 .container a {
   color: #CB2E40;
 }
