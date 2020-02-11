@@ -15,4 +15,4 @@ translationKey: trekking-kathmandu
 
 ### **Kathmandu Valley trekking**
 
-English content
+English content coming soon

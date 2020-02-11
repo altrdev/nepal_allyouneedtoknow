@@ -15,7 +15,7 @@ translationKey: trekking-kathmandu
 
 ### **Preparazione trekking**
 
-I mesi che hanno preceduto il viaggio in Nepal, ci hanno visti impegnati nella creazione di una traccia per un trekking nella valle di Kathmandu ed una nell'area dell'Annapurna. 
+I mesi che hanno preceduto il viaggio in Nepal, ci hanno visti impegnati nella creazione di una traccia per un trekking nella valle di Kathmandu ed una nell'area dell'[Annapurna]({{< ref "trekking-annapurna.md" >}}).
 
 Avendo un [Garmin eTrex 20x](https://amzn.to/31DExlY), mi sono abituato a fare il planning delle tracce con Garmin BaseCamp e le mappe OSM. L'idea era quella di portare proprio l'eTrex come strumento di navigazione, poi per questioni di spazio e scomodità della lettura della mappa su uno schermo così piccolo, ho optato per navigare offline solo tramite smartphone.
 
@@ -124,6 +124,6 @@ Qui potrete trovare la stazione di partenza dei bus:
 
 Questa è la traccia GPS che abbiamo disegnato e percorso:
 
-<iframe src="https://www.alltrails.com/widget/map/map--104820?u=m" width="100%" height="400" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
+<iframe src="https://www.alltrails.com/widget/map/map--104820?scrollZoom=false&u=m" width="100%" height="400" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
 Potete scaricarla da **AllTrails** e seguirla sui vostri dispositivi GPS dedicati o smartphone. Potete anche adattarla alle vostre necessità, accorciando o allungando le tappe.
