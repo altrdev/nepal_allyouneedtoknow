@@ -33,80 +33,95 @@ In base al tempo che avevamo a disposizione, abbiamo programmato un trekking di 
 
 Abbiamo deciso di iniziare il nostro trekking nella valle di Kathmandu da **Nagarkot**.
 
-Visitata **Bhaktapur**, luogo in cui ci trovavamo, abbiamo utilizzato un bus locale per arrivare a **Nagarkot** Se anche voi volete partire da qui per il vostro trekking, potete prendere il bus vicino alla vasca dell'acqua **Kamal Pokhari**:
+Visitata **Bhaktapur**, luogo in cui ci trovavamo, abbiamo utilizzato un bus locale per arrivare a **Nagarkot**.
+Se anche voi avete intenzione di recarvi a Nagarkot da Bhaktapur, per poi partire da lì per il vostro trekking, potete prendere il bus vicino alla vasca dell'acqua **Kamal Pokhari**:
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=85.43104469776154%2C27.66889131113201%2C85.43394148349762%2C27.671005474435237&amp;layer=mapnik&amp;marker=27.669948397896686%2C85.43249309062958"></iframe>
 
 <small><a href="https://www.openstreetmap.org/?mlat=27.66995&amp;mlon=85.43249#map=19/27.66995/85.43249" target="_blank">Vedi mappa</a></small>
 
 
+Le indicazioni riportate sui bus sono in nepalese, ma non abbiate timore di chiedere aiuto ai presenti: qualcuno vi indicherà gentilmente su quale bus salire.
+Ovviamente, come ogni local bus, la comodità è una grande sconosciuta e la strada percorsa sarà per lo più sterrata e dissestata, quindi non aspettatevi un viaggio tranquillo. Tuttavia, è un'esperienza che vi permette di conoscere il vero Nepal (e di risparmiare qualche soldino), perciò assolutamente consigliata.
+
 La durata del viaggio sarà di ~ **1h** ed il costo di **50NPR**.
 
-Che voi siate di passaggio, oppure pernottiate a Nagarkot, dovrete pagare una tassa. Bhe questa tassa è stata ritenuta illegale, ma purtroppo senza pagarla non vi faranno passare. 
+Che voi siate di passaggio oppure pernottiate a Nagarkot, dovrete pagare una tassa. Bhe, questa tassa è stata ritenuta illegale, ma purtroppo senza pagarla non vi faranno passare. 
 
 Il costo è di **340NPR**. Se volete saperne di più date una lettura a [questo](https://www.thelongestwayhome.com/travel-guides/nepal/nagarkot/nagarkot-guide.html#fees5).
 
+Noi abbiamo fissato la partenza del nostro trekking qui perchè ci era stato consigliato in quanto luogo strategico da cui vedere il tramonto sull'Himalaya, ma onestamente non abbiamo trovato Nagarkot per niente interessante e vista anche la tassa richiesta per soggiornarvi ci sentiamo di sconsigliarvi questa tappa.
+Potrete pernottare nei paesi limitrofi, fissare lì la partenza per il vostro trekking ed evitare un'antipatica spesa extra.
+
 ----------
 
-### **Giorno 1: Da Nagarkot a Dhulikhel**
+### **Giorno 1: trekking da Nagarkot a Dhulikhel**
 
-Il primo giorno vero di trekking, si parte con una tappa abbastanza lunga. Sono più di **18km** in cui vi troverete a camminare circondati da fiori di senape. 
+Il primo vero giorno di trekking: si parte con una tappa abbastanza lunga. Sono più di **18km** in cui vi troverete a camminare con costante vista sull'intera catena dell'Himalaya e circondati da fiori di senape.
+Se la giornata sarà limpida, avrete la possibilità anche di scorgere il Monte Everest in lontananza!
 
-La prima parte del percorso è decisamente lontana da ogni contesto urbano ed è veramente una goduria camminare immersi nella natura. Se arrivate da **Kathmandu**, l'aria irrespirabile e i continui rumori di clacson, saranno un ricordo lontanissimo.
+La prima parte del percorso è decisamente lontana da ogni contesto urbano ed è veramente una goduria camminare immersi nella natura. L'aria irrespirabile e i continui rumori di clacson di **Kathmandu** sono un ricordo lontanissimo.
 
 {{< bundle-image name="trekking-kathmandu-valley" alt="trekking-kathmandu-valley" caption="Trekking nella valle di Kathmandu tra i fiori di senape" >}}
 
-Quando arriverete a **Dhulikhel**, la camminata si farà più urbana. Ricordo ancora che il nostro passaggio nella cittadina, ha attirato molta curiosità. Forse perchè il passaggio di occidentali, almeno a Dicembre, periodo in cui siamo stati noi, è scarso. Effettivamente abbiamo incontrato pochissimi stranieri su questa tratta. 
+Arrivati a **Dhulikhel**, la camminata si fa più urbana. Ricordo ancora che il nostro passaggio nella cittadina ha suscitato molta curiosità. Forse perchè il passaggio di occidentali, almeno a Dicembre, periodo in cui siamo stati noi, non è così frequente. Ed effettivamente abbiamo incontrato pochissimi stranieri su questa tratta. 
 
 A **Dhulikhel** abbiamo soggiornato al **Bhattidanda Fresh & Natural Homestay**, di cui portiamo ancora un bellissimo ricordo. Grandissima ospitalità ed ottimo **Dal Bhat**.
 
-**Tempo**: ~ 8h
+**Durata**: ~ 8h
 
 **Dove abbiamo dormito**: Bhattidanda Fresh & Natural Homestay
 
 ----------
 
-### **Giorno 2: Da Dhulikhel a Balthali**
+### **Giorno 2: trekking da Dhulikhel a Balthali**
 
-La seconda tappa è ancora abbastanza lunga, parliamo di circa **15km**. 
+Il secondo tratto del nostro trekking nella valle di Kathmandu è di nuovo abbastanza lungo, parliamo di circa **15km**. 
 
-La prima metà ci portarà a **Namo Buddha** ed il suo fantastico monastero buddista. Per entrare a Namo Buddha bisogna pagare una tassa di **100NPR** a testa. 
+La prima metà ci porta a **Namo Buddha** ed il suo fantastico monastero buddista. Per entrare a Namo Buddha bisogna pagare una tassa di **100NPR** a testa. 
 
-Vi ritroverete immersi in un'atmosfera fantastica circondati da moltissime bandiere e ruote di preghiera. 
-Potrete anche mangiare e dormire nel monastero e siamo sicuri sarebbe potuta essere un'esperienza bellissima. 
-Noi però dovevamo proseguire ed una volta visitato lo stesso monastero, abbiamo continuato in direzione **Balthali**.
+Se deciderete di fare tappa qui, vi ritroverete immersi in un'atmosfera fantastica circondati da moltissime bandiere di preghiera e ruote tibetane. Namo Budda è meta di ogni buddista, nepalese ma non solo. 
+Il monastero è una vera e propria scuola, un seminario per giovani buddisti. Potrete vedere una miriade di ragazzi e bambini con gli abiti tradizionali impegnati nella preghiera e visitare le sfarzose stanze in cui esercitano i riti buddisti.
+Un'esperienza molto forte.
+
+Si può anche mangiare e dormire nel monastero e siamo sicuri sarebbe potuta essere un'esperienza bellissima. 
+Noi però avevamo una traccia da seguire e ancora diversi km da percorrere, quindi una volta visitato Namo Budda, abbiamo continuato in direzione **Balthali**.
 
 {{< bundle-image name="kathmandu-valley-namo-buddha" alt="kathmandu-valley-namo-buddha" caption="La perla della valle di Kathmandu: Namo Buddha" >}}
 
-Il restante percorso che vi troverete davanti, sarà su un sentiero poco frequentato dai turisti, ma utilizzato principalmente dai nepalesi.
+Il restante percorso del nostro secondo giorno di trekking è stato su un sentiero poco frequentato dai turisti, ma utilizzato principalmente dai nepalesi, circondato da boschi e natura.
 
-**Balthali** è un paesino veramente caratteristico, c'è poco e nulla, si respira tanto Nepal ma anche tanta povertà. Qui abbiamo avuto un piccolo inconveniente in quanto Balthali è strutturata in una parte bassa ed una parte più alta dove ci sono solo Resorts. 
+**Balthali** è un paesino veramente caratteristico, c'è poco e nulla, si respira tanto Nepal ma anche tanta povertà. Qui abbiamo avuto un piccolo inconveniente.
 
-La guest-house che avevamo scelto a tavolino, era geolocalizzata nella parte alta, ma ben presto abbiamo capito che ci eravamo sbagliati. Siamo dovuti tornare sui nostri passi ritornando nella parte bassa di **Balthali**, costringendoci a fare qualche chilometro in più. Finalmente con l'aiuto di qualche abitante del paese siamo riusciti a trovare il **Sabina's Homestay**.
+Balthali è strutturata in una parte bassa ed una parte più alta dove ci sono solo Resorts. 
+La guest-house (che avevamo scelto a tavolino) era geolocalizzata nella parte alta, ma ben presto abbiamo capito che ci eravamo sbagliati, quindi siamo dovuti tornare sui nostri passi ritornando nella parte bassa di **Balthali**. 
+Eravamo già molto stanchi e siamo stati costretti a camminare inutilmente per qualche chilometro in più, ma finalmente dopo un gran vagare siamo riusciti a trovare il **Sabina's Homestay**, con l'aiuto di qualche gentile abitante del paese.
 
-Possiamo definirlo il soggiorno più vero in cui siamo stati. I figli, gli unici che parlavano inglese, non erano in casa e quindi ci siamo dovuti arrangiare parlando con la nobile arte dei gesti. 
+Possiamo definirlo il soggiorno più vero in cui siamo stati. I figli dei padroni di casa, gli unici che parlavano inglese, non erano presenti e quindi ci siamo dovuti arrangiare comunicando con la nobile arte dei gesti. 
 
-Alla fine tutto è andato bene ed abbiamo anche bevuto il [tè Masala](https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=masala tea&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=8e7cc33dc3e668f2477593d4b18b561f) più buono del viaggio.
+A casa di questa famiglia abbiamo anche bevuto il [tè Masala](https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=masala tea&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=8e7cc33dc3e668f2477593d4b18b561f) più buono di tutto il nostro viaggio in Nepal.
 
-**Tempo**: ~ 8h
+**Durata**: ~ 8h
 
 **Dove abbiamo dormito**: Sabina’s Homestay
 
 ----------
 
-### **Giorno 3: Da Balthali a Panauti**
+### **Giorno 3: trekking da Balthali a Panauti**
 
 Quest'ultima tappa è abbastanza breve e si cammina per circa **7km**. 
 
-E' forse la tappa meno interessante dal punto di vista naturalistico, in quanto quasi subito si cammina su una strada dissestata e con il passaggio di svariati mezzi di trasporto. 
+E' forse la tappa meno interessante dal punto di vista naturalistico, in quanto quasi da subito il trekking si sposta su una strada urbana, dissestata ma con il passaggio frequente di svariati mezzi di trasporto. 
 
-Volendo si può prendere il bus da **Khopasi** fino a **Panauti**, se non amate camminare in questo contesto. Il consiglio è comunque quello di proseguire e magari portare con voi una mascherina tipo [queste](https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=anti pollution mask&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=cb29fc4b91b358d91029fd7509043e9e).
+Volendo si può prendere il bus da **Khopasi** fino a **Panauti**, se non amate camminare in questo contesto. Il consiglio è comunque quello di proseguire a piedi e magari portare con voi una mascherina tipo [queste](https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=anti pollution mask&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=cb29fc4b91b358d91029fd7509043e9e).
 
-Vale comunque la pena fermarsi ad ammirare la cittadina di **Panauti** che è sicuramente molto bella e con molti edifici religiosi e statue. 
+Il paesaggio urbano permette comunque di avere una visione della vita vera dei nepalesi, soprattutto passando la mattina quando i paesi sono movimentati: bambini in divisa che prendono fantomatici scuolabus, donne e uomini che lavorano nei campi, panni stesi ad asciugare, botteghe, meccanici, sarti, uomini in infradito che eseguono lavori di muratura... 
 
-**Panauti** è anche una meta di pellegrinaggio, visto che ogni 12 anni si celebra la **Makar Mela**, una festa in onore a Shiva.
+Vale la pena fermarsi ad ammirare la cittadina di **Panauti**, molto bella e con molti edifici religiosi e statue: è una delle tre antiche capitali nepalesi, ma è sicuramente meno affascinante di Bhaktapur.
 
-Questo breve trekking nella valle si è concluso prendendo un bus direttamente a Panauti in direzione **Kathmandu** dal costo di **120NPR** a testa.
+**Panauti** è anche una meta di pellegrinaggio, visto che ogni 12 anni si celebra la **Makar Mela**, una festa in onore di Shiva.
+
+Questo breve ma intenso trekking nella valle di Kathmandu si è concluso prendendo un bus direttamente a Panauti in direzione **Kathmandu**, 1h30 di viaggio su un affollato local bus per la cifra irrisoria di **120NPR** a testa.
 
 Qui potrete trovare la stazione di partenza dei bus:
 
@@ -114,7 +129,7 @@ Qui potrete trovare la stazione di partenza dei bus:
 
 <small><a href="https://www.openstreetmap.org/?mlat=27.58694&amp;mlon=85.51321#map=19/27.58694/85.51321" target="_blank">Vedi mappa</a></small>
 
-**Tempo**: ~ 3h
+**Durata**: ~ 3h
 
 **Dove abbiamo dormito**: siamo ripartiti in bus alla volta di Kathmandu
 
@@ -126,4 +141,4 @@ Questa è la traccia GPS che abbiamo disegnato e percorso:
 
 <iframe src="https://www.alltrails.com/widget/map/map--104820?scrollZoom=false&u=m" width="100%" height="400" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
-Potete scaricarla da **AllTrails** e seguirla sui vostri dispositivi GPS dedicati o smartphone. Potete anche adattarla alle vostre necessità, accorciando o allungando le tappe.
+Potete scaricarla da **AllTrails** e seguirla sui vostri dispositivi GPS dedicati o smartphone. Potete anche adattarla alle vostre necessità e ai giorni che avrete a disposizione, accorciando o allungando le tappe.
