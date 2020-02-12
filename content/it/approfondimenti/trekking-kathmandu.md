@@ -17,9 +17,7 @@ translationKey: trekking-kathmandu
 
 I mesi che hanno preceduto il viaggio in Nepal, ci hanno visti impegnati nella creazione di una traccia per un trekking nella valle di Kathmandu ed una nell'area dell'[Annapurna]({{< ref "trekking-annapurna.md" >}}).
 
-Avendo un [Garmin eTrex 20x](https://amzn.to/31DExlY), mi sono abituato a fare il planning delle tracce con Garmin BaseCamp e le mappe OSM. L'idea era quella di portare proprio l'eTrex come strumento di navigazione, poi per questioni di spazio e scomodità della lettura della mappa su uno schermo così piccolo, ho optato per navigare offline solo tramite smartphone.
-
-Nel tempo ho utilizzato principalmente due applicazioni: OruxMap e Osmand. Ultimamente molti consigliano Maps.me, ma sinceramente l'ho trovato più utile nei contesti urbani rispetto all'utilizzo in trekking. Alla fine la mia scelta è ricaduta su Osmand.
+Oggi vorrei descrivervi il nostro **trekking nella valle di Kathmandu**.
 
 In base al tempo che avevamo a disposizione, abbiamo programmato un trekking di 3 giorni con queste tappe:
 
