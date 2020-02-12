@@ -25,6 +25,8 @@ In base al tempo che avevamo a disposizione, abbiamo programmato un trekking di 
  - **Giorno 2**: Da Dhulikhel a Balthali
  - **Giorno 3**: Da Balthali a Panauti
 
+ È importante dire che per effettuare questo trekking **NON** serve nessun permesso. Non è richiesta nemmeno la **TIMS**. Se non sapete di cosa sto parlando vi rimando ad un altro [articolo](#).
+
 ----------
 
 ### **Arrivare a Nagarkot**
