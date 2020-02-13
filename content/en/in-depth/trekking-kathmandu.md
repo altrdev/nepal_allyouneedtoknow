@@ -82,7 +82,7 @@ We've been staying at the **Bhattidanda Fresh & Natural Homestay** in **Dhulikhe
 Second day of trekking in the Kathmandu valley and more than **15km/9mi** to walk.
 
 We've divided this second day into two parts, with a stop at **Namo Budda** in the very middle.
-To enter the Namo Budda area and monestery you'll have to pay a tax of **100NPR** pp.
+To enter the Namo Budda area and monastery you'll have to pay a tax of **100NPR** pp.
 
 If you'd decide to stop here as we did, you'll find yourself in a magic athmosphere, with prayer flags all around the area and prayer wheels to spin. Namo Budda is a must-destination for every Buddhist from Nepal and beyond.
 The monastery is actually a school, a seminary for young Buddhists. You could see teens wearing the traditional tibetan costumes involved in trainings and praying ceremonies. You could even visit the magnificient rooms where they practice. 
@@ -119,7 +119,7 @@ After two challenging days, we've planned a shorter route for this last third da
 
 This one is probably the less interesting trait under a naturalistic prospective, since you'd be walking on a highway (still a dusty road though).
 
-If you prefer, you could even take a bus from **Khopasi** to **Panauti**. However, we do suggest to proceed on food perhaps protecting your face with a mask like [these](https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=anti pollution mask&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=cb29fc4b91b358d91029fd7509043e9e).
+If you prefer, you could even take a bus from **Khopasi** to **Panauti**. However, we do suggest to proceed on foot perhaps protecting your face with a mask like [these](https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=anti pollution mask&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=cb29fc4b91b358d91029fd7509043e9e).
 
 You'd be walking through several villages and you could have the chance to see how real life is in towns like those, especially if you're passing by during mornings, when places like these are more alive than ever. You would see kids in their uniforms going school, men and women working in camps, clothes laying to air dry, mechanics, tailors' workshops, people wearing flip-flops while bricklaying...
 
