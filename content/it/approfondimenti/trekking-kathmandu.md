@@ -21,9 +21,9 @@ Oggi vorrei descrivervi il nostro **trekking nella valle di Kathmandu**.
 
 In base al tempo che avevamo a disposizione, abbiamo programmato un trekking di 3 giorni con queste tappe:
 
- - **Giorno 1**: Da Nagarkot a Dhulikhel
- - **Giorno 2**: Da Dhulikhel a Balthali
- - **Giorno 3**: Da Balthali a Panauti
+ - **Giorno 1**: [Da Nagarkot a Dhulikhel](#nagarkot-dhulikhel)
+ - **Giorno 2**: [Da Dhulikhel a Balthali](#dhulikhel-balthali)
+ - **Giorno 3**: [Da Balthali a Panauti](#balthali-panauti)
 
  È importante dire che per effettuare questo trekking **NON** serve nessun permesso. Non è richiesta nemmeno la **TIMS**. Se non sapete di cosa sto parlando vi rimando ad un altro [articolo](#).
 
@@ -55,7 +55,7 @@ Potrete pernottare nei paesi limitrofi, fissare lì la partenza per il vostro tr
 
 ----------
 
-### **Giorno 1: trekking da Nagarkot a Dhulikhel**
+### **Giorno 1: trekking da Nagarkot a Dhulikhel** ### {#nagarkot-dhulikhel}
 
 Il primo vero giorno di trekking: si parte con una tappa abbastanza lunga. Sono più di **18km** in cui vi troverete a camminare con costante vista sull'intera catena dell'Himalaya e circondati da fiori di senape.
 Se la giornata sarà limpida, avrete la possibilità anche di scorgere il Monte Everest in lontananza!
@@ -70,11 +70,13 @@ A **Dhulikhel** abbiamo soggiornato al **Bhattidanda Fresh & Natural Homestay**,
 
 **Durata**: ~ 8h
 
+**Distanza**: ~ 18km
+
 **Dove abbiamo dormito**: Bhattidanda Fresh & Natural Homestay
 
 ----------
 
-### **Giorno 2: trekking da Dhulikhel a Balthali**
+### **Giorno 2: trekking da Dhulikhel a Balthali** ### {#dhulikhel-balthali}
 
 Il secondo tratto del nostro trekking nella valle di Kathmandu è di nuovo abbastanza lungo, parliamo di circa **15km**. 
 
@@ -103,11 +105,13 @@ A casa di questa famiglia abbiamo anche bevuto il [tè Masala](https://www.amazo
 
 **Durata**: ~ 8h
 
+**Distanza**: ~ 15km
+
 **Dove abbiamo dormito**: Sabina’s Homestay
 
 ----------
 
-### **Giorno 3: trekking da Balthali a Panauti**
+### **Giorno 3: trekking da Balthali a Panauti** ### {#balthali-panauti}
 
 Quest'ultima tappa è abbastanza breve e si cammina per circa **7km**. 
 
@@ -130,6 +134,8 @@ Qui potrete trovare la stazione di partenza dei bus:
 <small><a href="https://www.openstreetmap.org/?mlat=27.58694&amp;mlon=85.51321#map=19/27.58694/85.51321" target="_blank">Vedi mappa</a></small>
 
 **Durata**: ~ 3h
+
+**Distanza**: ~ 7km
 
 **Dove abbiamo dormito**: siamo ripartiti in bus alla volta di Kathmandu
 

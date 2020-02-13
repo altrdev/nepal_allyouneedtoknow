@@ -19,10 +19,10 @@ Dopo avervi parlato del [trekking nella valle di Kathmandu]({{< ref "trekking-ka
 
 La programmazione del nostro trekking è stata di 4 giorni con le seguenti tappe:
 
- - **Giorno 1**: Da Nayapul a Ulleri
- - **Giorno 2**: Da Ulleri a Ghorepani
- - **Giorno 3**: Da Ghorepani a Ghandruk
- - **Giorno 4**: Da Ghandruk a Nayapul 
+ - **Giorno 1**: [Da Nayapul a Ulleri](#nayapul-ulleri)
+ - **Giorno 2**: [Da Ulleri a Ghorepani](#ulleri-ghorepani)
+ - **Giorno 3**: [Da Ghorepani a Ghandruk](#ghorepani-ghandruk)
+ - **Giorno 4**: [Da Ghandruk a Nayapul](#ghandruk-nayapul)
 
  A differenza del trekking nella valle di **Kathmandu**, questo percorso prevede la **TIMS card** e il permesso **ACAP**. Se non sapete di cosa sto parlando vi rimando ad un altro [articolo](#).
 
@@ -43,7 +43,7 @@ Nayapul dista circa **40km** da Pokhara e ci metterete sulle **2h** in bus per u
 
 ----------
 
-### **Giorno 1: Da Nayapul a Ulleri**
+### **Giorno 1: Da Nayapul a Ulleri** ### {#nayapul-ulleri}
 Dovrete affrontare circa **10km** come primo giorno, composti da una parte veramente facile ed un'ultima parte impegnativa. Ma andiamo con ordine: scesi dal bus vi troverete a Nayapul che definirei un bazar a cielo aperto. 
 
 {{< bundle-image name="nayapul." alt="nayapul" caption="Il paese di Nayapul" >}}
@@ -60,7 +60,7 @@ Arrivati ad Ulleri sarete a quota **2090m**. Trovate un posto per riposare, mang
 
 {{< bundle-image name="ulleri" alt="ulleri" caption="L'ultima scalinata prima di arrivare ad Ulleri" >}}
 
-**Tempo**: ~ 4h
+**Durata**: ~ 4h
 
 **Distanza**: ~ 10km 
 
@@ -68,7 +68,7 @@ Arrivati ad Ulleri sarete a quota **2090m**. Trovate un posto per riposare, mang
 
 ----------
 
-### **Giorno 2: Da Ulleri a Ghorepani**
+### **Giorno 2: Da Ulleri a Ghorepani** ### {#ulleri-ghorepani}
 
 La seconda giornata sarà sostanzialmente tutta in salita ma abbastanza corta e meno impegnativa. Sono **8km** completamente fatti di sentieri, cascate e villaggi in pieno stile nepalese. Potete prendervela comoda sia per il passo della camminata e sia per l'uscita sul sentiero alla mattina.
 
@@ -82,7 +82,7 @@ Noi abbiamo optato per vedere **Poon Hill** all'alba, anche perchè le condizion
 
 {{< bundle-image name="ghorepani" alt="ghorepani" caption="L'entrata di Ghorepani" >}}
 
-**Tempo**: ~ 4h
+**Durata**: ~ 4h
 
 **Distanza**: ~ 8km
 
@@ -90,7 +90,7 @@ Noi abbiamo optato per vedere **Poon Hill** all'alba, anche perchè le condizion
 
 ----------
 
-### **Giorno 3: Da Ghorepani a Ghandruk**
+### **Giorno 3: Da Ghorepani a Ghandruk** ### {#ghorepani-ghandruk}
 
 Avendo scelto la salita verso Poon Hill all'alba, per forza di cose ci siamo dovuti svegliare presto. In base al periodo in cui andrete, cercate precedentemente informazioni sull'orario del sorgere del sole, oppure chiedete a qualcuno che gestisce il lodge in cui vi siete fermati. Saranno ben lieti di aiutarvi. Questo è importante per calcolare la partenza verso **Poon Hill** visto che la salita impiegherà circa **1h**. 
 
@@ -107,7 +107,7 @@ Ritornate a **Ghorepani** e recuperate i vostri zaini nel lodge in cui avete pas
 
 Inizialmente la nostra intenzione era quella di fermarci a **Tadapani**, ma sentendoci bene, abbiamo deciso di proseguire fino a **Ghandruk**. La camminata Tadapani-Ghandruk è semplice e secondo me vale la pena prolungare la camminata se fate questo percorso. Abbiamo avuto anche la fortuna di vedere le scimmie bianche nella foresta appena dopo Tadapani.
 
-**Tempo**: ~ 7h
+**Durata**: ~ 7h
 
 **Distanza**: ~ 16km
 
@@ -115,13 +115,13 @@ Inizialmente la nostra intenzione era quella di fermarci a **Tadapani**, ma sent
 
 ----------
 
-### **Giorno 4: Da Ghandruk a Nayapul**
+### **Giorno 4: Da Ghandruk a Nayapul** ### {#ghandruk-nayapul}
 
 Quest'ultimo giorno di trekking è di difficoltà bassa, in quanto andrete praticamente sempre in discesa o in pianura. Molte persone terminano il trekking a **Kimche** dove è possibile prendere un bus/jeep per ritornare a **Nayapul** ma noi abbiamo voluto concludere sulle nostre gambe l'intero anello.
 
 Godetevi la facile camminata e ritornate al controllo **ACAP** a **Birethanti** in cui vi verrà registrata l'uscita. Camminate fino a **Nayapul** nello stesso punto in cui il bus vi aveva lasciato all'andata. Potete attendere e prenderne un altro che vi riporterà a **Pokhara**. Dovreste trovare un passaggio ogni 15 minutti.
 
-**Tempo**: ~ 4h 
+**Durata**: ~ 4h 
 
 **Distanza**: ~ 12km
 
