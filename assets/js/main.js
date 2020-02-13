@@ -2,7 +2,11 @@
  * Created by fabiomadeira on 25/02/15.
  */
 // jQuery for page scrolling feature
+
 jQuery(document).ready(function(e) {
+    
+    language();
+    
     e(".scroll").click(function(t) {
         t.preventDefault();
         e("html,body").animate({
@@ -11,6 +15,9 @@ jQuery(document).ready(function(e) {
     })
     var lang;
     
+});
+
+function language() {
     if (!getCookie("lang")) {
         lang = navigator.language || navigator.userLanguage;
         setCookie("lang", lang, 7);
@@ -21,8 +28,7 @@ jQuery(document).ready(function(e) {
         var languageLink = document.getElementById("translate_page_" + lang).href;
         location.href = languageLink;
     }
-
-});
+}
 
 function setCookie(name, value, days) {
     var d = new Date;

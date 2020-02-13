@@ -7,16 +7,16 @@
             <section id="tips">
                 <div class="container">
                     {{ $data := index .Site.Data .Site.Language.Lang }}
-                    {{ range $data.tips }}
+                    {{ range $tip := $data.tips }}
                         <h3>
                             <strong><a name="{{ .name }}" href="#{{ .name }}">{{ .name }}</a></strong>
                         </h3>
                         <div class="panel panel-default">
                             <div class="panel-body">
                             {{ range $i, $el := .source }}
-                                <h5>
-                                    <i class="{{ .icon }}"></i>&nbsp;&nbsp;
-                                    <strong><a href="#">Tip {{ add $i 1 }}</a></strong>&nbsp;-&nbsp;{{ $el.description | safeHTML }}
+                                <h5 id="{{ $tip.name }}-{{ add $i 1 }}">
+                                    <i class="{{ $el.icon }}"></i>&nbsp;&nbsp;
+                                    <strong><a href="#{{ $tip.name }}-{{ add $i 1 }}">Tip {{ add $i 1 }}</a></strong>&nbsp;-&nbsp;{{ $el.description | safeHTML }}
                                 </h5>
                             {{ end }}
                             </div>
