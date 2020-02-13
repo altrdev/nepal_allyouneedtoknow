@@ -11,7 +11,6 @@ highlight: true
 image: media/trekking-annapurna.jpg
 markup: blackfriday
 translationKey: trekking-annapurna
-draft: true
 ---
 
 ### **Preparing trekking**
