@@ -25,7 +25,7 @@ In base al tempo che avevamo a disposizione, abbiamo programmato un trekking di 
  - **Giorno 2**: [Da Dhulikhel a Balthali](#dhulikhel-balthali)
  - **Giorno 3**: [Da Balthali a Panauti](#balthali-panauti)
 
- È importante dire che per effettuare questo trekking **NON** serve nessun permesso. Non è richiesta nemmeno la **TIMS**. Se non sapete di cosa sto parlando vi rimando ad un altro [articolo](#).
+ È importante dire che per effettuare questo trekking **NON** serve nessun permesso. Non è richiesta nemmeno la **TIMS**. Se non sapete di cosa sto parlando date un'occhiata [qui]({{< ref "consigli.md#Trekking-1" >}}).
 
 ----------
 
@@ -50,7 +50,7 @@ Che voi siate di passaggio oppure pernottiate a Nagarkot, dovrete pagare una tas
 
 Il costo è di **340NPR**. Se volete saperne di più date una lettura a [questo](https://www.thelongestwayhome.com/travel-guides/nepal/nagarkot/nagarkot-guide.html#fees5).
 
-Noi abbiamo fissato la partenza del nostro trekking qui perchè ci era stato consigliato in quanto luogo strategico da cui vedere il tramonto sull'Himalaya, ma onestamente non abbiamo trovato Nagarkot per niente interessante e vista anche la tassa richiesta per soggiornarvi ci sentiamo di sconsigliarvi questa tappa.
+Noi abbiamo fissato la partenza del nostro trekking qui perchè ci era stato consigliato in quanto luogo strategico da cui vedere il tramonto sull'Himalaya, ma onestamente non abbiamo trovato Nagarkot per niente interessante e vista anche la tassa richiesta per soggiornarvi ci sentiamo di **sconsigliarvi** questa tappa.
 Potrete pernottare nei paesi limitrofi, fissare lì la partenza per il vostro trekking ed evitare un'antipatica spesa extra.
 
 ----------
@@ -66,7 +66,7 @@ La prima parte del percorso è decisamente lontana da ogni contesto urbano ed è
 
 Arrivati a **Dhulikhel**, la camminata si fa più urbana. Ricordo ancora che il nostro passaggio nella cittadina ha suscitato molta curiosità. Forse perchè il passaggio di occidentali, almeno a Dicembre, periodo in cui siamo stati noi, non è così frequente. Ed effettivamente abbiamo incontrato pochissimi stranieri su questa tratta. 
 
-A **Dhulikhel** abbiamo soggiornato al **Bhattidanda Fresh & Natural Homestay**, di cui portiamo ancora un bellissimo ricordo. Grandissima ospitalità ed ottimo **Dal Bhat**.
+A **Dhulikhel** abbiamo soggiornato al **Bhattidanda Fresh & Natural Homestay**, di cui portiamo ancora un bellissimo ricordo. Grandissima ospitalità ed ottimo [Dal Bhat]({{< ref "consigli.md#Cibo-2" >}}).
 
 **Durata**: ~ 8h
 
