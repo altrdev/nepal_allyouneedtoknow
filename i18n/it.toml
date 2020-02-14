@@ -42,3 +42,12 @@ other = "da"
 
 [related-posts]
 other = "Articoli correlati"
+
+[prefix-coffee]
+other = "Se ti è piaciuto questo articolo offrici un "
+
+[suffix-coffee]
+other = "caffè"
+
+[donation-page]
+other = "donazioni"

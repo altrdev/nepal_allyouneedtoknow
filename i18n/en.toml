@@ -42,3 +42,12 @@ other = "by"
 
 [related-posts]
 other = "Related Posts"
+
+[prefix-coffee]
+other = "If you like this post buy us a "
+
+[suffix-coffee]
+other = "coffee"
+
+[donation-page]
+other = "donate"
