@@ -3,7 +3,7 @@ date: 2020-02-01
 markup: blackfriday
 tags: [ consigli di viaggio, viaggi fai da te, cosa vedere in nepal, trekking in nepal, annapurna, nepal, viaggiare senza soldi, all you need to know, nepal all you need to know, nepal tips, tutto quello che devi sapere ]
 description: Consigli di viaggio per un viaggio fai da te in Nepal. Tutto quello che devi sapere per un trekking sull'Annapurna e molto altro. 
-image: media/bhaktapur.jpg
+image: media/bhaktapur-woman.jpg
 ---
 
 # Cerchi consigli di viaggio per la tua avventura in Nepal? 
