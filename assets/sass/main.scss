@@ -1,3 +1,7 @@
+$main_color: {{ .Site.Params.theme.main_color | default "#ffffff" }};
+$main_color_hover: {{ .Site.Params.theme.main_color_hover | default "#ffffff" }};
+$code_color : {{ .Site.Params.theme.code_color | default "#c7254e" }};
+
 /* Main page with stikky-footer */
 html, body {
   background-color: #fff;
@@ -14,7 +18,7 @@ body{ min-height:100%; padding:0; margin:0; position:relative; }
 body::after{ content:''; display:block; height:100px; }
 
 body {
-  border-top: 20px solid #CB2E40;
+  border-top: 20px solid $main_color;
 }
 
 /* Wrapper for page content to push down footer */
@@ -98,10 +102,10 @@ body {
   margin: 20px 0;
 }*/
 .container a {
-  color: #CB2E40;
+  color: $main_color;
 }
 .container a:hover {
-  color: rgb(163, 37, 52);
+  color: $main_color_hover;
 }
 .container p img, .img-responsive {
   display: block;
@@ -135,10 +139,10 @@ body {
   font-size: 15px;
 }
 .panel-default h4 a, h5 a {
-  color: #CB2E40;
+  color: $main_color;
 }
 .panel-default h4 a:hover, h5 a:hover {
-  color: rgb(163, 37, 52);
+  color: $main_color_hover;
 }
 .panel{
   border-style: none;
@@ -212,7 +216,7 @@ body {
 	color: #6b6b6b;
 }
 div.footer {
-  border-bottom: 20px solid #CB2E40;
+  border-bottom: 20px solid $main_color;
 }
 .language-switch {
   height: 21px;
@@ -259,6 +263,11 @@ footer{
   text-align: center;
   font-size: 14px;
 }
+
+code {
+  color: $code_color !important;
+}
+
 
 @media only screen and (max-width: 500px) {
   .flag-image {
