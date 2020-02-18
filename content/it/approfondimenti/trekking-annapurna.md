@@ -24,14 +24,14 @@ La programmazione del nostro trekking è stata di 4 giorni con le seguenti tappe
  - **Giorno 3**: [Da Ghorepani a Ghandruk](#ghorepani-ghandruk)
  - **Giorno 4**: [Da Ghandruk a Nayapul](#ghandruk-nayapul)
 
- A differenza del trekking nella valle di **Kathmandu**, questo percorso prevede la **TIMS card** e il permesso **ACAP**. Se non sapete di cosa sto parlando vi rimando ad un altro [articolo](#).
+ A differenza del trekking nella valle di **Kathmandu**, questo percorso prevede la **TIMS card** e il permesso **ACAP**. Se non sapete di cosa sto parlando vi rimando [qui]({{< ref "consigli.md#Trekking-1" >}}).
 
 ----------
 
 ### **Arrivare a Nayapul**
-Per raggiungere **Nayapul**, dovrete prima arrivare a Pokhara. Ecco un [articolo](#) con dei suggerimenti per arrivare a Pokhara direttamente da Kathmandu.
+Per raggiungere **Nayapul**, dovrete prima arrivare a Pokhara. Vi consigliamo di non prendere un local bus per questo lungo viaggio, ma di affidarvi ad una compagnia privata  (per esempio a Greenline) come abbiamo fatto noi. Per approfondire le dirrefenze tra le diverse tipologie di bus disponibili, date un'occhiata [qui]({{< ref "consigli.md#Transport-5" >}}).
 
-A Pokhara potete decidere se prendere un taxi oppure un bus verso **Nayapul**. Noi abbiamo scelto il bus che potete prendere al **Baglung Bus Park**. State attenti in quanto la stazione dei bus, non è nei pressi del lago quindi regolatevi di conseguenza. Lo potete raggiungere a piedi ma calcolate le tempistiche dalla vostra guest house oppure in taxi.
+A Pokhara potete decidere se prendere un taxi (400NPR circa), una jeep (4.500-6.500NPR) oppure un bus verso **Nayapul**. Noi abbiamo scelto il bus che potete prendere al **Baglung Bus Park**. State attenti perchè la stazione dei bus non è nei pressi del lago, quindi regolatevi di conseguenza. La potete raggiungere anche a piedi con una camminata di 2/3 km dal lakeside ma calcolate bene le tempistiche. I bus partono la mattina ad orari prestabiliti, almeno in teoria, ma le partenze sono frequenti quindi non preoccupatevi perchè non rischierete di perdere la corsa.
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=83.98124635219575%2C28.230956755701715%2C83.98414313793184%2C28.233059942839873&amp;layer=mapnik&amp;marker=28.23200835445221%2C83.98269474506378"></iframe>
 
@@ -39,26 +39,27 @@ A Pokhara potete decidere se prendere un taxi oppure un bus verso **Nayapul**. N
 
 Nayapul dista circa **40km** da Pokhara e ci metterete sulle **2h** in bus per un costo di **200NPR**. 
 
-{{< bundle-image name="nayapul-bus" alt="nayapul-bus" caption="Tipico bus per gli spostamenti locali" >}}
+{{< bundle-image name="trekking-annapurna-nayapul-bus" alt="trekking-annapurna-nayapul-bus" caption="Trekking sull'Annapurna: in bus verso Nayapul" >}}
 
 ----------
 
-### **Giorno 1: Da Nayapul a Ulleri** ### {#nayapul-ulleri}
-Dovrete affrontare circa **10km** come primo giorno, composti da una parte veramente facile ed un'ultima parte impegnativa. Ma andiamo con ordine: scesi dal bus vi troverete a Nayapul che definirei un bazar a cielo aperto. 
+### **Giorno 1: trekking da Nayapul a Ulleri** ### {#nayapul-ulleri}
+Dovrete affrontare circa **10km** durante il primo giorno di trekking, composti da una parte iniziale veramente facile ed un'ultima parte impegnativa. Ma andiamo con ordine: scesi dal bus vi troverete a Nayapul, che definirei un bazar a cielo aperto. 
 
-{{< bundle-image name="nayapul." alt="nayapul" caption="Il paese di Nayapul" >}}
+{{< bundle-image name="trekking-annapurna-nayapul." alt="trekking-annapurna-nayapul" caption="Si parte da Nayapul per il trekking sull'Annapurna" >}}
 
-Seguite l'unica strada carrozzabile fino a **Birethanti** dove troverete un punto di controllo **ACAP**. Superato il ponte di Birethanti troverete sulla sinistra anche il controllo per il permesso **TIMS**. Se il primo checkpost è obbligatorio, in quanto si viene richiamati se non lo si vede o si cerca di fare i furbi, il secondo non lo possiamo dire con certezza. Noi comunque ci siamo passati per il timbro ed abbiamo avuto anche delle informazioni utili riguardanti il numero di persone attualmente nel circuito.
+Seguite l'unica strada carrozzabile fino a **Birethanti** dove troverete un punto di controllo **TIMS**. Superato il ponte di Birethanti troverete sulla sinistra anche il controllo per il permesso **ACAP**. Il primo checkpoint è obbligatorio, in quanto si viene richiamati se non lo si vede o si cerca di fare i furbi; in quanto al secondo, non lo possiamo dire con certezza. Noi comunque ci siamo passati per ricevere il timbro sul nostro documento ed abbiamo avuto anche delle informazioni utili riguardanti il numero di persone attualmente nel circuito.
 
-{{< bundle-image name="annapurna-conservation-area" alt="annapurna-conservation-area" caption="Il cartello testimonia che siamo nell'area dell'Annapurna" >}}
+{{< bundle-image name="trekking-annapurna-conservation-area" alt="trekking-annapurna-conservation-area" caption="Il cartello d'entrata nell'Annapurna trekking circuit" >}}
 
-Da qui in poi farete una bellissima camminata fino ad **Hile**, dove vi consiglio di fermarvi a mangiare. Dovreste aver percorso circa **8km** con un dislivello positivo di **500m**.
+Da qui in poi farete una bellissima camminata fino ad **Hile**, dove vi consiglio di fermarvi a mangiare prima di percorrere l'ultimo tratto. Dovreste aver percorso circa **8km** con un dislivello positivo di **500m**.
 
-Ora arriva la parte difficile della prima giornata, ovvero gli ultimi 2km che da Hile vi portano ad **Ulleri**. Dovrete fare ancora **500m** di dislivello condensati in questi **2km**. Capirete da soli che parliamo di gradini e per la precisione più di 3000! Fortunatamente è il vostro primo giorno e la freschezza è dalla vostra parte.
+Ora arriva la parte difficile della prima giornata, ovvero gli ultimi 2km che da Hile vi portano ad **Ulleri**. Dovrete fare ancora **500m** di dislivello condensati in questi **2km**. Capirete da soli che parliamo di un'alta pendenza scandita tutta da gradini, per la precisione più di 3000! Fortunatamente è il primo giorno e freschezza ed adrenalina sono dalla vostra parte.
 
 Arrivati ad Ulleri sarete a quota **2090m**. Trovate un posto per riposare, mangiare e passare la notte.
+I prezzi per una camera doppia si aggirano tutti attorno alle 300NPR, ma potete provare a contrattare il prezzo (noi abbiamo dormito per sole **200NPR**!)
 
-{{< bundle-image name="ulleri" alt="ulleri" caption="L'ultima scalinata prima di arrivare ad Ulleri" >}}
+{{< bundle-image name="trekking-annapurna-ulleri" alt="trekking-annapurna-ulleri" caption="Trekking sull'Annapurna, giorno 1: l'ultima scalinata verso Ulleri" >}}
 
 **Durata**: ~ 4h
 
@@ -68,9 +69,10 @@ Arrivati ad Ulleri sarete a quota **2090m**. Trovate un posto per riposare, mang
 
 ----------
 
-### **Giorno 2: Da Ulleri a Ghorepani** ### {#ulleri-ghorepani}
+### **Giorno 2: Trekking da Ulleri a Ghorepani** ### {#ulleri-ghorepani}
 
-La seconda giornata sarà sostanzialmente tutta in salita ma abbastanza corta e meno impegnativa. Sono **8km** completamente fatti di sentieri, cascate e villaggi in pieno stile nepalese. Potete prendervela comoda sia per il passo della camminata e sia per l'uscita sul sentiero alla mattina.
+La seconda giornata sarà sostanzialmente tutta in salita ma abbastanza corta e meno impegnativa. Sono **8km** completamente fatti di sentieri, cascate e villaggi in pieno stile nepalese. Potete prendervela comoda, immettendovi sul sentiero più tardi la mattina e accorciando un po' il passo per godervi i panorami.
+Chi viaggia con la [guida]({{< ref "consigli.md#Trekking-8" >}}) normalmente parte presto la mattina (attorno alle 8/8:30) quindi se viaggiate soli vi consigliamo di lasciar loro un'oretta di vantaggio così da trovarvi davanti ad un sentiero libero. 
 
 Arrivati a **Ghorepani** potete scegliere se:
 
@@ -80,7 +82,7 @@ Arrivati a **Ghorepani** potete scegliere se:
 
 Noi abbiamo optato per vedere **Poon Hill** all'alba, anche perchè le condizioni del cielo non erano così eccezionali alla sera.
 
-{{< bundle-image name="ghorepani" alt="ghorepani" caption="L'entrata di Ghorepani" >}}
+{{< bundle-image name="trekking-annapurna-ghorepani" alt="trekking-annapurna-ghorepani" caption="L'entrata di Ghorepani sul circuito dell'Annapurna" >}}
 
 **Durata**: ~ 4h
 
@@ -90,22 +92,23 @@ Noi abbiamo optato per vedere **Poon Hill** all'alba, anche perchè le condizion
 
 ----------
 
-### **Giorno 3: Da Ghorepani a Ghandruk** ### {#ghorepani-ghandruk}
+### **Giorno 3: Trekking da Ghorepani a Ghandruk** ### {#ghorepani-ghandruk}
 
 Avendo scelto la salita verso Poon Hill all'alba, per forza di cose ci siamo dovuti svegliare presto. In base al periodo in cui andrete, cercate precedentemente informazioni sull'orario del sorgere del sole, oppure chiedete a qualcuno che gestisce il lodge in cui vi siete fermati. Saranno ben lieti di aiutarvi. Questo è importante per calcolare la partenza verso **Poon Hill** visto che la salita impiegherà circa **1h**. 
 
-Informazione importante, la salita verso Poon Hill durante l'alba è a pagamento, **100NPR** a testa, mentre al tramonto non si paga nulla. Se andrete all'alba, ricordatevi il frontalino per farvi strada nell'oscurità. È una meta molto frequentata, per qusto non vi ritroverete soli durante la salita. A noi, devo dire la verità, non è andata male. Certo sulla sommità c'era gente, ma non così tanta da non sapere o riuscire a piazzarsi per fare qualche bella fotografia.
+Informazione importante, la salita verso Poon Hill durante l'alba è a pagamento, **100NPR** a testa, mentre al tramonto non si paga nulla. Se andrete all'alba, ricordate di munirvi di un frontalino per farvi strada nell'oscurità. È una meta molto frequentata, per qusto non vi ritroverete soli durante la salita. A noi, devo dire la verità, non è andata male. Certo sulla sommità c'era gente ma non così tanta da non sapere o riuscire a piazzarsi per fare qualche bella fotografia!
 
-Arrivati in cima sarete a **3200m** con una vista incredibile sulla catena dell'Annapurna. Ogni descrizione passa in secondo piano, dinnanzi a queste vette e a questo spettacolo naturale.
+Arrivati in cima sarete a **3200m** con una vista incredibile sulla catena dell'Annapurna. Ogni descrizione passa in secondo piano dinnanzi a queste vette e a questo spettacolo naturale.
 
-{{< bundle-image name="poon-hill" alt="poon-hill" caption="Poon Hill. Un balcone naturale dove osservare la catena dell'Annapurna" >}}
+{{< bundle-image name="trekking-poon-hill" alt="trekking-poon-hill" caption="Poon Hill. Un balcone naturale dove osservare la catena dell'Annapurna" >}}
 
 Potrete vedere le vette **NILGIRI SOUTH**(6839m), **ANNAPURNA SOUTH**(7219m), **BARAHA SIKHAR** (7647m), **HIUNCHULI**(6441m), **MACHHAPUCHHRE**(6993m).
-Quest'ultima è la più famosa e letteralmente significa coda di pesce vista la sua forma che la ricorda. È una vetta sacra e per questo non è possibile scalarla. 
+Quest'ultima è la più famosa e letteralmente significa coda di pesce (la famosa **fishtail**!) vista la forma che la ricorda. È una vetta sacra e per questo non è possibile scalarla. 
 
-Ritornate a **Ghorepani** e recuperate i vostri zaini nel lodge in cui avete passato la notte e proseguite in direzione **Tadapani**. Dovrete affrontare una leggere salita fino al **Deurali Pass** ma poi si inizierà a scendere. Avendo percorso il circuito a fine Dicembre, abbiamo trovato un po' di ghiaccio e neve. Avevamo comunque scarpe adeguate e non abbiamo avuto nessun tipo di problema anche se in alcuni punti abbiamo dovuto prestare la massima attenzione.
+Ritornate a **Ghorepani**, recuperate i vostri zaini nel lodge in cui avete passato la notte e proseguite in direzione **Tadapani** dopo aver fatto una buona colazione. Dovrete affrontare una leggere salita fino al **Deurali Pass** ma poi si inizierà a scendere.
+Avendo percorso il circuito a fine Dicembre, abbiamo trovato ghiaccio e un po' di neve. Avevamo [scarpe adeguate]({{< ref "consigli.md#Trekking-6" >}}) e non abbiamo avuto grossi problemi, anche se in alcuni punti abbiamo dovuto prestare la massima attenzione. Tuttavia, potrebbe essere molto utile munirsi di racchette e/o ramponi, soprattutto se non siete trekker esperti.
 
-Inizialmente la nostra intenzione era quella di fermarci a **Tadapani**, ma sentendoci bene, abbiamo deciso di proseguire fino a **Ghandruk**. La camminata Tadapani-Ghandruk è semplice e secondo me vale la pena prolungare la camminata se fate questo percorso. Abbiamo avuto anche la fortuna di vedere le scimmie bianche nella foresta appena dopo Tadapani.
+Inizialmente la nostra intenzione era quella di fermarci a **Tadapani** ma sentendoci bene ed essendo ancora piuttosto presto, abbiamo deciso di proseguire fino a **Ghandruk**. La camminata Tadapani-Ghandruk è semplice e si snoda tutta in mezzo ai boschi; secondo me vale la pena prolungare fino a Ghandruk se fate questo percorso. Camminando nel più totale silenzio abbiamo avuto anche la fortuna di vedere le **scimmie bianche** in cattività nella foresta appena dopo Tadapani!
 
 **Durata**: ~ 7h
 
@@ -115,11 +118,13 @@ Inizialmente la nostra intenzione era quella di fermarci a **Tadapani**, ma sent
 
 ----------
 
-### **Giorno 4: Da Ghandruk a Nayapul** ### {#ghandruk-nayapul}
+### **Giorno 4: Trekking da Ghandruk a Nayapul** ### {#ghandruk-nayapul}
 
-Quest'ultimo giorno di trekking è di difficoltà bassa, in quanto andrete praticamente sempre in discesa o in pianura. Molte persone terminano il trekking a **Kimche** dove è possibile prendere un bus/jeep per ritornare a **Nayapul** ma noi abbiamo voluto concludere sulle nostre gambe l'intero anello.
+Quest'ultimo giorno di trekking è di difficoltà bassa, in quanto andrete praticamente sempre in discesa o in pianura. Molte persone terminano il trekking a **Kimche** dove è possibile prendere un bus o una jeep per ritornare a **Nayapul** ma noi abbiamo voluto concludere sulle nostre gambe l'intero anello.
 
-Godetevi la facile camminata e ritornate al controllo **ACAP** a **Birethanti** in cui vi verrà registrata l'uscita. Camminate fino a **Nayapul** nello stesso punto in cui il bus vi aveva lasciato all'andata. Potete attendere e prenderne un altro che vi riporterà a **Pokhara**. Dovreste trovare un passaggio ogni 15 minutti.
+E' durante quest'ultimo tratto che abbiamo incontrato il maggior numero di [bambini]({{< ref "consigli.md#General-20" >}}) di tutto il nostro viaggio in Nepal!
+
+Godetevi la facile camminata e ritornate al controllo **ACAP** a **Birethanti**, in cui vi verrà registrata l'uscita dall'Annapurna Conservation Area. Camminate fino a **Nayapul** nello stesso punto in cui il bus vi aveva lasciato all'andata. Potete attendere e prenderne un altro che vi riporterà a **Pokhara**. Dovreste trovare un passaggio ogni 15 minuti, in cui verrete probabilmente presi di mira da qualcuno che vorrà offrirvi un passaggio in taxi.
 
 **Durata**: ~ 4h 
 

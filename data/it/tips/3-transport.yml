@@ -51,3 +51,15 @@ source:
   - icon: fa fa-plane
     number: 13
     description: Molte fonti consigliano l'esperienza di volo in <b>elicottero sull'Hymalaya</b> con vista sul monte Everest. A parte essere una cosa davvero molto turistica, la sconsigliamo se state viaggiando con un budget limitato.
+
+  - icon: fa fa-bus
+    number: 14
+    description: Viaggiare di notte in bus è fortemente sconsigliato. Le strade sono dissestate e sebbene anche durante il giorno la velocità di certi autisti faccia rizzare i capelli, pare che di notte la situazione peggiori.
+
+  - icon: fa fa-car
+    number: 15
+    description: Le tariffe dei taxi (seppur negoziabili e non fissate per legge) variano in base all'orario. I viaggi all'alba o in tarda serata costano mediamente di più.
+
+  - icon: fa fa-car
+    number: 16
+    description: Non è così inusuale che la navetta aeroportuale che il vostro ostello vi aveva promesso non si presenti al vostro arrivo in aeroporto. Non andate in panico, ci sono un sacco di taxi (o pseudo tali) nella zona degli arrivi e il prezzo è lo stesso che offrono anche gli ostelli (10USD).
