@@ -60,7 +60,7 @@ enableRobotsTXT = true
   Email     = "netlify"
   Twitter   = "allyouneedtok"
   Instagram = "allyouneedtoknow.tips"
-  Facebook  = "All-you-need-to-know-107668107442136"
+  Facebook  = "allyouneedtoknow.tips"
 
 ## Main Menu English
 [[languages.en.menu.main]]
