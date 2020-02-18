@@ -101,7 +101,7 @@ Avendo scelto la salita verso **Poon Hill all'alba**, per forza di cose ci siamo
 
 Informazione importante: la salita verso Poon Hill durante l'alba è a pagamento, **100NPR** a testa, mentre al tramonto (e durante il giorno) non si paga nulla.
 Se andrete all'alba, ricordate di munirvi di un frontalino per farvi strada nell'oscurità.
-È una meta molto frequentata, per qusto non vi ritroverete soli durante la salita. A noi, devo dire la verità, non è andata male. Certo sulla sommità c'era gente ma non così tanta da non sapere o riuscire a piazzarsi per fare qualche bella fotografia!
+È una meta molto frequentata, per questo non vi ritroverete soli durante la salita. A noi, devo dire la verità, non è andata male. Certo sulla sommità c'era gente ma non così tanta da non sapere o riuscire a piazzarsi per fare qualche bella fotografia!
 
 Arrivati in cima sarete a **3200m** con una vista incredibile sulla catena dell'**Annapurna**. Ogni descrizione passa in secondo piano dinnanzi a queste vette e a questo spettacolo naturale.
 
