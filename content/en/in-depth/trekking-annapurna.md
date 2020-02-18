@@ -15,7 +15,7 @@ translationKey: trekking-annapurna
 
 ### **Get prepared for the Annapurna Circuit Trek**
 
-After having shared our [trekking in the Kathmandu Valley]({{< ref "trekking-kathmandu.md" >}}), it's definitely worth telling you about the **Annapurna Circuit Trek**. More in details, we've been through a ring trail that has brought us on a balcony to see the Annapurna chain in its whole: **Poon Hill**.
+After having shared our [trekking in the Kathmandu Valley]({{< ref "trekking-kathmandu.md" >}}), it's definitely worth telling you about our trekking route on the **Annapurna Circuit Trek**. More in details, we've been through a ring trail that has brought us on a natural balcony to see the Annapurna chain in its whole: **Poon Hill**.
 
 We've been on a 4 days trek as follows:
 
@@ -26,7 +26,7 @@ We've been on a 4 days trek as follows:
 
 Differently from trekking the **Kathmandu** Valley, to trek this trait on the Himalayas you'll need both the **TIMS card** and **ACAP**. If you don't know what I'm talking about, read [this]({{< ref "tips.md#Trekking-1" >}}).
 
-We decided not to hire a guide nor a porter({{< ref "tips.md#Trekking-9" >}}), and so we traveled solo.
+We decided not to hire a guide nor a [porter]({{< ref "tips.md#Trekking-9" >}}), and so we traveled solo.
 
 ----------
 
@@ -40,7 +40,8 @@ Departing from Pokhara, you can decide whether to take a taxi (1,200NPR), a jeep
 
 <small><a href="https://www.openstreetmap.org/?mlat=28.23201&amp;mlon=83.98269#map=19/28.23201/83.98269" target="_blank">See map</a></small>
 
-Nayapul is around **40km/25mi** far from Pokhara, so it would take you **2h** more or less to get there by bus; the ride is **200NPR**.
+Nayapul is around **40km/25mi** far from Pokhara, so it would take you **2h** more or less to get there by bus.
+This ride is **200NPR**.
 
 {{< bundle-image name="trekking-annapurna-nayapul-bus" alt="trekking-annapurna-nayapul-bus" caption="Annapurna Circuit Trek: bus ride towards Nayapul" >}}
 
@@ -59,7 +60,8 @@ Just keep following the only roadway towards **Birethanti** when you'll have to 
 
 Here after, you will walk peacefully until reaching **Hile**, a small village where we do suggest to stop to have something to eat. At this point, you should've walked for around **8km/5mi** with an elevation gain of **500m/1,700ft**.
 
-Now, the hardest part. Only **2km/1.3mi** will be missing til entering **Ulleri**, but you'll need to gain another 500m/1,700ft in elevation within this very last trait only. This high slope is all made of steps (more that 3,000 actually), so that you will hate stairs and the end of your journey! Luckily, this is the first day on track, so you're still fresh and energized.
+Now, the hardest part.
+Only **2km/1.3mi** will be missing til entering **Ulleri**, but you'll need to gain another 500m/1,700ft in elevation within this very last trait only. This high slope is all made of steps (more that 3,000 actually), so that you will hate stairs and the end of your journey! Luckily, this is the first day on track, so you're still fresh and energized.
 
 **Ulleri** is located at **2.090m/6,800ft**. Find a place to rest, have dinner and spend the night in this village. Price for a double room is usually 300NPR, but don't hold back from negotiation (we got a **double room for 200NPR** only).
 
@@ -75,7 +77,7 @@ Now, the hardest part. Only **2km/1.3mi** will be missing til entering **Ulleri*
 
 ### **Day 2: Trekking from Ulleri to Ghorepani** ### {#ulleri-ghorepani}
 
-Day two is all uphill, but shorter and easier than day one of this trekking on the Annapurna. This day trail is a **8km/5mi** one, a basic mountain track Nepalese style, with plenty of villages, little rivers and waterfalls. You can take it slowly, meaning you can get on track later in the morning and enjoy the views. People traveling with a [guide]({{< ref "tips.md#Trekking-8" >}}) usually depart early in the morning (around 8/8:30am), so if you're traveling solo we do suggest to depart an hour later than them or so, so that your track will be free from crowds.
+Day two is all uphill, but shorter and easier than day one of this trekking on the Annapurna. This day trail is a **8km/5mi** one, a basic mountain track Nepalese style, with plenty of villages, little rivers and waterfalls. You can take it slowly, meaning you can get on track later in the morning and enjoy the views. People traveling with a [guide]({{< ref "tips.md#Trekking-8" >}}) usually depart early in the morning (around 8-8:30am), so if you're traveling solo we do suggest to depart an hour later than them or so, so that your track will be free from crowds.
 
 Once arrived in **Ghorepani** you can choose whether to:
 
