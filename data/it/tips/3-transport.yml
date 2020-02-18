@@ -6,11 +6,11 @@ source:
   
   - icon: fa fa-car
     number: 2
-    description: Il traffico nepalese è folle. Se vi capiterà di salire su un taxi o un auto privata non vi spaventate. Per qualche strano motivo gli autisti in Nepal sono tanto pazzi quanto bravi ad evitare incidenti.
+    description: Il traffico nepalese è folle. Se vi capiterà di salire su un taxi o un auto privata non vi spaventate. Per qualche strano motivo gli autisti in Nepal sono tanto pazzi quanto bravi a evitare incidenti.
 
   - icon: fa fa-motorcycle
     number: 3
-    description: Le moto sono molto diffuse ovunque perchè permettono di destreggiarsi meglio nel traffico.
+    description: Le moto sono molto diffuse perché permettono di destreggiarsi meglio nel traffico.
 
   - icon: fa fa-train
     number: 4
@@ -22,7 +22,7 @@ source:
 
   - icon: fa fa-bus
     number: 6
-    description: <a href="http://greenline.com.np/" target="_blank"><b>Greenline</b></a> è la compagnia di bus privati più conosciuta, specialmente per la tratta Kathmandu-Pokhara. Il costo è di $50 a persona a/r. Ci impiega dalle 7 alle 8 ore per andare da Katmandu a Pokhara (o vice versa). Incluso nel prezzo c'è il pranzo a buffet in un resort di proprietà di Greenline.<br> <a href="https://osm.org/go/zrWczLYmT?m=" targer="_blank">Qui</a> c'è il loro ufficio a Kathmandu. Occhi aperti perchè non è facile trovarlo.<br> <a href="https://osm.org/go/zsqLcnxs7?m=" targer="_blank">Questo</a> invece è l'ufficio Greenline a Pokhara.
+    description: <a href="http://greenline.com.np/" target="_blank"><b>Greenline</b></a> è la compagnia di bus privati più conosciuta, specialmente per la tratta Kathmandu-Pokhara. Il costo è di $50 a persona a/r. Ci impiega dalle 7 alle 8 ore per andare da Katmandu a Pokhara (o vice versa). Incluso nel prezzo c'è il pranzo a buffet in un resort di proprietà di Greenline.<br> <a href="https://osm.org/go/zrWczLYmT?m=" targer="_blank">Qui</a> c'è il loro ufficio a Kathmandu. Occhi aperti perché non è facile trovarlo.<br> <a href="https://osm.org/go/zsqLcnxs7?m=" targer="_blank">Questo</a> invece è l'ufficio Greenline a Pokhara.
 
   - icon: fa fa-bus
     number: 7
@@ -46,7 +46,7 @@ source:
 
   - icon: fa fa-plane
     number: 12
-    description: Si possono prendere <b>voli interni</b> per la tratta Kathmandu-Pokhara e ritorno. Noi consigliamo di prendere un bus, primo perchè costa meno (130USD vs 25USD), secondo perchè l'impatto ambientale è decisamente inferiore.
+    description: Si possono prendere <b>voli interni</b> per la tratta Kathmandu-Pokhara e ritorno. Noi consigliamo di prendere un bus, primo perché costa meno (130USD vs 25USD), secondo perché l'impatto ambientale è decisamente inferiore.
 
   - icon: fa fa-plane
     number: 13

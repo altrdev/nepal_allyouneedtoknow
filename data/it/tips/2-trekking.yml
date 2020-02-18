@@ -17,7 +17,7 @@ source:
 
   - icon: fa fa-camera
     number: 3
-    description: E' vietato fare video o utilizzare <b>droni</b> a determinate altitudini. Informatevi bene se avete intenzione di fare qualche cosa del genere per non incorrere in sanzioni.
+    description: È vietato fare video o utilizzare <b>droni</b> a determinate altitudini. Informatevi bene se avete intenzione di fare qualche cosa del genere per non incorrere in sanzioni.
   
   - icon: fa fa-map-o
     number: 4
@@ -25,7 +25,7 @@ source:
 
   - icon: fa fa-snowflake-o
     number: 5
-    description: Il <b>periodo migliore</b> per fare trekking sull'Hymalaya va da Ottobre fino a metà Novembre. Ovviamente è anche il periodo più turistico, quindi se avete in programma un trekking molto battuto (es. Poon Hill) potreste ritrovarvi tra la folla. Da Novembre a fine Dicembre è comunque un buon momento perchè è meno affollato e non fa così freddo. In primavera c'è la stagione delle piogge quindi è sconsigliabile partire anche perchè molto probabilmente in alto nevicherà.
+    description: Il <b>periodo migliore</b> per fare trekking sull'Himalaya va da Ottobre fino a metà Novembre. Ovviamente è anche il periodo più turistico, quindi se avete in programma un trekking molto battuto (es. Poon Hill) potreste ritrovarvi tra la folla. Da Novembre a fine Dicembre è comunque un buon momento perché è meno affollato e non fa così freddo. In primavera c'è la stagione delle piogge quindi è sconsigliabile partire anche perché molto probabilmente in alto nevicherà.
 
   - icon: fa fa-snowflake-o
     number: 6
@@ -49,11 +49,11 @@ source:
   
   - icon: fa fa-bed
     number: 11
-    description: Partire per un trek sull'Hymalaya significa doversi <b>trovare una stanza</b> direttamente in loco, specialmente se viaggiate soli e senza guida. Quando arriverete alla destinazione del giorno, dovrete chiedere porta a porta se c'è una stanza libera. Non dimenticate di contrattare i prezzi. 
+    description: Partire per un trek sull'Himalaya significa doversi <b>trovare una stanza</b> direttamente in loco, specialmente se viaggiate soli e senza guida. Quando arriverete alla destinazione del giorno, dovrete chiedere porta a porta se c'è una stanza libera. Non dimenticate di contrattare i prezzi. 
 
   - icon: fa fa-bed
     number: 12
-    description: Probabilmente consumerete almeno cena e colazione presso il lodge in cui alloggerete. I lodge hymalayani hanno praticamente tutti lo stesso <b>menù</b> perchè fanno parte di una sorta di comitato. Ognuno di essi ha il proprio orto, ove possibile.
+    description: Probabilmente consumerete almeno cena e colazione presso il lodge in cui alloggerete. I lodge himalayani hanno praticamente tutti lo stesso <b>menù</b> perchè fanno parte di una sorta di comitato. Ognuno di essi ha il proprio orto, ove possibile.
 
   - icon: fa fa-shower
     number: 13
