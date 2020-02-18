@@ -24,7 +24,7 @@ La programmazione del nostro trekking è stata di 4 giorni con le seguenti tappe
  - **Giorno 3**: [Da Ghorepani a Ghandruk](#ghorepani-ghandruk)
  - **Giorno 4**: [Da Ghandruk a Nayapul](#ghandruk-nayapul)
 
- A differenza del trekking nella valle di **Kathmandu**, questo percorso prevede la **TIMS card** e il permesso **ACAP**. Se non sapete di cosa sto parlando vi rimando [qui]({{< ref "consigli.md#Trekking-1" >}}).
+A differenza del trekking nella valle di **Kathmandu**, questo percorso prevede la **TIMS card** e il permesso **ACAP**. Se non sapete di cosa sto parlando vi rimando [qui]({{< ref "consigli.md#Trekking-1" >}}).
 
 Abbiamo deciso di non servirci né di una guida né di un [porter]({{< ref "consigli.md#Trekking-9" >}}), viaggiando quindi in coppia da soli.
 ----------
