@@ -47,11 +47,11 @@ Nayapul dista circa **40km** da Pokhara e ci metterete sulle **2h** in bus per u
 
 ### **Giorno 1: trekking da Nayapul a Ulleri** ### {#nayapul-ulleri}
 
-Dovrete affrontare circa **10km** durante il primo giorno di trekking, composti da una parte iniziale veramente facile ed un'ultima parte impegnativa. Ma andiamo con ordine: scesi dal bus vi troverete a Nayapul, che definirei un bazar a cielo aperto. 
+Dovrete affrontare circa **10km** durante il primo giorno di **trekking sull'Annapurna**, composti da una parte iniziale veramente facile ed un'ultima parte impegnativa. Ma andiamo con ordine: scesi dal bus vi troverete a **Nayapul**, che definirei un bazar a cielo aperto. 
 
 {{< bundle-image name="trekking-annapurna-nayapul." alt="trekking-annapurna-nayapul" caption="Si parte da Nayapul per il trekking sull'Annapurna" >}}
 
-Seguite l'unica strada carrozzabile fino a **Birethanti** dove troverete un punto di controllo **TIMS**. Superato il ponte di Birethanti troverete sulla sinistra anche il controllo per il permesso **ACAP**. Il primo checkpoint è obbligatorio, in quanto si viene richiamati se non lo si vede o si cerca di fare i furbi; in quanto al secondo, non lo possiamo dire con certezza. Noi comunque ci siamo passati per ricevere il timbro sul nostro documento ed abbiamo avuto anche delle informazioni utili riguardanti il numero di persone attualmente nel circuito.
+Seguite l'unica strada carrozzabile fino a **Birethanti** dove troverete un punto di controllo **TIMS**. Superato il ponte di Birethanti troverete sulla sinistra anche il controllo per il permesso **ACAP**. Il primo **checkpoint** è obbligatorio, in quanto si viene richiamati se non lo si vede o si cerca di fare i furbi; in quanto al secondo, non lo possiamo dire con certezza. Noi comunque ci siamo passati per ricevere il timbro sul nostro documento ed abbiamo avuto anche delle informazioni utili riguardanti il numero di persone attualmente nel circuito.
 
 {{< bundle-image name="trekking-annapurna-conservation-area" alt="trekking-annapurna-conservation-area" caption="Il cartello d'entrata nell'Annapurna Conservation Area" >}}
 

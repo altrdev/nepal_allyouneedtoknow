@@ -24,17 +24,17 @@ We've been on a 4 days trek as follows:
  - **Day 3**: [From Ghorepani to Ghandruk](#ghorepani-ghandruk)
  - **Day 4**: [From Ghandruk to Nayapul](#ghandruk-nayapul)
 
-Differently from trekking the **Kathmandu** Valley, to trek this trait on the Himalayas you'll need both the **TIMS card** and **ACAP**. If you don't know what I'm talking about, read [this]({{< ref "tips.md#Trekking-1" >}}).
+Differently from trekking around the **Kathmandu** Valley, to trek this trait on the Himalayas you'll need both the **TIMS card** and **ACAP**. If you don't know what I'm talking about, read [this]({{< ref "tips.md#Trekking-1" >}}).
 
-We decided not to hire a guide nor a [porter]({{< ref "tips.md#Trekking-9" >}}), and so we traveled solo.
+We decided not to hire a guide nor a [porter]({{< ref "tips.md#Trekking-9" >}}), and so we've been traveling solo (well, the two of us).
 
 ----------
 
 ### **How to get to Nayapul**
 
-To get to **Nayapul** you have to get to **Pokhara** first. Local buses are not recommended for a long ride from Kathmandu, but we do suggest to book a sit on a private company's bus instead (such as Greenline) like we did. To know more about the differences between the available buses have a look [here]({{< ref "tips.md#Transport-5" >}}).
+To get to **Nayapul** you have to get to **Pokhara** first. Local buses are not recommended for a long ride from Kathmandu, but we do suggest to book a seat on a private company's bus instead (such as Greenline) like we did. To know more about the differences between all the available bus options, have a look [here]({{< ref "tips.md#Transport-5" >}}).
 
-Departing from Pokhara, you can decide whether to take a taxi (1,200NPR), a jeep (4,500-6,500NPR) or a bus to get to **Nayapul**. We choose the latter option and have taken a bus at the **Baglung Bus Park**. Be careful cause this station is not so close to the lakeside (which is the heart of Pokhara). You can walk to get to the Bus Park but make sure it won't take you too long. Buses depart in the morning following a timetable, at least they should. However, there are several departures starting at early morning til midday so you won't risk to miss your ride.
+Departing from Pokhara, you can decide whether to take a taxi (~1,200NPR), a jeep (~4,500-6,500NPR) or a bus to get to **Nayapul**. We choose the latter option and have taken a bus at the **Baglung Bus Park**. Be careful cause this station is not so close to **Pokhara lakeside** (which is the heart of the city). You can walk to get to the Bus Park but make sure it won't take you too long. Buses depart in the morning following a timetable, at least they should. However, there are several departures starting at early morning til midday so you won't risk to miss your ride.
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=83.98124635219575%2C28.230956755701715%2C83.98414313793184%2C28.233059942839873&amp;layer=mapnik&amp;marker=28.23200835445221%2C83.98269474506378"></iframe>
 
@@ -49,12 +49,12 @@ This ride is **200NPR**.
 
 ### **Day 1: Trekking from Nayapul to Ulleri** ### {#nayapul-ulleri}
 
-You'll have around **10km/6mi** in front of you for this very first day onto the Annapurna Circuit Trek. The initial part will be the easiest, while the last mile will be really hard.
-Anyway, first things first: your bus ride will lead you to Nayapul, which is basically an open-air bazaar.
+You'll have around **10km/6mi** in front of you for this very first day onto the **Annapurna Circuit Trek**. The initial part will be the easiest, while the last mile will be really hard.
+Anyway, first things first: your bus ride will lead you to **Nayapul**, which is basically an open-air bazaar.
 
 {{< bundle-image name="trekking-annapurna-nayapul." alt="trekking-annapurna-nayapul" caption="Nayapul is the starting point to trek the Annapurna" >}}
 
-Just keep following the only roadway towards **Birethanti** when you'll have to stop at a **TIMS** checkpoint. Then pass through the bridge and you'll find another checkpoint (the **ACAP** one) on the left. While the first one is mandatory (guards would shout at you if you'd try to pass by without doing that stop), we're not sure about the latter. However, we did stop there too to get our ACAP doc signed and we also gained some useeful info on the Annapurna Circuit trek conditions from the guy who was checking permits.
+Just keep following the only roadway towards **Birethanti** when you'll have to stop at a **TIMS checkpoint**. Then pass through the bridge and you'll find another checkpoint (the **ACAP** one) on the left. While the first one is mandatory (guards would shout at you if you'd try to pass by without doing that stop), we're not sure about the latter. However, we did stop there too to get our ACAP doc signed and we also gained some useeful info on the Annapurna Circuit trek conditions from the guy who was checking permits.
 
 {{< bundle-image name="trekking-annapurna-conservation-area" alt="trekking-annapurna-conservation-area" caption="Annapurna Conservation Area entry signal" >}}
 
@@ -117,7 +117,7 @@ Now, go back to **Ghorepani**, pack your backpacks and go back on track towards 
 You'll have to deal with a gentle rise until you'll reach the **Deurali Pass**, then you'd start downhill.
 We've been there in winter, so this section of the trail was covered of ice and snow. We were wearing [proper trekking shoes]({{< ref "tips.md#Trekking-6" >}}) so it's not been a big deal for the two of us, even though we definitely had to pay the max attention. However, it might be useful if you bring hicking sticks and/or removable spikes for ice, especially if you're not expert trekkers.
 
-Our initial plan was to stop in **Tadapani** for that night, but we were feeling good and it was not late afternoon yet, so we decided to move forward into the wild and get to **Ghandruk** on that same day. Tadapani-Gandruk is an easy track and you'll be surrounded by woods and trees; in my humble opinion, it is worth it not to stop in Tadapani and to continue towards Ghandruk. Walking peacefully in total silence, we've been lucky enough to see wild **white monkeys** on the trees right after leaving Tadapani!
+Our original plan was to stop in **Tadapani** for that night, but we were feeling good and it was not late afternoon yet, so we decided to move forward into the wild and get to **Ghandruk** on that same day. Tadapani-Gandruk is an easy track and you'll be surrounded by woods and trees; in my humble opinion, it is worth it not to stop in Tadapani and to continue towards Ghandruk. Walking peacefully in total silence, we've been lucky enough to see wild **white monkeys** on the trees right after leaving Tadapani!
 
 Ghandruk is a quite large village, even though many houses and lodges are still under construction: it is clear how this area has suffered damage after the major **earthquake** that hit Nepal back in 2015.
 
