@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 languageCode = "en-US"
 title = "Nepal all you need to know"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "nepal-allyouneedtoknow"
+disqusShortname = "all-you-need-to-know"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-156024128-1"
 
