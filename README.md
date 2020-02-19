@@ -127,8 +127,7 @@ very handy. Spin it up with the following command:
 hugo serve
 ```
 
-Now you can go to [localhost:1313][local] and the Sustain
-theme should be visible.
+Now you can go to [localhost:1313][local] and the site should be visible.
 
 ## License
 <p>
