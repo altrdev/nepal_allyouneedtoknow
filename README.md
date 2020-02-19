@@ -51,7 +51,6 @@ You must set `blog: true` in a `front matter` for transform your default page.
 Blog post adds `Disqus` comments and related post section.
 
 ### Shortcodes
-
 Some `shortcodes` are available:
 
 + bundle-image
@@ -96,11 +95,9 @@ translationKey: my-article
 
 `date`: file date
 
-`author`: name of author (`params.author[Author name]`) in a `config.toml`. 
-**Accepted values**: `Alessandro`, `Denise` 
+`author`: name of author (`params.author[Author name]`) in a `config.toml`. **Accepted values**: `Alessandro`, `Denise` 
 
-`authorLink`: social link about author.
-**Accepted values**: `Twitter`, `Instagram`, `Website`
+`authorLink`: social link about author. **Accepted values**: `Twitter`, `Instagram`, `Website`
 
 `title`: page title
 
@@ -122,7 +119,6 @@ translationKey: my-article
 
 
 ## License
-
-<p style="text-align: center;">
-  <a href="./LICENSE.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/642px-MIT_logo.svg.png" height="60"></a>
+<p>
+  <a href="./LICENSE"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/642px-MIT_logo.svg.png" height="60px"></a>
 </p>
