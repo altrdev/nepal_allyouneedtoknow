@@ -29,7 +29,7 @@ For using this special template, you must set `layout: tips` in your `front matt
 Examples in `content/en/tips.md` or `content/it/consigli.md`.
 
 Format `data` content like this:
-```
+```yaml
 name: General
 source:
   - icon: fa fa-flag
