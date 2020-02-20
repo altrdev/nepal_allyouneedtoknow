@@ -65,7 +65,7 @@ Only **2km/1.3mi** will be missing til entering **Ulleri**, but you'll need to g
 
 **Ulleri** is located at **2.090m/6,800ft**. Find a place to rest, have dinner and spend the night in this village. Price for a double room is usually 300NPR, but don't hold back from negotiation (we got a **double room for 200NPR** only).
 
-{{< bundle-image name="trekking-annapurna-ulleri" alt="trekking-annapurna-ulleri" caption="Trekking sull'Annapurna, giorno 1: l'ultima scalinata verso Ulleri" >}}
+{{< bundle-image name="trekking-annapurna-ulleri" alt="trekking-annapurna-ulleri" caption="Annapurna Circuit Trek, day 1: the last stairway to Ulleri" >}}
 
 **Duration**: ~ 4h
 
