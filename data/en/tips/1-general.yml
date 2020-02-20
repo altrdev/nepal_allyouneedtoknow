@@ -22,9 +22,9 @@ source:
 
   - icon: fa fa-sign-in
     number: 5
-    description: > 
+    description: >
       If you decide not to request your Visa online, you'll be asked to go through a quite long process at your arrival.
-      <br>1) Grab you patience and go in line to request your Visa filling a form in at the automathic machines scattered around the immigration area. <b>This can be skipped by doing the online process</b>.
+      <br>1) Grab you patience and go in line to request your Visa filling a form in at the automatic machines scattered around the immigration area. <b>This can be skipped by doing the online process</b>.
       <br>2) Go in line for paying for your Visa. Remember cash are highly recommended.
       <br>3) Go in the last line for the ultimate check and to get the stamp in your passport. If everything's fine, congrats! You're now in the country and one step closer to reach the Nirvana.
 
@@ -47,7 +47,7 @@ source:
   - icon: fa fa-money
     number: 11
     description: Don't trust prices on booking.com. When in Nepal you will probably be charged more than expected. That's why it might be worth it not to book in advance and find a room directly on site.
-  
+
   - icon: fa fa-thermometer-0
     number: 12
     description: There's no heating in Nepali houses, so make sure to have warm nightwear. Having a sleepbag is also necessary if you're going on a trek, but it can be useful in cities like Kathmandu too.
@@ -58,11 +58,11 @@ source:
 
   - icon: fa fa-plug
     number: 14
-    description: > 
-      Nepal and India have their own <b>plug</b> type, so EU or US ones might not work. 
-      <a href="https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=nepal india adapter&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=31b9493a61a7a3c7f2421927f33b80e5" target="_blank">This</a> is what you might need. 
+    description: >
+      Nepal and India have their own <b>plug</b> type, so EU or US ones might not work.
+      <a href="https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=nepal india adapter&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=31b9493a61a7a3c7f2421927f33b80e5" target="_blank">This</a> is what you might need.
       However, despite not having these proper electric plugs we did make it with IT and 'shuko' ones. So traveling with something like <a href="https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=allyouneeedto-20&keywords=travel adapter&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=ca2735bb89452c757c236c02a750c1a1" target="_blank">this</a> could be enough for you too.
-  
+
   - icon: fa fa-comments-o
     number: 15
     description: If there's a word you'd need to know, that is <b>Namaste</b>. It is used both for greeting and leave-taking. In Hinduism, it means "I bow to the divine in you". It's usually spoken with a slight bow and hands pressed together, palms touching and fingers pointing upwards, thumbs close to the chest. However, it may also be spoken without the gesture, or the gesture may be performed wordlessly.
@@ -86,8 +86,8 @@ source:
       <br> - because they're seen as reincarnations of bad people by Hindu;
       <br> - because they're impure, evil, which seems to be an influence by the Islamic Rule of India;
       <br> - because, religiously speaking, they act as a guard in hell, so they're seen under this evil light.
-      <br> However, Hindi say they do not actually hate or avoid dogs, so it is probably just a matter of overcrowd and uncontrolled reproduction. 
-    
+      <br> However, Hindi say they do not actually hate or avoid dogs, so it is probably just a matter of overcrowd and uncontrolled reproduction.
+
   - icon: fa fa-child
     number: 20
     description: You might encounter children begging you for some candies or chocolate. Bring some with you for any eventuality.
