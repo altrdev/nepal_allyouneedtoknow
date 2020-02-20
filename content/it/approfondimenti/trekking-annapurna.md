@@ -3,7 +3,7 @@ date: 2020-02-11
 author: Alessandro
 authorLink: Twitter
 title: "Trekking sull'Annapurna: il circuito di Poon Hill"
-description: "Il nostro trekking sull'Annapurna: il circuito di Poon Hill."
+description: Il nostro trekking sull'Annapurna: il circuito di Poon Hill.
 tags: [ trekking annapurna, poon hill, annapurna, trekking nepal, all you need to know, nepal all you need to know, tutto quello che devi sapere ]
 categories: [ trekking ]
 blog: true

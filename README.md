@@ -119,6 +119,8 @@ translationKey: my-article
 
 `translationKey`: linking multilanguage page with different name. 
 
+`draft`: specify draft content. **Accepted values**: `true`
+
 ## Local test
 Hugo includes a development server, so you can view your changes as you go -
 very handy. Spin it up with the following command:
