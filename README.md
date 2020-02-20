@@ -12,11 +12,11 @@
 - [Shortcodes](#shortcodes)
 - [Front matter](#front-matter)
 - [Local test](#local-test)
+- [Git hooks](#git-hooks)
 - [License](#license)
 
 ## Contents
 You can write four types of contents: `List`, `Tips`, `Blog post` or `Single page`  
-
 
 ### List
 This is automatic content. 
@@ -128,6 +128,15 @@ hugo serve
 ```
 
 Now you can go to [localhost:1313][local] and the site should be visible.
+
+## Git hooks
+
+You can install a Git hooks:
+
+``` sh
+cd git_hooks/
+./setup-hooks.sh
+```
 
 ## License
 <p>
