@@ -34,8 +34,16 @@ source:
 
   - icon: fa fa-street-view
     number: 9
-    description: <b>Street food<b> is not-so safe in Nepal. There's almost no refrigeration systems and the hygienic conditions are not the best neither.
+    description: <b>Street food</b> is not-so safe in Nepal. There's almost no refrigeration systems and the hygienic conditions are not the best neither.
 
   - icon: fa fa-list
     number: 10
     description: When you read 'buff' on a menu, it litterally means buffalo. Meat is usually consumed in the Kathmandu Valley only, home of Newari cuisine; it's not that frequent though. Eating cows is illegal because cows are sacred for Hindu.
+
+  - icon: fa fa-street-view
+    number: 11
+    description: <b>Panipuri</b> is a round, hollow puri filled with a mixture of flavored water, tamarind chutney, chili, chaat masala, potato, onion or chickpeas. You will see Panipuri at every corner, as this snack is the main street food dish in Nepal as well as in India.
+
+  - icon: fa fa-birthday-cake
+    number: 12
+    description: <b>Lassi</b> is a very common dessert made by mixing yogurt, milk, water and sometimes also spices. It is sometimes served within your Dal Baht dish.

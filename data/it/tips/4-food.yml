@@ -39,3 +39,11 @@ source:
   - icon: fa fa-list
     number: 10
     description: Quando leggete 'buff' sul menù, significa letteralmente bufalo. La carne è consumata principalmente nella valle di Kathmandu, dove prevale la cucina Newari; non è comunque così frequente. Mangiare carne di manzo è illegale in quanto le mucche sono sacre per gli induisti.
+
+  - icon: fa fa-street-view
+    number: 11
+    description: Il <b>panipuri</b> è una sorta di sfera vuota di pane fritto, riempita con una miscela di acqua aromatizzata, chutney di tamarindo, peperoncino, chaat masala, patate, cipolla o ceci. Troverete queste sfere ad ogni angolo in quanto il Panipuri rappresenta il cibo di strada per eccellenza in Nepal come in India.
+
+  - icon: fa fa-birthday-cake
+    number: 12
+    description: Il <b>Lassi</b> è uno dei dessert più diffusi. Assomiglia ad uno yogurt ed è di fatto ottenuto mischiando yogurt bianco, latte ed acqua, spesso con l'aggiunta di spezie. Non di rado vi verrà servito con il Dal Baht, incluso nell'ordine.
