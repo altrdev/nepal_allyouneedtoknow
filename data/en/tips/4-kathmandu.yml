@@ -40,15 +40,15 @@ source:
     number: 10
     description: The <a href="https://nepal.allyouneedtoknow.tips/in-depth/trekking-kathmandu/" target="_blank">Kathmandu valley</a> counts seven <b>UNESCO</b> sites, which are the three Durbar Squares (Kathmandu's, Bhaktapur's and Patan's), the two Stupas (Bodhanath's and Swayambhunath's), Pashupatinath and Changu Narayan.
 
-   - icon: fa fa-car
+  - icon: fa fa-car
     number: 11
     description: <b>Thamel</b> is a car-free area, but being the most touristic zone of Kathmandu it is quite overcrowded though.
 
-   - icon: fa fa-shopping-bag
+  - icon: fa fa-shopping-bag
     number: 12
     description: Kathmandu is full of shops, especially in Thamel. You'll find trekking garments and accessories at every corner. 90% of those products are counterfeited, so do not buy any. Remember than <b>counterfeiting</b> meand there's always some kind of hidden slavery in the supply chain.
 
-    - icon: fa fa-bolt
+  - icon: fa fa-bolt
     number: 13
     description: As everywhere else in Nepal, Kathmandu is consistently experiencing <b>blackouts</b>. Take this into consideration and note that blackouts imply that <b>ATMs</b> will not work, so if you need cash you'll have to wait until the signal is back.
 
@@ -62,7 +62,7 @@ source:
 
   - icon: fa fa-bus
     number: 17
-    description: The main <b>bus station</b> is at <a href="https://osm.org/go/zrWcn0kmR-?m=&way=28523872" target="_blank">Ratna Park</b>'s, but please pay attention because<br>- not every bus always stop there when returning in Kathamndu, it really depends on traffic;<br>- buses to Bhaktapur departs from another near station, located <a href="https://osm.org/go/zrWcnzrMR-?m=&way=28523872" target="_blank">here</a>.
+    description: The main <b>bus station</b> is at <a href="https://osm.org/go/zrWcn0kmR-?m=&way=28523872" target="_blank">Ratna Park</a>'s, but please pay attention because<br>- not every bus always stop there when returning in Kathamndu, it really depends on traffic;<br>- buses to Bhaktapur departs from another near station, located <a href="https://osm.org/go/zrWcnzrMR-?m=&way=28523872" target="_blank">here</a>.
 
   - icon: fa fa-globe
     number: 18

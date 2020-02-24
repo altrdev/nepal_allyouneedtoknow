@@ -66,7 +66,7 @@ source:
 
   - icon: fa fa-bus
     number: 17
-    description: La principale <b>stazione dei bus</b> è a <a href="https://osm.org/go/zrWcn0kmR-?m=&way=28523872" target="_blank">Ratna Park</b>, ma attenzione perchè<br>- non sempre tutti i bus di ritorno a Kathmandu fanno capolinea qui, dipende molto anche dalla situazione traffico;<br>- i bus per Bhaktapur non partono da qui, bensì da <a href="https://osm.org/go/zrWcnzrMR-?m=&way=28523872" target="_blank">qui</a>.
+    description: La principale <b>stazione dei bus</b> è a <a href="https://osm.org/go/zrWcn0kmR-?m=&way=28523872" target="_blank">Ratna Park</a>, ma attenzione perchè<br>- non sempre tutti i bus di ritorno a Kathmandu fanno capolinea qui, dipende molto anche dalla situazione traffico;<br>- i bus per Bhaktapur non partono da Ratna Park, bensì da <a href="https://osm.org/go/zrWcnzrMR-?m=&way=28523872" target="_blank">qui</a>.
 
   - icon: fa fa-globe
     number: 18
