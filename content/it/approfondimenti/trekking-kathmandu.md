@@ -121,7 +121,7 @@ Volendo si può prendere il bus da **Khopasi** fino a **Panauti**, se non amate 
 
 Il paesaggio urbano permette comunque di avere una visione della vita vera dei nepalesi, soprattutto passando la mattina quando i paesi sono movimentati: bambini in divisa che prendono fantomatici scuolabus, donne e uomini che lavorano nei campi, panni stesi ad asciugare, botteghe, meccanici, sarti, uomini in infradito che eseguono lavori di muratura... 
 
-Vale la pena fermarsi ad ammirare la cittadina di **Panauti**, molto bella e con molti edifici religiosi e statue: è una delle tre antiche capitali nepalesi, ma è sicuramente meno affascinante di Bhaktapur.
+Vale la pena fermarsi ad ammirare la cittadina di **Panauti**, molto bella e con molti edifici religiosi e statue, ma è sicuramente meno affascinante di Bhaktapur.
 
 **Panauti** è anche una meta di pellegrinaggio, visto che ogni 12 anni si celebra la **Makar Mela**, una festa in onore di Shiva.
 

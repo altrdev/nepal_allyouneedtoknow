@@ -1,0 +1,73 @@
+name: Kathmandu
+source:
+  - icon: fa fa-map-pin
+    number: 1
+    description: <b>Kathmandu</b> è la capitale del Nepal. Fu fondata dal re Guna Kamadeva nel 723 d.C. e divenne la capitale del Nepal unito nel 1768.
+
+  - icon: fa fa-level-up
+    number: 2
+    description: Kathmandu si trova ad un'altitudine di <b>1.400m</b>.
+
+  - icon: fa fa-history
+    number: 3
+    description: Secondo un'antica <b>leggenda buddhista</b>, l'area in cui si trova Kathmandu in passato era occupata da un lago, ma Mañjuśrī (Buddha della Consapevolezza) tagliò con la sua spada una collina creando la gola di Chobar, permettendo così alle acque di defluire e rendendo abitabile la regione.
+
+  - icon: fa fa-plane
+    number: 4
+    description: L'<b>aeroporto</b> principale di tutto il Nepal si trova a circa 6km dal centro di Kathmandu ed è l'Aeroporto Internazionale Tribhuvan, costituito da due terminal, uno per voli domestici ed uno dedicato ai voli internazionali.
+
+  - icon: fa fa-industry
+    number: 5
+    description: Come tutto il resto del Paese, anche Kathmandu non è caratterizzata da uno spiccato <b>sviluppo industriale</b>. Anche nella capitale, la gente vive principalmente di commercio, agricoltura, turismo o lavori manuali.
+
+  - icon: fa fa-location-arrow
+    number: 6
+    description: <b>Thamel</b> è il quartiere più turistico della città, pur mantenendo uno spirito molto genuino. Consigliamo di alloggiare in questa zona perchè è molto più semplice prendere i mezzi e raggiungere i luoghi di interesse.
+
+  - icon: fa fa-map-o
+    number: 7
+    description: La piazza principale di Kathmandu è la <b>Durbar Square</b>, dichiarata patrimonio <b>UNESCO</b> alla fine degli anni 70.
+
+  - icon: fa fa-bullseye
+    number: 8
+    description: La <b>Durbar Square</b> a Kathmandu è costituita da tre aree collegate tra loro. A sud si apre Basantapur Square, un tempo stalla reale per gli elefanti. La zona principale di Durbar Square ospita numerosi tempi ed è situata a ovest. A nord-est si sviluppa invece la seconda parte di Durbar Square, dove troverete l’entrata dell’Hanuman Dhoka e altri templi. Da questo spiazzo aperto si allunga in direzione nord-est Makhan Tole, un tempo la principale arteria cittadina e tuttora la via principale di Kathmandu.
+
+  - icon: fa fa-map-o
+    number: 9
+    description: L'entrata nella Durbar Square è a pagamento per i turisti. Il biglietto è giornaliero e dà diritto all'ingresso in tutti i musei e siti dell'area della piazza; costa <b>1.000NPR</b> ed è gratuito per i bambini sotto i 10 anni.
+    
+  - icon: fa fa-map-o
+    number: 10
+    description: La sola <a href="https://nepal.allyouneedtoknow.tips/it/approfondimenti/trekking-kathmandu/" target="_blank">valle di Kathmandu</a> ha in se ben sette siti Patrimoni dell’Umanità <b>UNESCO</b> che sono le tre Durbar Square (una a Kathmandu, una nel Patan e l’altra a Bhaktapur), le due Stupa (quella di Bodhanath e Swayambhunath), Pashupatinath e Changu Narayan.
+
+  - icon: fa fa-car
+    number: 11
+    description: <b>Thamel</b> è tendenzialmente zona pedonale ma essendo il quartiere più turistico il traffico pedonale è comunque piuttosto importante.
+
+  - icon: fa fa-shopping-bag
+    number: 12
+    description: Kathmandu è piena di negozi, soprattutto nella zona di Thamel. Troverete negozietti di vestiti ed attrezzatura sportiva ogni 20 metri. La maggior parte dei prodotti è contraffatta, quindi non acquistate nulla. Ricordatevi che la <b>contraffazione</b> implica sempre qualche forma di schiavitù nella catena produttiva.
+
+  - icon: fa fa-bolt
+    number: 13
+    description: Come nel resto del Paese, anche a Kathmandu i <b>blackout</b> sono molto frequenti. Tenete in considerazione che in caso di blackout anche gli <b>ATM</b> non funzioneranno, quindi munitevi sempre di contanti e prelevate finchè ci riuscite.
+
+  - icon: fa fa-bolt
+    number: 14
+    description: Vi renderete conto dei problemi alla <b>linea elettrica</b> semplicemente dando un'occhiata ai cavi elettrici in giro per la città.
+
+  - icon: fa fa-cutlery
+    number: 15
+    description: I locali e i ristoranti si trovano per lo più ai piani alti, quindi se cercate un posto <b>dove mangiare</b> guardate in alto!
+
+  - icon: fa fa-diamond
+    number: 16
+    description: Kathmandu è una delle antiche città reali della valle, insieme con <b>Bhaktapur</b> e <b>Patan</b>. Entrambe le città sono raggiungibili in giornata da Kathmandu e sono entrambe mete consigliate. Noi in particolare abbiamo fatto tappa a Bhaktapur prima della partenza del nostro <a href="https://nepal.allyouneedtoknow.tips/it/approfondimenti/trekking-kathmandu/" target="_blank">trekking</a>. Abbiamo deciso di prendere un taxi per 1.200NPR e siamo arrivati a Bhaktapur in 1h30 circa.
+
+  - icon: fa fa-bus
+    number: 17
+    description: La principale <b>stazione dei bus</b> è a <a href="https://osm.org/go/zrWcn0kmR-?m=&way=28523872" target="_blank">Ratna Park</b>, ma attenzione perchè<br>- non sempre tutti i bus di ritorno a Kathmandu fanno capolinea qui, dipende molto anche dalla situazione traffico;<br>- i bus per Bhaktapur non partono da qui, bensì da <a href="https://osm.org/go/zrWcnzrMR-?m=&way=28523872" target="_blank">qui</a>.
+
+  - icon: fa fa-globe
+    number: 18
+    description: Le aree storiche di Kathmandu furono devastate dal <b>terremoto</b> di magnitudo locale 7,8 che colpì la nazione il 25 aprile 2015.

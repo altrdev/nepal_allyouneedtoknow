@@ -123,7 +123,7 @@ If you prefer, you could even take a bus from **Khopasi** to **Panauti**. Howeve
 
 You'd be walking through several villages and you could have the chance to see how real life is in towns like those, especially if you're passing by during mornings, when places like these are more alive than ever. You would see kids in their uniforms going school, men and women working in camps, clothes laying to air dry, mechanics, tailors' workshops, people wearing flip-flops while bricklaying...
 
-It's worth planning a stop in **Panauti**, a beautiful small city with plenty of religious sites. It is one of the three ancient capitals of the country, although way less charming than Bhaktapur.
+It's worth planning a stop in **Panauti**, a beautiful small city with plenty of religious sites although way less charming than Bhaktapur.
 
 **Panauti** is also a pilgrimage destination as **Makar Mela**, a festival in honour of Shiva, is celebrated there every 12 years.
 
