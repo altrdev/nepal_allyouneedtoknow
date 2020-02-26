@@ -54,13 +54,13 @@ source:
 
   - icon: fa fa-bus
     number: 14
-    description: Do not travel by bus at night. Roads conditions are bad and even though speed limits are non existant during the day neither, it seems like the situation gets worst at night.
+    description: Do not travel by <b>bus at night</b>. Roads conditions are bad and even though speed limits are non existant during the day neither, it seems like the situation gets worst at night.
 
   - icon: fa fa-car
     number: 15
-    description: Taxi prices (negotiable and non fixed by law) vary based on when you're taking the ride. Taxi rides at very early mornings or at late evenings costs slightly more on average.
+    description: <b>Taxi prices</b> (negotiable and non fixed by law) vary based on when you're taking the ride. Taxi rides at very early mornings or at late evenings costs slightly more on average.
 
   - icon: fa fa-car
     number: 16
-    description: It's not unusual that the airport shuttle your hostel promised you won't show up at your arrival. Don't panic, there's plenty of taxi (or kind-of-taxi) by the airport and their price is usually the same of that offered by hostels (10USD).
+    description: It's not unusual that the <b>airport shuttle</b> your hostel promised you won't show up at your arrival. Don't panic, there's plenty of taxi (or kind-of-taxi) by the airport and their price is usually the same of the one offered by hostels (10USD).
   
