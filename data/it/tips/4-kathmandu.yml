@@ -71,3 +71,8 @@ source:
   - icon: fa fa-globe
     number: 18
     description: Le aree storiche di Kathmandu furono devastate dal <b>terremoto</b> di magnitudo 7,8 che colpì la nazione il 25 aprile 2015.
+
+  
+  - icon: fa fa-users
+    number: 19
+    description: I <b>Newari</b> sono gli abitanti storici della Valle di Kathmandu e dintorni. Rappresentano ad oggi la popolazione più sviluppata dal punto di vista economico, politico e sociale in Nepal.

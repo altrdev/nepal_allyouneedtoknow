@@ -67,3 +67,7 @@ source:
   - icon: fa fa-globe
     number: 18
     description: Kathmandu historical areas have been devastated by the tremendous <b>earthquake</b> magnitudo 7.8 which happened on April 25th, 2015 in Nepal.
+
+  - icon: fa fa-users
+    number: 19
+    description: <b>Newari</b> are the historical inhabitants of the Kathmandu Valley and its surrounding areas in Nepal. Today, they consistently rank as the most economically, politically and socially advanced community of Nepal.

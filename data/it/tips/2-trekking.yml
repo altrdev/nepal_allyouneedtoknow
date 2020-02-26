@@ -66,3 +66,11 @@ source:
   - icon: fa fa-bed
     number: 15
     description: Se percorrete circuiti molto frequentati durante l'<b>alta stagione</b>, potrebbe esserci la possibilità che non troviate stanze libere per la notte. Ovviamente nessuno vi lascerà mai dormire sotto le stelle quindi potreste trovarvi a condividere una stanza con degli sconosciuti oppure a dormire sul pavimento nella sala comune.
+
+  - icon: fa fa-flag
+    number: 16
+    description: Qualunque sentiero seguiate, durante il vostro trekking vedrete un sacco di <b>prayer flags</b>. Le bandiere di preghiera tibetane sono dei semplici rettangoli di tessuto colorati che si trovano in particolare sull'Himalaya e fungono da benedizione per la zona circostante. Sono di cinque colori disposti in un ordine specifico da sinistra a destra, blu, bianco, rosso, verde e giallo. I <b>cinque colori</b> rappresentano i cinque elementi, nello specifico il blu rappresenta il cielo e lo spazio, il bianco l'aria e il vento, il rosso rappresenta il fuoco, il verde l'acqua e il giallo la terra.
+
+  - icon: fa fa-tint
+    number: 17
+    description: Portate sempre con voi almeno una borraccia e degli strumenti per il <b>filtraggio dell'acqua</b>. Noi abbiamo optato per una borraccia con filtro integrato, la <a href="https://amzn.to/2VkLeZ7" target="_blank">Grayl Geopress purifier</a>, ma potrebbero bastarvi anche sistemi di filtraggio più semplici, come <a href="https://amzn.to/32s4ANe" target="_blank">questi</a>.

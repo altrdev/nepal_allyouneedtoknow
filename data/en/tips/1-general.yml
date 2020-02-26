@@ -2,11 +2,11 @@ name: General
 source:
   - icon: fa fa-flag
     number: 0
-    description: Nepal is the only Country in the world that has not a rectangular flag.
+    description: Nepal is the only Country in the world that has not a rectangular <b>flag</b>.
 
   - icon: fa fa-money
     number: 1
-    description: Nepalese Rupees (NPR) is the official local currency. Check real time exchange <a href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=NPR&To=USDR" target="_blank">here</a>.
+    description: <b>Nepalese Rupees</b> (NPR) is the official local currency. Check real time exchange <a href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=NPR&To=USDR" target="_blank">here</a>.
 
   - icon: fa fa-sign-in
     number: 2
@@ -18,12 +18,12 @@ source:
 
   - icon: fa fa-money
     number: 4
-    description: Bring some cash with you if you're arriving by flight. You will be asked to pay for your VISA at the airport and credit cards do not usually work. Both Nepali Rupees and US Dollars are OK.
+    description: Bring some <b>cash</b> with you if you're arriving by flight. You will be asked to pay for your VISA at the airport and credit cards do not usually work. Both Nepali Rupees and US Dollars are OK.
 
   - icon: fa fa-sign-in
     number: 5
     description: >
-      If you decide not to request your Visa online, you'll be asked to go through a quite long process at your arrival.
+      If you decide <b>not</b> to request your Visa online, you'll be asked to go through a quite long process at your arrival.
       <br>1) Grab you patience and go in line to request your Visa filling a form in at the automatic machines scattered around the immigration area. <b>This can be skipped by doing the online process</b>.
       <br>2) Go in line for paying for your Visa. Remember cash are highly recommended.
       <br>3) Go in the last line for the ultimate check and to get the stamp in your passport. If everything's fine, congrats! You're now in the country and one step closer to reach the Nirvana.
@@ -46,15 +46,15 @@ source:
 
   - icon: fa fa-money
     number: 11
-    description: Don't trust prices on booking.com. When in Nepal you will probably be charged more than expected. That's why it might be worth it not to book in advance and find a room directly on site.
+    description: Don't trust prices on <b>booking.com</b>. When in Nepal you will probably be charged more than expected. That's why it might be worth it not to book in advance and find a room directly on site.
 
   - icon: fa fa-thermometer-0
     number: 12
-    description: There's no heating in Nepali houses, so make sure to have warm nightwear. Having a sleepbag is also necessary if you're going on a trek, but it can be useful in cities like Kathmandu too.
+    description: There's no heating in Nepali houses, so make sure to have warm nightwear. Having a <b>sleepbag</b> is also necessary if you're going on a trek, but it can be useful in cities like Kathmandu too.
 
   - icon: fa fa-fire
     number: 13
-    description: Giving the fact that houses are so freezing, when the sun goes down people light up fires in the streets right in front of their doors. This happens in Kathmandu either. People sit around the flames to get warmer and have dinner with family.
+    description: Giving the fact that houses are so freezing, when the sun goes down people light up fires in the streets right in front of their doors. This happens in <b>Kathmandu</b> either. People sit around the flames to get warmer and have dinner with family.
 
   - icon: fa fa-plug
     number: 14
@@ -88,6 +88,10 @@ source:
       <br> - because, religiously speaking, they act as a guard in hell, so they're seen under this evil light.
       <br> However, Hindi say they do not actually hate or avoid dogs, so it is probably just a matter of overcrowd and uncontrolled reproduction.
 
-  - icon: fa fa-child
+  - icon: fa fa-medkit
     number: 20
+    description: We do suggest to take lactic ferments before getting Nepal, let's say for 7-10 days before departure. Do not forget to bring some product to prevent or treat <b>diarrhea</b>, which is very common. Drugs and medicines are very cheap in Nepal, but do not rely too much on this because you won't find a drug-store anywhere.
+
+  - icon: fa fa-child
+    number: 21
     description: You might encounter children begging you for some candies or chocolate. Bring some with you for any eventuality.

@@ -67,3 +67,11 @@ source:
   - icon: fa fa-bed
     number: 15
     description: If you're trekking very common routes during <b>peak season</b>, there's a chance you won't be able to find an available room to spend the night at. No one will let you stay out in the freezing air, so you can either found yourself sharing a room with stranger or sleeping on the floor in the dining room.
+
+  - icon: fa fa-flag
+    number: 16
+    description: Your trekking route will be full of <b>prayer flags</b>. Tibetan prayer flags are colorful rectangular clothes usually found on the Himalayas and used to bless the surrounding countryside. They come in five colors, arranged from left to right in a specific order, blue, white, red, green, and yellow. The five colors represent the five elements - more specifically, blue symbolizes the sky and space, white symbolizes the air and wind, red symbolizes fire, green symbolizes water, and yellow symbolizes earth.
+
+  - icon: fa fa-tint
+    number: 17
+    description: Always bring with you at least one water bottle and the proper instruments to filter water. We bought a bottle with an integrated filtering system, the <a href="https://amzn.to/2VkLeZ7" target="_blank">Grayl Geopress purifier</a>. However, something like <a href="https://amzn.to/32s4ANe" target="_blank">these ones</a> could be enough too.
