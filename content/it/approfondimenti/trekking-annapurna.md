@@ -36,7 +36,9 @@ Per raggiungere **Nayapul**, dovrete prima arrivare a **Pokhara**. Vi consigliam
 
 A Pokhara potete decidere se prendere un taxi (1.200NPR circa), una jeep (4.500-6.500NPR) oppure un bus verso **Nayapul**. Noi abbiamo scelto il bus che potete prendere al **Baglung Bus Park**. State attenti perché la stazione dei bus non è nei pressi del lago, quindi regolatevi di conseguenza. La potete raggiungere anche a piedi con una camminata di 2/3 km dal Lakeside ma calcolate bene le tempistiche. I bus partono la mattina a orari prestabiliti, almeno in teoria, ma le partenze sono frequenti quindi non preoccupatevi perché non rischierete di perdere la corsa.
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=83.98124635219575%2C28.230956755701715%2C83.98414313793184%2C28.233059942839873&amp;layer=mapnik&amp;marker=28.23200835445221%2C83.98269474506378"></iframe>
+{{< leaflet-map mapHeight="500px" mapWidth="100%" mapLat="28.23201" mapLon="83.98269" zoom="17" scrollWheelZoom="false" >}}
+    {{< leaflet-marker markerLat="28.23201" markerLon="83.98269" >}}
+{{< /leaflet-map >}}
 
 <small><a href="https://www.openstreetmap.org/?mlat=28.23201&amp;mlon=83.98269#map=19/28.23201/83.98269" target="_blank">Vedi mappa</a></small>
 
@@ -147,6 +149,6 @@ Godetevi la facile camminata e ritornate al controllo **TIMS** a **Birethanti**,
 
 Questa è la traccia GPS che abbiamo disegnato e percorso:
 
-<iframe src="https://www.alltrails.com/widget/map/map--104798?scrollZoom=false&u=m" width="100%" height="400" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
-
-Potete scaricarla da **AllTrails** e seguirla sui vostri dispositivi GPS dedicati o smartphone. Potete anche adattarla alle vostre necessità, accorciando o allungando le tappe.
+{{< leaflet-map mapId="mapTrek" mapHeight="500px" mapWidth="100%" zoom="12" scrollWheelZoom="false" >}}
+    {{< leaflet-track trackPath="aynk_poonhill.gpx" lineColor="#3796bf" lineWeight="5" >}}
+{{< /leaflet-map >}}

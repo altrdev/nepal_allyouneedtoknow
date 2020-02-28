@@ -1,4 +1,4 @@
-[submodule "themes/hugo-sustain-ayntk"]
-	path = themes/hugo-sustain-ayntk
-	url = https://github.com/altrdev/hugo-sustain-ayntk.git
-	branch = master
+
+[submodule "themes/hugo-sustain-aynk"]
+	path = themes/hugo-sustain-aynk
+	url = https://github.com/altrdev/hugo-sustain-aynk.git

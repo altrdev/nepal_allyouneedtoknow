@@ -37,8 +37,9 @@ We decided to start our trekking in the Kathmandu Valley from **Nagarkot**.
 We were staying in Kathmandu and from there we went for a visit to **Bhaktapur**. Then we took a [local bus]({{< ref "tips.md#Transport-5" >}}) to get to **Nagarkot** directly from Bhaktapur. 
 If you'd like to do the same, you could take your local bus at the station near **Kamal Pokhari**:
 
-
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=85.43104469776154%2C27.66889131113201%2C85.43394148349762%2C27.671005474435237&amp;layer=mapnik&amp;marker=27.669948397896686%2C85.43249309062958"></iframe>
+{{< leaflet-map mapHeight="500px" mapWidth="100%" mapLat="27.66995" mapLon="85.43249" zoom="17" scrollWheelZoom="false" >}}
+    {{< leaflet-marker markerLat="27.66995" markerLon="85.43249" >}}
+{{< /leaflet-map >}}
 
 <small><a href="https://www.openstreetmap.org/?mlat=27.66995&amp;mlon=85.43249#map=19/27.66995/85.43249" target="_blank">See map</a></small>
 
@@ -131,7 +132,9 @@ This 3-days trekking around the Kathmandu Valley has ended on the bus we've take
 
 Here's the bus station from where we departed:
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=85.51176309585573%2C27.585879301373996%2C85.5146598815918%2C27.58799506854075&amp;layer=mapnik&amp;marker=27.58693719006014%2C85.51321148872375"></iframe>
+{{< leaflet-map mapHeight="500px" mapWidth="100%" mapLat="27.58694" mapLon="85.51321" zoom="17" scrollWheelZoom="false" >}}
+    {{< leaflet-marker markerLat="27.58694" markerLon="85.51321" >}}
+{{< /leaflet-map >}}
 
 <small><a href="https://www.openstreetmap.org/?mlat=27.58694&amp;mlon=85.51321#map=19/27.58694/85.51321" target="_blank">See map</a></small>
 
@@ -147,6 +150,6 @@ Here's the bus station from where we departed:
 
 This is the GPS track that we designed and traveled:
 
-<iframe src="https://www.alltrails.com/widget/map/map--104820?scrollZoom=false&u=m" width="100%" height="400" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
-
-You can download from  **AllTrails** and follow it on your dedicated GPS devices or smartphones. You can also adapt it to your needs, by shortening or extending the stages.
+{{< leaflet-map mapId="mapTrek" mapHeight="500px" mapWidth="100%" zoom="12" scrollWheelZoom="false" >}}
+    {{< leaflet-track trackPath="aynk_kathmandu_valley.gpx" lineColor="#3796bf" lineWeight="5" >}}
+{{< /leaflet-map >}}

@@ -1,5 +1,5 @@
 baseURL = "https://nepal.allyouneedtoknow.tips/"
-theme = "hugo-sustain-ayntk"
+theme = "hugo-sustain-aynk"
 defaultContentLanguage = "en"
 languageCode = "en-US"
 title = "Nepal all you need to know"
@@ -24,7 +24,7 @@ enableRobotsTXT = true
   languageName = "Italian"
   contentDir = "content/it"
 
-[permalinks] 
+[permalinks]
   post = "/:year/:month/:day/:slug"
 
 [params]
