@@ -8,6 +8,7 @@ tags: [ annapurna circuit trek, poon hill, poon hill trek, annapurna, trek the h
 categories: [ trekking ]
 blog: true
 highlight: true
+maps: true
 image: media/trekking-annapurna.jpg
 markup: blackfriday
 translationKey: trekking-annapurna

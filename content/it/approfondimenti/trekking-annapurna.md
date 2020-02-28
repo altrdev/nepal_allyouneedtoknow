@@ -8,6 +8,7 @@ tags: [ trekking annapurna, poon hill, annapurna, trekking nepal, all you need t
 categories: [ trekking ]
 blog: true
 highlight: true
+maps: true
 image: media/trekking-annapurna.jpg
 markup: blackfriday
 translationKey: trekking-annapurna

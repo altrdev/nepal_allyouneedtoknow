@@ -8,6 +8,7 @@ tags: [ trekking nepal, trekking kathmandu, kathmandu valley, all you need to kn
 categories: [ trekking ]
 blog: true
 highlight: true
+maps: true
 image: media/trekking-kathmandu-valley.jpg
 markup: blackfriday
 translationKey: trekking-kathmandu
