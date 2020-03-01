@@ -1,0 +1,37 @@
+name: Religion
+source:
+  - icon: fa fa-users
+    number: 1
+    description: Nepali culture is the result of several influences, and this is reflected into <b>religion</b> too. Religions in Nepal are Hinduism (81.3%), Buddhism (9.0%), Islam (4.4%), Kiratism (3.0%), Christianity (1.4%), Other (0.8%).
+
+  - icon: fa fa-warning
+    number: 2
+    description: <b>Cows</b> are sacred in the Country, so they can't be killed and eaten. It's not rare to find some walking free in Kathmandu.
+
+  - icon: fa fa-chevron-circle-up
+    number: 3
+    description: <b>Stupas</b> are mound-like or hemispherical religious buildings. In Buddhism, circumambulation (pradakhshina) has been an important ritual and devotional practice since the earliest times, and stupas always have a pradakhshina path around them.
+
+  - icon: fa fa-circle-o-notch
+    number: 4
+    description: Remember that circumambulation (pradakhshina) around a <b>stupa</b> always has to be done clockwise.
+
+  - icon: fa fa-pagelines
+    number: 5
+    description: <b>Marigold</b> is also called Genda in Hindi and is a popular flower in Nepal and India, when it comes to weddings and several auspicious ceremonies especially. Also known as "herb of the sun", Marigolds symbolize passion and creativity - but auspiciousness and renunciation, too. Thus they're offered to God as a symbol of surrender, of trust in the divine.
+
+  - icon: fa fa-bullseye
+    number: 6
+    description: <b>Tilaka</b> is a mark worn by Hindi men. It is particularly diffused in India and Nepal. It is created by the application of powder or paste on skin, usually on the forehead.
+
+  - icon: fa fa-circle
+    number: 7
+    description: <b>Bindi</b> is a colored dot, usually red, originally worn by Hindus on the center of the forehead. The area between the eyebrows (where the bindi is placed) is said to be the sixth chakra, ajna, the seat of "concealed wisdom". Thus the bindi is said to retain energy and strengthen concentration. Also, it represents the third eye.
+
+  - icon: fa fa-tree
+    number: 8
+    description: <b>Christmas</b> is celebrated by the nepalese Christian minority, but it is mostly celebrated by and for tourists in Pokhara, which is indeed the most touristic city.
+
+  - icon: fa fa-female
+    number: 9
+    description: <b>Kumari</b> is the Living Goddess for Hindus, a young Newari girl living in Kathmandu. The word Kumari is derived from the Sanskrit Kaumarya, meaning "princess". You can visit the Kumari Ghar across Durbar Square, at Basantapur, where she resides and you may be in luck to catch a glimpse of this Goddess. When her first menstruation begins, it is believed that the goddess vacates her body. Serious illness or a major loss of blood from an injury also causes loss of deity.

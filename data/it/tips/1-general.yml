@@ -75,12 +75,8 @@ source:
     number: 17
     description: L'elettricità in Nepal è problematica. Non è raro assistere a dei <b>blackout</b>, non solo in piccoli villaggi ma anche a Kathmandu. Assicuratevi di avere una torcia sempre con voi.
 
-  - icon: fa fa-warning
-    number: 18
-    description: Le <b>mucche</b> sono animali sacri, quindi non possono essere nè uccise nè mangiate. È abbastanza frequente incontrarne qualcuna che vaga libera a Kathmandu.
-
   - icon: fa fa-paw
-    number: 19
+    number: 18
     description: >
       Le strade sono piene di <b>cani randagi</b> tanto che a un certo punto del vostro viaggio, vi ritroverete sicuramente seguiti da almeno uno di loro. I nepalesi non considerano i cani come animali domestici, e le ragioni di questo fatto non sono certe:
       <br> - perchè nell'indusimo si crede siano la reincarnazione di persone malvage;
@@ -89,9 +85,9 @@ source:
       <br> Ad ogni modo, gli induisti sostengono che questo loro odio verso i cani non sia reale e sia solo una leggenda, quindi non si esclude che la situazione dei cani randagi sia semplicemente dovuta ad un sovraffollamento e ad una riproduzione non controllata.
 
   - icon: fa fa-medkit
-    number: 20
+    number: 19
     description: Vi suggeriamo di prendere dei fermenti lattici prima del vostro arrivo in Nepal, diciamo per i 7-10 giorni che precedono la partenza. Inoltre, non dimenticatevi di portare con voi dei medicinali che prevengano o curino la <b>diarrea</b>, che si prende molto facilmente. I medicinali e gli antibiotici costano molto poco in Nepal, ma non contate su questo e fate scorta prima di partire, anche perchè non si trovano farmacie proprio ovunque.
 
   - icon: fa fa-child
-    number: 21
+    number: 20
     description: Potreste incontrare bambini che vi chiedono caramelle o cioccolato. Fate in modo di averne sempre un po' con voi.

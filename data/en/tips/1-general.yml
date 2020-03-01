@@ -75,12 +75,8 @@ source:
     number: 17
     description: Electricity in Nepal is quite weak. It's not rare to experience <b>blackouts</b>, not only in small villages but in Kathmandu too. Make sure to have a flashlight or torch packed in your backpack.
 
-  - icon: fa fa-warning
-    number: 18
-    description: <b>Cows</b> are sacred in the Country, so they can't be killed and eaten. It's not rare to find some walking free in Kathmandu.
-
   - icon: fa fa-paw
-    number: 19
+    number: 18
     description: >
       Streets are oh-so full of <b>stray dogs</b>. Some stray dog will probably even follow you at some point. People don't usually keep dogs as pets and reasons for that are uncertain:
       <br> - because they're seen as reincarnations of bad people by Hindu;
@@ -89,9 +85,9 @@ source:
       <br> However, Hindi say they do not actually hate or avoid dogs, so it is probably just a matter of overcrowd and uncontrolled reproduction.
 
   - icon: fa fa-medkit
-    number: 20
+    number: 19
     description: We do suggest to take lactic ferments before getting Nepal, let's say for 7-10 days before departure. Do not forget to bring some product to prevent or treat <b>diarrhea</b>, which is very common. Drugs and medicines are very cheap in Nepal, but do not rely too much on this because you won't find a drug-store anywhere.
 
   - icon: fa fa-child
-    number: 21
+    number: 20
     description: You might encounter children begging you for some candies or chocolate. Bring some with you for any eventuality.

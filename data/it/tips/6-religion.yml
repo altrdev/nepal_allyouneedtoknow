@@ -1,0 +1,37 @@
+name: Religione
+source:
+  - icon: fa fa-users
+    number: 1
+    description: La cultura nepalese è il risultato di diverse influenze e questo si riflette anche sulla <b>religione</b>. In Nepal ci sono induisti (81.3%), buddisti (9%), islamici (4,4%), kirat (3%) e cristiani (1.4%).
+
+  - icon: fa fa-warning
+    number: 2
+    description: Le <b>mucche</b> sono animali sacri, quindi non possono essere nè uccise nè mangiate. È abbastanza frequente incontrarne qualcuna che vaga libera a Kathmandu.
+
+  - icon: fa fa-chevron-circle-up
+    number: 3
+    description: Le <b>stupa</b> sono edifici religiosi semisferici. Nel Buddismo, un rituale antico è quello di camminare attorno alle stupa, in atto di devozione. Questa pratica si chiama 'pradakhshina' ed è il motivo per il quale attorno alle stupa c'è sempre una sorta di passerella.
+
+  - icon: fa fa-circle-o-notch
+    number: 4
+    description: Ricordate che la circumambulazione attorno ad una <b>stupa</b> (pradakhshina) va sempre eseguita in senso orario.
+
+  - icon: fa fa-pagelines
+    number: 5
+    description: Il <b>Marigold</b> (fiore di calendula), chiamato anche Genda in lingua Hindi, è un fiore molto popolare in Nepal ed India soprattutto durante i matrimoni ed altre ceremonie di buon auspicio. Anche conosciuti come "pianta del sole", i Marigold simboleggiano passione e creatività - ma anche buon auspicio e rinuncia, tant'è che vengono offerti a dio come simbolo di adorazione e fiducia nel divino.
+  
+  - icon: fa fa-bullseye
+    number: 6
+    description: Il <b>Tilaka</b> è un simbolo sfoggiato dagli uomini di religione Hindu. E' particolarmente diffuso in India e Nepal. Si disegna applicando polveri o paste direttamente sulla pelle, solitamente sulla fronte.
+
+  - icon: fa fa-circle
+    number: 7
+    description: Il <b>Bindi</b> è una decorazione per la fronte, indossata dalle donne, tradizionalmente di colore rosso. L'area fra le sopracciglia dove viene posizionato viene considerata il sesto chakra (ajna), la sede della "saggezza nascosta". Si crede che il bindi posizionato in quel punto possa trattenere l'energia. Inoltre, rappresenta anche il terzo occhio.
+  
+  - icon: fa fa-tree
+    number: 8
+    description: Il <b>Natale</b> viene festeggiato dalla minoranza di cristiani presenti in Nepal, ma è per lo più celebrato da e per i turisti a Pokhara, che è appunto la città più turistica.
+
+  - icon: fa fa-female
+    number: 9
+    description: La <b>Kumari</b> è la Dea vivente degli Hindu, ed è una bambina Newari residente in Nepal, a Kathmandu. Kumari ha letteralmente il significato di vergine, ad indicare la purezza della Dea. Si affaccia sulla Durbar Square nel pomeriggio alle 16, per salutare i fedeli. Verrà detronizzata all'arrivo della prima mestruazione o a seguito di perdite di sangue o malattie (basta il sangue di un piccolo graffio).
