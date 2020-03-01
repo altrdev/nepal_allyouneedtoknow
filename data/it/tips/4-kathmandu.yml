@@ -80,3 +80,7 @@ source:
   - icon: fa fa-chevron-circle-up
     number: 20
     description: <b>Swayambhu</b>, conosciuto anche come <b>Monkey temple</b> per le numerose scimmie che abitano l'area, è un'antica architettura religiosa situata in cima ad una collina nella valle di Kathmandu, ad ovest della capitale. Consigliamo di raggiungerla a piedi con una camminata di 40 minuti circa da Thamel, così da attraversare la periferia della capitale e prendere visione della vera vita nepalese.
+
+  - icon: fa fa-map marker
+    number: 21
+    description: Il <b>Tempio di Pashupatinath</b> si trova lungo il corso del fiume Bagmati, a Kathmandu, ed è consacrato al dio Pashupati, manifestazione di Śiva. I turisti non possono accedere al tempio, ma questo luogo è famoso soprattutto per le cerimonie funebri a cui si può assistere dalla sponda del fiume, con i cadaveri che vengono cremati sulle pire prima della dispersione delle ceneri nel Bagmati.

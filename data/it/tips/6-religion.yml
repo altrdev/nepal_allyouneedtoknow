@@ -35,3 +35,7 @@ source:
   - icon: fa fa-female
     number: 9
     description: La <b>Kumari</b> è la Dea vivente degli Hindu, ed è una bambina Newari residente in Nepal, a Kathmandu. Kumari ha letteralmente il significato di vergine, ad indicare la purezza della Dea. Si affaccia sulla Durbar Square nel pomeriggio alle 16, per salutare i fedeli. Verrà detronizzata all'arrivo della prima mestruazione o a seguito di perdite di sangue o malattie (basta il sangue di un piccolo graffio).
+
+  - icon: fa fa-fire
+    number: 10
+    description: Il <b>Tempio di Pashupatinath</b> è il tempio più importante per gli induisti, famoso per le cerimonie di cremazione che avvengono giornalmente sui ghat che si affacciano sul fiume sacro Bagmati. Gli induisti credono che solo mediante un corretto rito di cremazione al tempio, la loro anima potrà incarnarsi nuovamente. 

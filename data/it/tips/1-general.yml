@@ -91,3 +91,7 @@ source:
   - icon: fa fa-child
     number: 20
     description: Potreste incontrare bambini che vi chiedono caramelle o cioccolato. Fate in modo di averne sempre un po' con voi.
+
+  - icon: fa fa-calendar-o
+    number: 21
+    description: I Nepalesi seguono un loro proprio <b>calendario</b>, chiamato Bikram Era o Bikram Sambat. Il <b>Capodanno</b> è detto Nava Varsha e rappresenta una festa nazionale. Solitamente cade la seconda settimana di aprile. Il calendario nepalese è 56.7 anni avanti rispetto al nostro calendario Gregoriano.

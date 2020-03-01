@@ -91,3 +91,7 @@ source:
   - icon: fa fa-child
     number: 20
     description: You might encounter children begging you for some candies or chocolate. Bring some with you for any eventuality.
+
+  - icon: fa fa-calendar-o
+    number: 21
+    description: Nepali people follow their own <b>calendar system</b> known as the Bikram Era or Bikram Sambat. <b>New Year</b> is called Nava Varsha in Nepali language and is observed as an official holiday. The day usually falls in the second week of April. Bikram Sambat is 56.7 years ahead of the solar Gregorian calendar.
