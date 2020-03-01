@@ -74,3 +74,11 @@ source:
   - icon: fa fa-tint
     number: 17
     description: Portate sempre con voi almeno una borraccia e degli strumenti per il <b>filtraggio dell'acqua</b>. Noi abbiamo optato per una borraccia con filtro integrato, la <a href="https://amzn.to/2VkLeZ7" target="_blank">Grayl Geopress purifier</a>, ma potrebbero bastarvi anche sistemi di filtraggio più semplici, come <a href="https://amzn.to/32s4ANe" target="_blank">questi</a>.
+
+  - icon: fa fa-angle-double-up
+    number: 18
+    description: <b>Machapuchare</b> è probabilmente la vetta più conosciuta dell'Annapurna, chiamata anche <b>fishtale</b> (coda di pesce) per la forma della sua cima. E' una montagna sacra, quindi non è permesso portare e consumare cibo sulla via per la vetta. Inoltre, il governo Nepalese non rilascia nessun permesso per scalare questa cima. Per questo motivo il Machapuchare è una montagna mai scalata, almeno non ufficialmente...
+
+  - icon: fa fa-arrow-up
+    number: 19
+    description: Se volete incontrare gli <b>yak</b>, dovrete probabilmente superare i 4.000m di altitudine. Gli yak sono bovini dal pelo lungo tipici dell'altopiano del Tibet.
