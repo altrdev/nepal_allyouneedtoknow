@@ -36,8 +36,9 @@ enableRobotsTXT = true
   custom_css = []
   custom_js  = []
   metadata_allowed_blog = [ "in-depth", "approfondimenti" ]
-  amazon_affiliate = "true"
   ogimage = "media/bhaktapur-woman.jpg"
+
+  amazon_onelink = "cc22e468-e7ae-49ed-829b-801ad42bf7be"
   kofi = "allyouneedtoknowtips"
 
 [params.theme]
@@ -63,6 +64,10 @@ enableRobotsTXT = true
   Twitter   = "allyouneedtok"
   Instagram = "allyouneedtoknow.tips"
   Facebook  = "allyouneedtoknow.tips"
+
+[params.amazon_ads]
+  desktopBanner = "https://rcm-eu.amazon-adsystem.com/e/cm?o=29&p=13&l=ez&f=ifr&linkID=a71b03f072187eb4a2b6dae4dffffb5f&t=allyouneedt04-21&tracking_id=allyouneedt04-21"
+  mobileBanner = "https://rcm-eu.amazon-adsystem.com/e/cm?o=29&p=42&l=ez&f=ifr&linkID=ee890443a272fe5caee3fd8d6b35511f&t=allyouneedt04-21&tracking_id=allyouneedt04-21"
 
 ## Main Menu English
 [[languages.en.menu.main]]
