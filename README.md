@@ -45,7 +45,7 @@ cd git_hooks/
 
 ## License
 <p>
-  <a href="./LICENSE"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/642px-MIT_logo.svg.png" height="60px"></a>
+  <a href="./LICENSE"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/642px-MIT_logo.svg.png" height="60px" alt="license"></a>
 </p>
 
 [local]: http://localhost:1313/
