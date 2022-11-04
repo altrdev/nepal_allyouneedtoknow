@@ -1,5 +1,5 @@
 baseURL = "https://nepal.allyouneedtoknow.tips/"
-theme = "hugo-sustain-aynk"
+theme = ["hugo-sustain-aynk", "hugo-leaflet"]
 defaultContentLanguage = "en"
 languageCode = "en-US"
 title = "Nepal all you need to know"

@@ -2,3 +2,7 @@
 [submodule "themes/hugo-sustain-aynk"]
 	path = themes/hugo-sustain-aynk
 	url = https://github.com/altrdev/hugo-sustain-aynk.git
+	
+[submodule "themes/hugo-leaflet"]
+	path = themes/hugo-leaflet
+	url = https://github.com/altrdev/hugo-leaflet.git
